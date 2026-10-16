@@ -314,7 +314,7 @@
     "introducedRevision": 3,
     "franchiseCode": "HUNTER_HUNTER",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00"
   },
   {
     "code": "MY_HERO_ACADEMIA_2026",
@@ -616,7 +616,7 @@
     "introducedRevision": 3,
     "franchiseCode": "MY_HERO_ACADEMIA",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00"
   },
   {
     "code": "DEMON_SLAYER_OFFICIAL_2026",
@@ -855,7 +855,7 @@
     "introducedRevision": 2,
     "franchiseCode": "DEMON_SLAYER",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00"
   },
   {
     "code": "ATTACK_ON_TITAN_OFFICIAL_2026",
@@ -1097,7 +1097,7 @@
     "introducedRevision": 2,
     "franchiseCode": "ATTACK_ON_TITAN",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00"
   },
   {
     "code": "CHAINSAW_MAN_OFFICIAL_2026",
@@ -1365,7 +1365,7 @@
     "introducedRevision": 2,
     "franchiseCode": "CHAINSAW_MAN",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00"
   },
   {
     "code": "DRAGON_BALL",
@@ -1663,7 +1663,7 @@
     "introducedRevision": 1,
     "franchiseCode": "DRAGON_BALL",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00"
   },
   {
     "code": "ONE_PIECE",
@@ -1919,7 +1919,7 @@
     "introducedRevision": 1,
     "franchiseCode": "ONE_PIECE",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00"
   },
   {
     "code": "NARUTO",
@@ -2161,7 +2161,7 @@
     "introducedRevision": 1,
     "franchiseCode": "NARUTO",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00"
   },
   {
     "code": "JUJUTSU_KAISEN",
@@ -2450,7 +2450,7 @@
     "introducedRevision": 1,
     "franchiseCode": "JUJUTSU_KAISEN",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00"
   },
   {
     "code": "DEATH_NOTE_2025",
@@ -2711,7 +2711,7 @@
     "introducedRevision": 3,
     "franchiseCode": "DEATH_NOTE",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00"
   },
   {
     "code": "BLEACH_2026",
@@ -2975,7 +2975,7 @@
     "introducedRevision": 3,
     "franchiseCode": "BLEACH",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00"
   },
   {
     "code": "HAIKYU_2026",
@@ -3255,7 +3255,7 @@
     "introducedRevision": 3,
     "franchiseCode": "HAIKYU",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00"
   },
   {
     "code": "DRAGON_BALL_SPIRIT_2026",
@@ -3562,7 +3562,7 @@
     "introducedRevision": 3,
     "franchiseCode": "DRAGON_BALL",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00"
   },
   {
     "code": "ATTACK_ON_TITAN_HEARTS_2026",
@@ -3857,7 +3857,7 @@
     "introducedRevision": 3,
     "franchiseCode": "ATTACK_ON_TITAN",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00"
   },
   {
     "code": "NARUTO_HIDAN_KAKUZU_2026",
@@ -4087,7 +4087,7 @@
     "introducedRevision": 3,
     "franchiseCode": "NARUTO",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00"
   },
   {
     "code": "ONE_PIECE_SKY_SONG_2026",
@@ -4354,7 +4354,7 @@
     "introducedRevision": 3,
     "franchiseCode": "ONE_PIECE",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00"
   },
   {
     "code": "DEATH_NOTE_2_2027",
@@ -4452,7 +4452,7 @@
     "sampleAllocationMethod": "equal-80-demo",
     "retailers": "",
     "age": "",
-    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00"
   },
   {
     "code": "AUTO_KIMETSU31_9D73201302",
@@ -4483,7 +4483,7 @@
     "age": "",
     "copyright": "©吾峠呼世晴/集英社・アニプレックス・ufotable",
     "checkedAt": "2026-10-16",
-    "lastSyncedAt": "2026-10-16T16:53:20+09:00",
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
     "prizes": [],
     "gallery": [],
     "introducedRevision": 4
@@ -4517,7 +4517,7 @@
     "age": "",
     "copyright": "©芥見下々/集英社・呪術廻戦製作委員会",
     "checkedAt": "2026-10-16",
-    "lastSyncedAt": "2026-10-16T16:53:20+09:00",
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
     "prizes": [],
     "gallery": [],
     "introducedRevision": 4
@@ -4551,7 +4551,7 @@
     "age": "",
     "copyright": "©P1998-2027 ©V・N・M",
     "checkedAt": "2026-10-16",
-    "lastSyncedAt": "2026-10-16T16:53:20+09:00",
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
     "prizes": [],
     "gallery": [
       {
@@ -4602,7 +4602,7 @@
     "age": "",
     "copyright": "©尾田栄一郎/集英社・フジテレビ・東映アニメーション",
     "checkedAt": "2026-10-16",
-    "lastSyncedAt": "2026-10-16T16:53:20+09:00",
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -4683,7 +4683,7 @@
     "age": "",
     "copyright": "©P1998-2026 ©V・N・M",
     "checkedAt": "2026-10-16",
-    "lastSyncedAt": "2026-10-16T16:53:20+09:00",
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -4973,7 +4973,7 @@
     "age": "",
     "copyright": "©バード・スタジオ/集英社・東映アニメーション",
     "checkedAt": "2026-10-16",
-    "lastSyncedAt": "2026-10-16T16:53:20+09:00",
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -5036,7 +5036,7 @@
     "age": "",
     "copyright": "©堀越耕平/集英社・僕のヒーローアカデミア製作委員会",
     "checkedAt": "2026-10-16",
-    "lastSyncedAt": "2026-10-16T16:53:20+09:00",
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -5186,7 +5186,7 @@
     "age": "",
     "copyright": "©尾田栄一郎/集英社・フジテレビ・東映アニメーション",
     "checkedAt": "2026-10-16",
-    "lastSyncedAt": "2026-10-16T16:53:20+09:00",
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -5255,6 +5255,383 @@
         "selection": "unknown",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107206/71fcca9b-4e35-4924-b570-2030c27dcf34.webp",
         "imagePath": "/series/official/auto-onep106-9838a2ee1c/last-67d1d3a438e234ff.webp",
+        "sampleCount": 0,
+        "gallery": []
+      }
+    ],
+    "gallery": [],
+    "introducedRevision": 4
+  },
+  {
+    "code": "AUTO_DB_AC_2_C177AE1EAF",
+    "slug": "auto-db_ac-2-c177ae1eaf",
+    "franchiseCode": "DRAGON_BALL",
+    "nameKo": "一番くじ ドラゴンボール ASSEMBLE COLLECTION ～孫悟空少年期編～（再販売）",
+    "nameJp": "一番くじ ドラゴンボール ASSEMBLE COLLECTION ～孫悟空少年期編～（再販売）",
+    "productTitle": "一番くじ ドラゴンボール ASSEMBLE COLLECTION ～孫悟空少年期編～（再販売）",
+    "productTitleKo": "一番くじ ドラゴンボール ASSEMBLE COLLECTION ～孫悟空少年期編～（再販売）",
+    "frameColor": "#ea580c",
+    "sourceUrl": "https://1kuji.com/products/db_ac-2",
+    "releaseDate": "2027-01-16",
+    "releaseDatePrecision": "day",
+    "releaseDateText": "2027年01月16日(土)より順次発売予定",
+    "onlineReleaseDate": "",
+    "priceJpy": 900,
+    "samplePriceKrw": 12000,
+    "catalogStatus": "UPCOMING",
+    "prizeDetailsPending": true,
+    "sampleAllocation": true,
+    "sampleAllocationMethod": "equal-80-demo",
+    "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10823/789eb8c5-165a-42a6-9d00-6ee94445eb82.webp",
+    "posterPath": "/series/official/auto-db_ac-2-c177ae1eaf/poster-d65a99935dff149b.webp",
+    "summary": "공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다.",
+    "descriptionHtml": "<p>공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다.</p><p>원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
+    "onlineSourceUrl": "",
+    "retailers": "ローソンなど",
+    "age": "",
+    "copyright": "©バード・スタジオ/集英社・東映アニメーション",
+    "checkedAt": "2026-10-16",
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "prizes": [],
+    "gallery": [],
+    "introducedRevision": 4
+  },
+  {
+    "code": "AUTO_ONEP107_B72A2E32C2",
+    "slug": "auto-onep107-b72a2e32c2",
+    "franchiseCode": "ONE_PIECE",
+    "nameKo": "一番くじ ワンピース メモリーオブヒロインズ -Royal Princess-",
+    "nameJp": "一番くじ ワンピース メモリーオブヒロインズ -Royal Princess-",
+    "productTitle": "一番くじ ワンピース メモリーオブヒロインズ -Royal Princess-",
+    "productTitleKo": "一番くじ ワンピース メモリーオブヒロインズ -Royal Princess-",
+    "frameColor": "#0369a1",
+    "sourceUrl": "https://1kuji.com/products/onep107",
+    "releaseDate": "2027-02-05",
+    "releaseDatePrecision": "day",
+    "releaseDateText": "2027年02月05日(金)より順次発売予定",
+    "onlineReleaseDate": "",
+    "priceJpy": 790,
+    "samplePriceKrw": 12000,
+    "catalogStatus": "UPCOMING",
+    "prizeDetailsPending": false,
+    "sampleAllocation": true,
+    "sampleAllocationMethod": "equal-80-demo",
+    "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10833/b308c968-f1d9-4ec1-a774-45d9b899d8ab.webp",
+    "posterPath": "/series/official/auto-onep107-b72a2e32c2/poster-8563f0729aa6d975.webp",
+    "summary": "공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다.",
+    "descriptionHtml": "<p>공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다.</p><p>원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
+    "onlineSourceUrl": "",
+    "retailers": "一番くじONLINE、一番くじ公式ショップ、麦わらストアなど",
+    "age": "",
+    "copyright": "©尾田栄一郎/集英社・フジテレビ・東映アニメーション",
+    "checkedAt": "2026-10-16",
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "prizes": [
+      {
+        "letter": "A",
+        "name": "ネフェルタリ・ビビ MASTERLISE EXPIECE",
+        "nameKo": "ネフェルタリ・ビビ MASTERLISE EXPIECE",
+        "description": "공식 공개 경품. 총 1종 · 約20cm",
+        "size": "約20cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107345/dfd9c3a1-f350-4d05-ae24-2ac651f3271a.webp",
+        "imagePath": "/series/official/auto-onep107-b72a2e32c2/a-18871708923d7685.webp",
+        "sampleCount": 20,
+        "gallery": []
+      },
+      {
+        "letter": "B",
+        "name": "レベッカ MASTERLISE EXPIECE",
+        "nameKo": "レベッカ MASTERLISE EXPIECE",
+        "description": "공식 공개 경품. 총 1종 · 約21cm",
+        "size": "約21cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107346/a71b5098-5f62-420a-9132-05ac7b6bdf16.webp",
+        "imagePath": "/series/official/auto-onep107-b72a2e32c2/b-ae0ef1d45756616e.webp",
+        "sampleCount": 20,
+        "gallery": []
+      },
+      {
+        "letter": "C",
+        "name": "ヴィンスモーク・レイジュ MASTERLISE EXPIECE",
+        "nameKo": "ヴィンスモーク・レイジュ MASTERLISE EXPIECE",
+        "description": "공식 공개 경품. 총 1종 · 約21cm",
+        "size": "約21cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107347/645caecd-78d3-4dc5-a1ac-07ce3118ab8d.webp",
+        "imagePath": "/series/official/auto-onep107-b72a2e32c2/c-0d6552a9d0bbb51c.webp",
+        "sampleCount": 20,
+        "gallery": []
+      },
+      {
+        "letter": "D",
+        "name": "ジュエリー・ボニー MASTERLISE EXPIECE",
+        "nameKo": "ジュエリー・ボニー MASTERLISE EXPIECE",
+        "description": "공식 공개 경품. 총 1종 · 約10cm",
+        "size": "約10cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107348/330a560c-237a-4bda-9c2d-4c8d90e54209.webp",
+        "imagePath": "/series/official/auto-onep107-b72a2e32c2/d-518c3fbcccd4094d.webp",
+        "sampleCount": 20,
+        "gallery": []
+      },
+      {
+        "letter": "LAST",
+        "name": "しらほし MASTERLISE EXTRA",
+        "nameKo": "しらほし MASTERLISE EXTRA",
+        "description": "공식 공개 경품. 종류 수 미공개 · 約22cm",
+        "size": "約22cm",
+        "variants": "종류 수 미공개",
+        "variantCount": null,
+        "selection": "unknown",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107349/b5bd40a4-c756-4733-a856-05a96623baa1.webp",
+        "imagePath": "/series/official/auto-onep107-b72a2e32c2/last-012cbede9505db02.webp",
+        "sampleCount": 0,
+        "gallery": []
+      }
+    ],
+    "gallery": [],
+    "introducedRevision": 4
+  },
+  {
+    "code": "AUTO_DB_DO_06FE9841A7",
+    "slug": "auto-db_do-06fe9841a7",
+    "franchiseCode": "DRAGON_BALL",
+    "nameKo": "一番くじ ドラゴンボール DRAGON OMNIBUS～神と神の闘い～",
+    "nameJp": "一番くじ ドラゴンボール DRAGON OMNIBUS～神と神の闘い～",
+    "productTitle": "一番くじ ドラゴンボール DRAGON OMNIBUS～神と神の闘い～",
+    "productTitleKo": "一番くじ ドラゴンボール DRAGON OMNIBUS～神と神の闘い～",
+    "frameColor": "#ea580c",
+    "sourceUrl": "https://1kuji.com/products/db_do",
+    "releaseDate": "2027-02-06",
+    "releaseDatePrecision": "day",
+    "releaseDateText": "2027年02月06日(土)より順次発売予定",
+    "onlineReleaseDate": "",
+    "priceJpy": 800,
+    "samplePriceKrw": 12000,
+    "catalogStatus": "UPCOMING",
+    "prizeDetailsPending": false,
+    "sampleAllocation": true,
+    "sampleAllocationMethod": "equal-80-demo",
+    "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10837/690cd4a7-124e-4270-ad6c-12b886526828.png",
+    "posterPath": "/series/official/auto-db_do-06fe9841a7/poster-6aa67e84896a3ebd.png",
+    "summary": "공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다.",
+    "descriptionHtml": "<p>공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다.</p><p>원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
+    "onlineSourceUrl": "",
+    "retailers": "",
+    "age": "",
+    "copyright": "©バード・スタジオ/集英社・東映アニメーション",
+    "checkedAt": "2026-10-16",
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "prizes": [
+      {
+        "letter": "A",
+        "name": "超サイヤ人ゴッド孫悟空 MASTERLISE",
+        "nameKo": "超サイヤ人ゴッド孫悟空 MASTERLISE",
+        "description": "공식 공개 경품. 총 1종 · 約25cm",
+        "size": "約25cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107250/c4ed2ac0-2b95-4680-8f0e-902d304d206a.webp",
+        "imagePath": "/series/official/auto-db_do-06fe9841a7/a-8cc2e0fe2020e945.webp",
+        "sampleCount": 16,
+        "gallery": []
+      },
+      {
+        "letter": "B",
+        "name": "破壊神ビルス MASTERLISE",
+        "nameKo": "破壊神ビルス MASTERLISE",
+        "description": "공식 공개 경품. 총 1종 · 約22cm",
+        "size": "約22cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107251/006553e3-78c1-4dac-8d89-20534604a675.webp",
+        "imagePath": "/series/official/auto-db_do-06fe9841a7/b-916c1875ed4a32ca.webp",
+        "sampleCount": 16,
+        "gallery": []
+      },
+      {
+        "letter": "C",
+        "name": "ウイス MASTERLISE",
+        "nameKo": "ウイス MASTERLISE",
+        "description": "공식 공개 경품. 총 1종 · 約25cm",
+        "size": "約25cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107252/b8f71004-925d-4ec5-a041-9ad00ba9cbe1.webp",
+        "imagePath": "/series/official/auto-db_do-06fe9841a7/c-7d1cad0513e17695.webp",
+        "sampleCount": 16,
+        "gallery": []
+      },
+      {
+        "letter": "D",
+        "name": "アルティメット悟飯 MASTERLISE",
+        "nameKo": "アルティメット悟飯 MASTERLISE",
+        "description": "공식 공개 경품. 총 1종 · 約25cm",
+        "size": "約25cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107253/2e12ce10-2fdb-432b-ac7f-b95587519425.webp",
+        "imagePath": "/series/official/auto-db_do-06fe9841a7/d-f913561d3e57956b.webp",
+        "sampleCount": 16,
+        "gallery": []
+      },
+      {
+        "letter": "E",
+        "name": "超サイヤ人3ゴテンクス MASTERLISE",
+        "nameKo": "超サイヤ人3ゴテンクス MASTERLISE",
+        "description": "공식 공개 경품. 총 1종 · 約17cm",
+        "size": "約17cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107254/083432e6-6b0c-4805-bddd-8c8e759dc186.webp",
+        "imagePath": "/series/official/auto-db_do-06fe9841a7/e-e15f19e6b07b99d5.webp",
+        "sampleCount": 16,
+        "gallery": []
+      },
+      {
+        "letter": "LAST",
+        "name": "親子かめはめ波 MASTERLISE PLUS",
+        "nameKo": "親子かめはめ波 MASTERLISE PLUS",
+        "description": "공식 공개 경품. 종류 수 미공개 · 孫悟空 約17cm、孫悟飯 約13.5cm",
+        "size": "孫悟空 約17cm、孫悟飯 約13.5cm",
+        "variants": "종류 수 미공개",
+        "variantCount": null,
+        "selection": "unknown",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107255/a9919993-2574-47dd-b268-8d19adf78c33.webp",
+        "imagePath": "/series/official/auto-db_do-06fe9841a7/last-d070179a0f0eafc0.webp",
+        "sampleCount": 0,
+        "gallery": []
+      }
+    ],
+    "gallery": [],
+    "introducedRevision": 4
+  },
+  {
+    "code": "AUTO_MYHERO49_D5AD0377D3",
+    "slug": "auto-myhero49-d5ad0377d3",
+    "franchiseCode": "MY_HERO_ACADEMIA",
+    "nameKo": "一番くじ 僕のヒーローアカデミア -うなれ体育祭-",
+    "nameJp": "一番くじ 僕のヒーローアカデミア -うなれ体育祭-",
+    "productTitle": "一番くじ 僕のヒーローアカデミア -うなれ体育祭-",
+    "productTitleKo": "一番くじ 僕のヒーローアカデミア -うなれ体育祭-",
+    "frameColor": "#166534",
+    "sourceUrl": "https://1kuji.com/products/myhero49",
+    "releaseDate": "2027-02-13",
+    "releaseDatePrecision": "day",
+    "releaseDateText": "2027年02月13日(土)より順次発売予定",
+    "onlineReleaseDate": "",
+    "priceJpy": 790,
+    "samplePriceKrw": 12000,
+    "catalogStatus": "UPCOMING",
+    "prizeDetailsPending": false,
+    "sampleAllocation": true,
+    "sampleAllocationMethod": "equal-80-demo",
+    "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10825/d6e16ddf-3cb9-4ceb-8f5f-cf2faa9b9b1e.webp",
+    "posterPath": "/series/official/auto-myhero49-d5ad0377d3/poster-541ae56333dca72c.webp",
+    "summary": "공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다.",
+    "descriptionHtml": "<p>공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다.</p><p>원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
+    "onlineSourceUrl": "",
+    "retailers": "",
+    "age": "",
+    "copyright": "©堀越耕平/集英社・僕のヒーローアカデミア製作委員会",
+    "checkedAt": "2026-10-16",
+    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "prizes": [
+      {
+        "letter": "A",
+        "name": "爆豪勝己 MASTERLISE",
+        "nameKo": "爆豪勝己 MASTERLISE",
+        "description": "공식 공개 경품. 총 1종 · 約21cm",
+        "size": "約21cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107314/d3f1ef85-2c36-4616-b4bc-8decd159f6a0.webp",
+        "imagePath": "/series/official/auto-myhero49-d5ad0377d3/a-296d2ab66708e3e7.webp",
+        "sampleCount": 16,
+        "gallery": []
+      },
+      {
+        "letter": "B",
+        "name": "常闇踏陰 MASTERLISE",
+        "nameKo": "常闇踏陰 MASTERLISE",
+        "description": "공식 공개 경품. 총 1종 · 約22cm",
+        "size": "約22cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107315/e743f98d-f3bb-4ffd-aa93-584273115bc5.webp",
+        "imagePath": "/series/official/auto-myhero49-d5ad0377d3/b-70608f1fbf2a7fd4.webp",
+        "sampleCount": 16,
+        "gallery": []
+      },
+      {
+        "letter": "C",
+        "name": "緑谷出久 MASTERLISE",
+        "nameKo": "緑谷出久 MASTERLISE",
+        "description": "공식 공개 경품. 총 1종 · 約16cm",
+        "size": "約16cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107316/b188154b-8e73-40ab-b866-39d404b34cf0.webp",
+        "imagePath": "/series/official/auto-myhero49-d5ad0377d3/c-4e55470af8603af2.webp",
+        "sampleCount": 16,
+        "gallery": []
+      },
+      {
+        "letter": "D",
+        "name": "エンデヴァー MASTERLISE EXTRA",
+        "nameKo": "エンデヴァー MASTERLISE EXTRA",
+        "description": "공식 공개 경품. 총 1종 · 約29cm",
+        "size": "約29cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107373/faeb2451-167e-43db-bbe8-3a531f8039a0.webp",
+        "imagePath": "/series/official/auto-myhero49-d5ad0377d3/d-db95007914e62528.webp",
+        "sampleCount": 16,
+        "gallery": []
+      },
+      {
+        "letter": "E",
+        "name": "しょうと：オリジン MASTERLISE",
+        "nameKo": "しょうと：オリジン MASTERLISE",
+        "description": "공식 공개 경품. 총 1종 · 約11cm",
+        "size": "約11cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107374/332198b6-52dd-4f58-9ded-ff2c61793350.webp",
+        "imagePath": "/series/official/auto-myhero49-d5ad0377d3/e-98af20066cef1b44.webp",
+        "sampleCount": 16,
+        "gallery": []
+      },
+      {
+        "letter": "LAST",
+        "name": "轟焦凍 MASTERLISE",
+        "nameKo": "轟焦凍 MASTERLISE",
+        "description": "공식 공개 경품. 종류 수 미공개 · 頭頂まで 約18cm",
+        "size": "頭頂まで 約18cm",
+        "variants": "종류 수 미공개",
+        "variantCount": null,
+        "selection": "unknown",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107317/5d09b5bd-ee55-40fa-8ffd-cb1ebcae0ac5.webp",
+        "imagePath": "/series/official/auto-myhero49-d5ad0377d3/last-2ba186cc5a99da1a.webp",
         "sampleCount": 0,
         "gallery": []
       }
