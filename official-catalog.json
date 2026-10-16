@@ -25,7 +25,7 @@
     "checkedAt": "2026-10-16",
     "descriptionHtml": "<p>그리드 아일랜드의 바인더·반지와 곤·키르아·히소카·레이저·고레이누 피규어, 실제 게임 카드 형태의 굿즈 구성입니다.</p><p>공식 상품의 포스터와 경품 정보입니다. 원화 가격·판별 수량·뽑기는 체험용 예시이며 실제 판매처 재고와 연동되지 않습니다.</p>",
     "age": "",
-    "retailers": "패밀리마트, 서점, 하비샵, 제일복권 공식샵 등",
+    "retailers": "ファミリーマート、書店、ホビーショップ、一番くじ公式ショップなど",
     "onlineSaleEndedAt": "",
     "additionalSources": [
       "https://www.bandaispirits.co.jp/products/search/detail.php?grp_id=9999&prd_id=hxh11"
@@ -54,7 +54,7 @@
         "name": "G.I. バインダー＆指輪 MASTERELIVE COLLECTION",
         "nameKo": "G.I. 바인더 & 반지 MASTERELIVE COLLECTION",
         "description": "작중 바인더와 반지를 재현했으며 K·L상 카드를 바인더에 수납할 수 있습니다.",
-        "size": "바인더 약 30cm · 반지 약 2cm",
+        "size": "バインダー 約30cm、指輪 約2cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -77,8 +77,8 @@
         "name": "ゴン MASTERLISE",
         "nameKo": "곤 MASTERLISE",
         "description": "피구전과 겐스루전의 곤을 각각 표현한 약 15cm 피규어 2종입니다.",
-        "size": "약 15cm",
-        "variants": "총 2종 · 디자인 선택 불가",
+        "size": "約15cm",
+        "variants": "총 2종 · 무작위 디자인",
         "variantCount": 2,
         "selection": "blind",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106317/64dc9bdd-5ab0-4a40-92f0-577fd423db68.webp",
@@ -100,7 +100,7 @@
         "name": "キルア MASTERLISE",
         "nameKo": "키르아 MASTERLISE",
         "description": "그리드 아일랜드편 키르아의 역동적인 자세를 약 19cm로 구현했습니다.",
-        "size": "약 19cm",
+        "size": "約19cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -114,8 +114,8 @@
         "name": "ヒソカ MASTERLISE",
         "nameKo": "히소카 MASTERLISE",
         "description": "머리를 올린 모습과 내린 모습을 각각 담은 히소카 피규어 2종입니다.",
-        "size": "약 26cm",
-        "variants": "총 2종 · 디자인 선택 불가",
+        "size": "約26cm",
+        "variants": "총 2종 · 무작위 디자인",
         "variantCount": 2,
         "selection": "blind",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106319/a5215f0f-0e6d-491a-ada6-b14e0af036df.webp",
@@ -137,7 +137,7 @@
         "name": "レイザー MASTERLISE EXTRA",
         "nameKo": "레이저 MASTERLISE EXTRA",
         "description": "게임 마스터 레이저의 근육과 자세를 약 28cm 피규어로 담았습니다.",
-        "size": "약 28cm",
+        "size": "約28cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -151,7 +151,7 @@
         "name": "ゴレイヌ MASTERLISE",
         "nameKo": "고레이누 MASTERLISE",
         "description": "고레이누의 헤어스타일과 체격을 재현한 약 25cm 피규어입니다.",
-        "size": "약 25cm",
+        "size": "約25cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -165,7 +165,7 @@
         "name": "指定ポケットカード『No.084 聖騎士の首飾り』 MASTERELIVE COLLECTION",
         "nameKo": "지정 포켓 카드 No.084 성기사의 목걸이 MASTERELIVE COLLECTION",
         "description": "그리드 아일랜드의 성기사 목걸이를 금속 소재의 약 4cm 소품으로 재현했습니다.",
-        "size": "약 4cm",
+        "size": "約4cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -179,7 +179,7 @@
         "name": "大皿",
         "nameKo": "대접시",
         "description": "그리드 아일랜드의 식당을 모티브로 한 약 19cm 대접시입니다.",
-        "size": "약 19cm",
+        "size": "約19cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -193,8 +193,8 @@
         "name": "デスクトップマスコット",
         "nameKo": "데스크톱 마스코트",
         "description": "작중 인물과 아이템을 모티브로 한 약 4~5cm 미니 소품 7종입니다.",
-        "size": "약 4～5cm",
-        "variants": "총 7종 · 디자인 선택 불가",
+        "size": "約4~5cm",
+        "variants": "총 7종 · 무작위 디자인",
         "variantCount": 7,
         "selection": "blind",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106931/76584b44-da18-4227-bc62-b74692b6a4fb.webp",
@@ -216,7 +216,7 @@
         "name": "ラバーコレクション",
         "nameKo": "러버 컬렉션",
         "description": "실리콘 덮개·스탠드·타이·클립·참으로 구성된 러버 소품 13종입니다.",
-        "size": "실리콘 덮개 약 4cm(피규어 부분) · 러버 스탠드 약 8.5cm · 러버 타이 약 14cm · 러버 클립 약 5cm · 러버 참 약 6cm",
+        "size": "シリコン蓋 約4cm(フィギュア部分)、ラバースタンド 約8.5cm、ラバータイ 約14cm、ラバークリップ 約5cm、ラバーチャーム 約6cm",
         "variants": "총 13종 · 디자인 선택 가능",
         "variantCount": 13,
         "selection": "choose",
@@ -239,8 +239,8 @@
         "name": "G.I. 呪文カード MASTERELIVE COLLECTION",
         "nameKo": "G.I. 주문 카드 MASTERELIVE COLLECTION",
         "description": "총 40종의 주문 카드 디자인을 수록한 3장 세트 14종이며 S랭크 카드는 반짝이는 사양입니다.",
-        "size": "약 8cm(3장 세트)",
-        "variants": "총 14종 · 디자인 선택 불가",
+        "size": "約8cm(3枚セット)",
+        "variants": "총 14종 · 무작위 디자인",
         "variantCount": 14,
         "selection": "blind",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106933/d86f48b9-0d96-4cf3-a28b-3380ed7bc5a4.webp",
@@ -262,8 +262,8 @@
         "name": "G.I. 指定ポケットカード MASTERELIVE COLLECTION",
         "nameKo": "G.I. 지정 포켓 카드 MASTERELIVE COLLECTION",
         "description": "총 99종의 지정 포켓 카드를 수록한 3장 세트 33종이며 SS·S랭크는 반짝이는 사양입니다.",
-        "size": "약 8cm(3장 세트)",
-        "variants": "총 33종 · 디자인 선택 불가",
+        "size": "約8cm(3枚セット)",
+        "variants": "총 33종 · 무작위 디자인",
         "variantCount": 33,
         "selection": "blind",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106934/2e8bfd88-42b5-44d7-947a-b9e2b0a21028.webp",
@@ -285,7 +285,7 @@
         "name": "ビスケット=クルーガー MASTERLISE EXTRA",
         "nameKo": "비스켓 크루거 MASTERLISE EXTRA",
         "description": "본래의 근육질 모습으로 돌아온 비스켓 크루거를 약 30cm로 담은 라스트원 피규어입니다.",
-        "size": "약 30cm(머리 꼭대기까지)",
+        "size": "約30cm(頭頂まで)",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -296,10 +296,10 @@
       }
     ],
     "doubleChance": {
-      "name": "G.I. 바인더 & 반지 & 카드 MASTERELIVE COLLECTION",
+      "name": "G.I. バインダー&指輪&カード MASTERELIVE COLLECTION",
       "nameJp": "G.I. バインダー＆指輪＆カード MASTERELIVE COLLECTION",
-      "description": "바인더·반지와 No.000 지배자의 축복 카드를 별도 응모 경품으로 제공합니다. 공식 당첨 수는 50개입니다.",
-      "deadline": "2026-11-30",
+      "description": "공식 별도 캠페인 당첨 수 50개. 이 프로그램에서는 응모를 제공하지 않습니다.",
+      "deadline": "キャンペーン期間: 発売日~2026年11月末日",
       "awardCount": 50,
       "imageUrl": "https://assets.1kuji.com/uploads/campaign/image/11442/f6aa7609-c675-4075-8a41-69218e18a831.webp",
       "imagePath": "/series/official/hunter-greed-island-2-2026/double-chance.webp"
@@ -307,11 +307,14 @@
     "franchiseKo": "헌터×헌터",
     "franchiseJp": "HUNTER×HUNTER",
     "releaseDatePrecision": "day",
-    "releaseDateText": "2026.08.29 일본 매장 발매",
+    "releaseDateText": "2026年08月29日(土)より順次発売予定",
     "catalogStatus": "ON_SALE",
     "prizeDetailsPending": false,
     "sampleAllocation": true,
-    "introducedRevision": 3
+    "introducedRevision": 3,
+    "franchiseCode": "HUNTER_HUNTER",
+    "sampleAllocationMethod": "equal-80-demo",
+    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
   },
   {
     "code": "MY_HERO_ACADEMIA_2026",
@@ -335,11 +338,11 @@
     "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10705/8352ac07-4433-42f3-8bfa-26da2c92f163.png",
     "posterPath": "/series/official/my-hero-origin-story-2026/poster-wide.png",
     "summary": "애니메이션 1기의 미도리야와 올마이트, 유에이 고교 인물·소품과 애니메이션 10주년 기념 경품을 구성했습니다.",
-    "copyright": "©堀越耕平／集英社・僕のヒーローアカデミア製作委員会",
+    "copyright": "©堀越耕平/集英社・僕のヒーローアカデミア製作委員会",
     "checkedAt": "2026-10-16",
     "descriptionHtml": "<p>애니메이션 1기의 미도리야와 올마이트, 유에이 고교 인물·소품과 애니메이션 10주년 기념 경품을 구성했습니다.</p><p>공식 상품의 포스터와 경품 정보입니다. 원화 가격·판별 수량·뽑기는 체험용 예시이며 실제 판매처 재고와 연동되지 않습니다.</p>",
     "age": "",
-    "retailers": "패밀리마트, 서점, 하비샵, 제일복권 공식샵, 제일복권 ONLINE 등",
+    "retailers": "ファミリーマート、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなど",
     "onlineSaleEndedAt": "",
     "additionalSources": [
       "https://www.bandaispirits.co.jp/products/search/detail.php?grp_id=9999&prd_id=myhero47"
@@ -368,7 +371,7 @@
         "name": "緑谷出久＆オールマイト MASTERLISE PLUS",
         "nameKo": "미도리야 이즈쿠 & 올마이트 MASTERLISE PLUS",
         "description": "애니메이션 1기의 명장면을 담은 미도리야와 올마이트 피규어 2개 세트입니다.",
-        "size": "올마이트 약 27cm · 미도리야 이즈쿠 약 5cm",
+        "size": "オールマイト 約27cm、緑谷出久 約5cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -391,7 +394,7 @@
         "name": "爆豪勝己 MASTERLISE",
         "nameKo": "바쿠고 카츠키 MASTERLISE",
         "description": "유에이 고교 교복을 입은 바쿠고를 약 24cm 피규어로 담았습니다.",
-        "size": "약 24cm",
+        "size": "約24cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -414,7 +417,7 @@
         "name": "相澤消太 MASTERLISE",
         "nameKo": "아이자와 쇼타 MASTERLISE",
         "description": "아이자와의 시선과 포박포를 재현한 약 26cm 피규어입니다.",
-        "size": "약 26cm",
+        "size": "約26cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -437,7 +440,7 @@
         "name": "根津校長 MASTERLISE",
         "nameKo": "네즈 교장 MASTERLISE",
         "description": "네즈 교장을 약 12cm MASTERLISE 피규어로 구현했습니다.",
-        "size": "약 12cm",
+        "size": "約12cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -460,7 +463,7 @@
         "name": "いずく：オリジン MASTERLISE",
         "nameKo": "이즈쿠: 오리진 MASTERLISE",
         "description": "히어로를 동경하는 어린 이즈쿠의 모습을 의자와 함께 담았습니다.",
-        "size": "본체 약 7cm(의자 포함 약 17cm)",
+        "size": "本体 約7cm(椅子含めて 約17cm)",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -483,7 +486,7 @@
         "name": "オールマイト人形フィギュア MASTERELIVE COLLECTION",
         "nameKo": "올마이트 인형 피규어 MASTERELIVE COLLECTION",
         "description": "어린 이즈쿠가 아끼던 올마이트 인형을 약 15cm 소품 피규어로 재현했습니다.",
-        "size": "약 15cm",
+        "size": "約15cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -506,8 +509,8 @@
         "name": "A組集合アクリルスタンド ～ここが、僕たちのヒーローアカデミア。～",
         "nameKo": "A반 집합 아크릴 스탠드 ~여기가 우리의 히어로 아카데미아~",
         "description": "최종 결전 이후 에필로그 비주얼을 활용한 아크릴 스탠드 24종입니다.",
-        "size": "약 7～14cm",
-        "variants": "총 24종 · 디자인 선택 불가",
+        "size": "約7~14cm",
+        "variants": "총 24종 · 무작위 디자인",
         "variantCount": 24,
         "selection": "blind",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106921/cfbf6da4-34ab-4665-9096-a1dcbb5e98a2.webp",
@@ -529,7 +532,7 @@
         "name": "雄英アイテムコレクション",
         "nameKo": "유에이 아이템 컬렉션",
         "description": "학생수첩 모양 케이스와 핀 배지 등 유에이 고교 테마 소품 7종입니다.",
-        "size": "학생수첩 모양 케이스 약 11cm · 핀 배지 약 1.5cm",
+        "size": "生徒手帳風ケース 約11cm、ピンバッジ 約1.5cm",
         "variants": "총 7종 · 디자인 선택 가능",
         "variantCount": 7,
         "selection": "choose",
@@ -552,7 +555,7 @@
         "name": "ステーショナリーコレクション",
         "nameKo": "문구 컬렉션",
         "description": "메모장·엽서·학생증 모양 카드로 구성된 문구 세트 8종입니다.",
-        "size": "메모장 약 8cm · 엽서 약 14cm(3장 세트) · 학생증 모양 카드 약 8cm(5장 세트)",
+        "size": "メモ帳 約8cm、ポストカード 約14cm(3枚セット)、学生証風カード 約8cm(5枚セット)",
         "variants": "총 8종 · 디자인 선택 가능",
         "variantCount": 8,
         "selection": "choose",
@@ -575,7 +578,7 @@
         "name": "緑谷出久-10th ANNIVERSARY- MASTERLISE",
         "nameKo": "미도리야 이즈쿠 -10th ANNIVERSARY- MASTERLISE",
         "description": "애니메이션 10주년 로고를 모티브로 한 약 21cm 미도리야 라스트원 피규어입니다.",
-        "size": "약 21cm",
+        "size": "約21cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -595,10 +598,10 @@
       }
     ],
     "doubleChance": {
-      "name": "미도리야 이즈쿠 -10th ANNIVERSARY- MASTERLISE",
+      "name": "緑谷出久-10th ANNIVERSARY- MASTERLISE",
       "nameJp": "緑谷出久-10th ANNIVERSARY- MASTERLISE",
-      "description": "라스트원과 동일한 10주년 기념 미도리야 피규어를 별도 응모로 제공합니다. 공식 당첨 수는 50개입니다.",
-      "deadline": "2026-12-31",
+      "description": "공식 별도 캠페인 당첨 수 50개. 이 프로그램에서는 응모를 제공하지 않습니다.",
+      "deadline": "キャンペーン期間: 発売日~2026年12月末日",
       "awardCount": 50,
       "imageUrl": "https://assets.1kuji.com/uploads/campaign/image/11437/fa98fbb8-d687-4a3f-9f2e-b334ece223e1.webp",
       "imagePath": "/series/official/my-hero-origin-story-2026/double-chance.webp"
@@ -606,11 +609,14 @@
     "franchiseKo": "나의 히어로 아카데미아",
     "franchiseJp": "僕のヒーローアカデミア",
     "releaseDatePrecision": "day",
-    "releaseDateText": "2026.09.12 일본 매장 발매",
+    "releaseDateText": "2026年09月12日(土)より順次発売予定",
     "catalogStatus": "ON_SALE",
     "prizeDetailsPending": false,
     "sampleAllocation": true,
-    "introducedRevision": 3
+    "introducedRevision": 3,
+    "franchiseCode": "MY_HERO_ACADEMIA",
+    "sampleAllocationMethod": "equal-80-demo",
+    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
   },
   {
     "code": "DEMON_SLAYER_OFFICIAL_2026",
@@ -625,15 +631,15 @@
     "priceJpy": 850,
     "samplePriceKrw": 12000,
     "sourceUrl": "https://1kuji.com/products/kimetsu30",
-    "onlineSourceUrl": "https://on-line.1kuji.com/Form/Product/ProductDetail.aspx?bid=IP00002034&pid=9057378&shop=0",
+    "onlineSourceUrl": "https://on-line.1kuji.com/Form/Product/ProductDetail.aspx?pid=9057378&bid=IP00002034",
     "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10703/bcff45e9-dba8-4c98-83e4-443bbcc36c65.webp",
     "posterPath": "/series/official/demon-slayer-upper-two-2026/poster-wide.webp",
     "summary": "상현의 이 도우마와 시노부·카나오의 피규어, 탄지로·기유 미니 피규어와 작품 비주얼 굿즈 구성.",
-    "copyright": "©吾峠呼世晴／集英社・アニプレックス・ufotable",
+    "copyright": "©吾峠呼世晴/集英社・アニプレックス・ufotable",
     "checkedAt": "2026-10-16",
     "descriptionHtml": "<p>상현의 이 도우마와 시노부·카나오의 피규어, 탄지로·기유 미니 피규어와 작품 비주얼 굿즈 구성.</p><p>공식 발매 상품의 포스터와 경품 정보를 아래에서 확인하세요. 원화 가격과 판별 수량은 체험용 예시입니다.</p>",
     "age": "15세 이상",
-    "retailers": "제일복권 ONLINE, 제일복권 공식 숍",
+    "retailers": "一番くじONLINE、一番くじ公式ショップ",
     "onlineSaleEndedAt": "2026-07-31T04:50:00+09:00",
     "additionalSources": [
       "https://www.bandaispirits.co.jp/products/search/detail.php?grp_id=9999&prd_id=kimetsu30",
@@ -655,22 +661,6 @@
       {
         "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2688/f9ca2956-c7db-4652-8ae0-93c1ad13872c.webp",
         "imagePath": "/series/official/demon-slayer-upper-two-2026/gallery-4.webp"
-      },
-      {
-        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2689/b2161036-8fad-452c-94e2-fdcaf51644f8.webp",
-        "imagePath": "/series/official/demon-slayer-upper-two-2026/gallery-5.webp"
-      },
-      {
-        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2690/d1c0369a-e4e6-4e55-8fe7-051897eaf681.webp",
-        "imagePath": "/series/official/demon-slayer-upper-two-2026/gallery-6.webp"
-      },
-      {
-        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2691/3e5f7560-b7c7-4f45-9714-eb3367d56671.webp",
-        "imagePath": "/series/official/demon-slayer-upper-two-2026/gallery-7.webp"
-      },
-      {
-        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2692/11e8c01f-022a-45e6-9bdb-12bad93cd45e.webp",
-        "imagePath": "/series/official/demon-slayer-upper-two-2026/gallery-8.webp"
       }
     ],
     "prizes": [
@@ -684,7 +674,7 @@
         "imagePath": "/series/official/demon-slayer-upper-two-2026/a.webp",
         "gallery": [],
         "variants": "총 1종",
-        "size": "약 22.5cm",
+        "size": "約22.5cm",
         "description": "나비 하오리의 색감과 전투 자세를 담은 시노부.",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106020/dfcb7603-ea81-42a5-bfc3-d86279a22db0.webp"
       },
@@ -698,7 +688,7 @@
         "imagePath": "/series/official/demon-slayer-upper-two-2026/b.webp",
         "gallery": [],
         "variants": "총 1종",
-        "size": "약 22.5cm",
+        "size": "約22.5cm",
         "description": "결연한 표정과 일륜도를 살린 카나오.",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106021/4ff732e0-205c-4cd9-b54e-60dfeb6c33f4.webp"
       },
@@ -712,7 +702,7 @@
         "imagePath": "/series/official/demon-slayer-upper-two-2026/c.webp",
         "gallery": [],
         "variants": "총 1종",
-        "size": "약 27cm",
+        "size": "約27cm",
         "description": "미소와 화려한 장식을 표현한 상현의 이 도우마.",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106022/ef7e0256-e2dc-4d20-8a57-1e23346070a6.webp"
       },
@@ -735,7 +725,7 @@
           }
         ],
         "variants": "총 1종",
-        "size": "약 7cm / 2체 세트",
+        "size": "約7cm(2体セット)",
         "description": "작중 걸음걸이를 옮긴 탄지로·기유 2체 세트.",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106270/ab4214e0-2f60-4de6-9b17-7d404ae263ec.webp"
       },
@@ -755,18 +745,6 @@
           {
             "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8609/7c4e38a9-9809-47d8-a910-2473be078e2b.webp",
             "imagePath": "/series/official/demon-slayer-upper-two-2026/e-detail-2.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8610/69661816-3769-4ac6-b523-33c6b0886a2b.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/e-detail-3.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8611/7cdf91d4-c711-4422-a15a-43839b9a65b2.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/e-detail-4.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8612/bec169fe-1719-442f-938b-7a47224c32cc.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/e-detail-5.webp"
           }
         ],
         "variants": "총 5종 · 디자인 선택 가능",
@@ -776,7 +754,7 @@
       },
       {
         "sampleCount": 18,
-        "selection": "random",
+        "selection": "blind",
         "nameKo": "아크릴 참",
         "name": "アクリルチャーム",
         "letter": "F",
@@ -790,46 +768,10 @@
           {
             "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8614/073f0c54-62cd-4cb9-b999-a42040045658.webp",
             "imagePath": "/series/official/demon-slayer-upper-two-2026/f-detail-2.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8615/4d70bbc1-008a-4089-b013-24c6420002c8.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/f-detail-3.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8616/c7f4ce33-dafe-4acc-9c26-727e92218ba1.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/f-detail-4.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8617/98b76e25-3aab-422e-8dcf-15fde4e743ae.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/f-detail-5.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8618/29e7796e-1af5-4dea-9808-08af5fbff614.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/f-detail-6.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8619/414e892b-85e2-4fc7-8a83-edc36ce5fe78.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/f-detail-7.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8620/e98c7d11-e4d0-4ae0-8ede-9327d1f6431d.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/f-detail-8.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8621/d3a9f9e2-600c-4aa4-b593-780f810f16ed.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/f-detail-9.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8622/6538c81a-5f3f-4424-ad76-05433319051d.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/f-detail-10.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8623/9ece9b84-a11f-4f1d-bdea-386281f1e4b2.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/f-detail-11.webp"
           }
         ],
-        "variants": "총 11종 · 무작위",
-        "size": "약 4.5cm",
+        "variants": "총 11종 · 무작위 디자인",
+        "size": "約4.5cm",
         "description": "캐릭터와 꺾쇠 까마귀 등을 담은 아크릴 참.",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106800/aa260804-77f8-4139-80da-897a0c2e4249.webp"
       },
@@ -849,48 +791,16 @@
           {
             "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8625/33d31554-77e1-4707-9683-261a436b8fb7.webp",
             "imagePath": "/series/official/demon-slayer-upper-two-2026/g-detail-2.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8626/32d8e377-c1b9-4cda-b1b1-6faa13275964.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/g-detail-3.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8627/cc543c76-36fa-44a6-8044-2d2758ec29ef.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/g-detail-4.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8628/0d7f3403-b46b-40d7-baab-6b31e6cb0694.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/g-detail-5.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8629/5c599bf4-6bb5-4327-a46e-c40e6d073fbd.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/g-detail-6.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8630/43ab4d05-9e0a-44f4-a53e-9a9d1b737ac8.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/g-detail-7.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8631/e3506a4d-750a-442e-b2b6-39db82b0bb7a.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/g-detail-8.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8632/185dd905-35b8-4cd5-bffe-ba70b10f6f7a.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/g-detail-9.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8633/d08e8c22-9da5-42d9-85dd-f6792ba5d050.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/g-detail-10.webp"
           }
         ],
         "variants": "총 10종 · 디자인 선택 가능",
-        "size": "약 8cm / 3장 세트",
+        "size": "約8cm(3枚セット)",
         "description": "작중 장면을 사진처럼 담은 3장 카드 세트.",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106801/363e652f-fcf3-40c7-a7b6-4af78c25aa9d.webp"
       },
       {
         "sampleCount": 18,
-        "selection": "random",
+        "selection": "blind",
         "nameKo": "아크릴 배지",
         "name": "アクリルバッジ",
         "letter": "H",
@@ -904,90 +814,10 @@
           {
             "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8635/033bda26-38ff-4908-8751-50c672ff5842.webp",
             "imagePath": "/series/official/demon-slayer-upper-two-2026/h-detail-2.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8636/4c6493d9-dc47-44f2-85d4-58154c670f71.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/h-detail-3.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8637/9c8e30b8-8d43-4d37-bae5-bcd20edfa1cd.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/h-detail-4.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8638/cfe35a67-37be-4d14-b82c-052171d69c95.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/h-detail-5.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8639/aa27fc12-f14e-4212-b2b6-d7f050191da6.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/h-detail-6.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8640/a22ab405-bf5c-4197-8c53-ab7cfce3f0b5.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/h-detail-7.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8641/adca247b-da87-4ccf-99ae-6171ef78ffd1.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/h-detail-8.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8642/991c3d6c-b8ce-44f4-9c7f-c29ec5f43646.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/h-detail-9.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8643/ea1bb834-70b9-43f8-a30e-064f3f01d117.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/h-detail-10.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8644/0f9fde7c-ae02-4e62-b526-3a68c401fccd.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/h-detail-11.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8645/8483444f-2f10-462c-89f2-33dfd626de1c.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/h-detail-12.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8646/dc6af696-0a03-4b79-9d79-d6c29721e4c9.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/h-detail-13.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8647/fedf068f-ae7d-4ca0-b3e8-49f272f636e8.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/h-detail-14.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8648/fc52d34d-dc26-4cba-9142-3e4557a2e6fe.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/h-detail-15.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8649/41e2b9d9-5a74-4853-b911-ddb652d639f4.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/h-detail-16.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8650/940da380-b448-47ec-bc2f-0cf6873ba229.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/h-detail-17.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8651/8205cac3-caaa-433f-bb19-bd91883b2de5.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/h-detail-18.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8652/34e1e547-a365-409b-9b4f-c6cedf9cbf97.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/h-detail-19.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8653/10bab44e-a957-4f7f-8c12-fcb3dc9beed9.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/h-detail-20.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8654/3aade493-1141-48a6-aa16-35eddb9084cf.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/h-detail-21.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8655/545de85b-2a44-4ea0-a1eb-92b28dabee47.webp",
-            "imagePath": "/series/official/demon-slayer-upper-two-2026/h-detail-22.webp"
           }
         ],
-        "variants": "총 22종 · 무작위",
-        "size": "약 5.5cm",
+        "variants": "총 22종 · 무작위 디자인",
+        "size": "約5.5cm",
         "description": "주요 캐릭터를 담은 작은 아크릴 배지.",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106802/d0a0ba5a-2baf-47be-bcac-30c93c3f8a3e.webp"
       },
@@ -1001,28 +831,31 @@
         "imagePath": "/series/official/demon-slayer-upper-two-2026/last.webp",
         "gallery": [],
         "variants": "총 1종",
-        "size": "약 27cm",
+        "size": "約27cm",
         "description": "두 부채를 펼친 자세와 별도 표정의 특별 사양.",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106023/a16b73cd-f5f7-4454-9494-d08e4752bf1a.webp"
       }
     ],
     "doubleChance": {
       "imagePath": "/series/official/demon-slayer-upper-two-2026/double-chance.webp",
-      "description": "시노부·카나오·도우마 피규어 3종 세트. 공식 캠페인 추첨 30세트이며 일반 뽑기 경품 수량과 별개입니다.",
+      "description": "공식 별도 캠페인 당첨 수 30개. 이 프로그램에서는 응모를 제공하지 않습니다.",
       "awardCount": 30,
       "imageUrl": "https://assets.1kuji.com/uploads/campaign/image/11434/4053276d-7d23-4e93-b056-41256759d328.webp",
-      "deadline": "2026-10-31",
-      "name": "A상 & B상 & C상 세트"
+      "deadline": "キャンペーン期間: 発売日~2026年10月末日",
+      "name": "A賞&B賞&C賞セット"
     },
     "replacesCode": "DEMON_SLAYER",
     "franchiseKo": "귀멸의 칼날",
     "franchiseJp": "鬼滅の刃",
     "releaseDatePrecision": "day",
-    "releaseDateText": "2026-07-30",
+    "releaseDateText": "2026年07月30日(木)より順次発売予定",
     "catalogStatus": "ON_SALE",
     "prizeDetailsPending": false,
     "sampleAllocation": true,
-    "introducedRevision": 2
+    "introducedRevision": 2,
+    "franchiseCode": "DEMON_SLAYER",
+    "sampleAllocationMethod": "equal-80-demo",
+    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
   },
   {
     "code": "ATTACK_ON_TITAN_OFFICIAL_2026",
@@ -1038,15 +871,15 @@
     "priceJpy": 700,
     "samplePriceKrw": 11000,
     "sourceUrl": "https://1kuji.com/products/shingeki15",
-    "onlineSourceUrl": "https://on-line.1kuji.com/Form/Product/ProductDetail.aspx?bid=IP00004601&pid=9058260",
+    "onlineSourceUrl": "https://on-line.1kuji.com/Form/Product/ProductDetail.aspx?pid=9058260&bid=IP00004601",
     "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10720/8980b568-120f-4eaa-a09e-5e2ed3b10541.webp",
     "posterPath": "/series/official/attack-choice-result/poster-wide.webp",
     "summary": "어린 에렌·미카사·아르민과 조사병단의 초코놋코 피규어, 에렌 봉제인형, 타로풍 일러스트 잡화를 담은 제일복권.",
-    "copyright": "©諫山創・講談社／「進撃の巨人」The Final Season製作委員会",
+    "copyright": "©諫山創・講談社/「進撃の巨人」The Final Season製作委員会",
     "checkedAt": "2026-10-16",
     "descriptionHtml": "<p>어린 에렌·미카사·아르민과 조사병단의 초코놋코 피규어, 에렌 봉제인형, 타로풍 일러스트 잡화를 담은 제일복권.</p><p>공식 발매 상품의 포스터와 경품 정보를 아래에서 확인하세요. 원화 가격과 판별 수량은 체험용 예시입니다.</p>",
     "age": "15세 이상",
-    "retailers": "제일복권 공식샵, 제일복권 ONLINE 등",
+    "retailers": "一番くじ公式ショップ、一番くじONLINEなど",
     "onlineSaleEndedAt": "",
     "additionalSources": [
       "https://www.bandaispirits.co.jp/products/search/detail.php?grp_id=9999&prd_id=shingeki15",
@@ -1068,14 +901,6 @@
       {
         "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2879/23de6c9c-c816-4c32-b7c0-bd816cb2c52e.webp",
         "imagePath": "/series/official/attack-choice-result/product-detail-4.webp"
-      },
-      {
-        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2882/fa2bf38e-bf55-4cf0-89a7-3efc6922e8a3.webp",
-        "imagePath": "/series/official/attack-choice-result/product-detail-5.webp"
-      },
-      {
-        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2881/ff09cb9a-377f-4bc1-83b0-7f78af89bbbd.webp",
-        "imagePath": "/series/official/attack-choice-result/product-detail-6.webp"
       }
     ],
     "prizes": [
@@ -1084,7 +909,7 @@
         "name": "ちょこのっこぬいぐるみ ぷらす エレン",
         "nameKo": "초코놋코 플러스 에렌 봉제인형",
         "description": "에렌을 둥근 초코놋코 디자인의 약 25cm 봉제인형으로 만들었습니다.",
-        "size": "약 25cm",
+        "size": "約25cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -1098,7 +923,7 @@
         "name": "ちょこのっこフィギュア エレン ～あの丘の木に向かって～",
         "nameKo": "어린 에렌 초코놋코 피규어 ~그 언덕의 나무를 향해~",
         "description": "어린 시절 에렌의 모습을 약 4.5cm 미니 피규어로 담았습니다.",
-        "size": "약 4.5cm",
+        "size": "約4.5cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -1112,7 +937,7 @@
         "name": "ちょこのっこフィギュア ミカサ ～あの丘の木に向かって～",
         "nameKo": "어린 미카사 초코놋코 피규어 ~그 언덕의 나무를 향해~",
         "description": "어린 시절 미카사의 모습을 약 4.5cm 미니 피규어로 담았습니다.",
-        "size": "약 4.5cm",
+        "size": "約4.5cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -1126,7 +951,7 @@
         "name": "ちょこのっこフィギュア アルミン ～あの丘の木に向かって～",
         "nameKo": "어린 아르민 초코놋코 피규어 ~그 언덕의 나무를 향해~",
         "description": "어린 시절 아르민의 모습을 약 4.5cm 미니 피규어로 담았습니다.",
-        "size": "약 4.5cm",
+        "size": "約4.5cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -1140,7 +965,7 @@
         "name": "ちょこのっこフィギュア リヴァイ ～心臓を捧げよ～",
         "nameKo": "리바이 초코놋코 피규어 ~심장을 바쳐라~",
         "description": "심장을 바치는 경례 자세의 리바이를 초코놋코 피규어로 표현했습니다.",
-        "size": "약 4.5cm",
+        "size": "約4.5cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -1154,7 +979,7 @@
         "name": "ちょこのっこフィギュア ハンジ ～心臓を捧げよ～",
         "nameKo": "한지 초코놋코 피규어 ~심장을 바쳐라~",
         "description": "심장을 바치는 경례 자세의 한지를 초코놋코 피규어로 표현했습니다.",
-        "size": "약 4.5cm",
+        "size": "約4.5cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -1168,7 +993,7 @@
         "name": "ちょこのっこフィギュア エルヴィン ～心臓を捧げよ～",
         "nameKo": "엘빈 초코놋코 피규어 ~심장을 바쳐라~",
         "description": "심장을 바치는 경례 자세의 엘빈을 초코놋코 피규어로 표현했습니다.",
-        "size": "약 4.5cm",
+        "size": "約4.5cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -1182,7 +1007,7 @@
         "name": "ポーチ～選択と結果～",
         "nameKo": "파우치 ~선택과 결과~",
         "description": "초코놋코 피규어를 넣고 휴대할 수 있는 약 6cm 파우치입니다.",
-        "size": "약 6cm",
+        "size": "約6cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -1196,7 +1021,7 @@
         "name": "アクリルスタンド～選択と結果～",
         "nameKo": "아크릴 스탠드 ~선택과 결과~",
         "description": "타로 카드 분위기의 신규 일러스트를 사용한 아크릴 스탠드 5종입니다.",
-        "size": "약 7～10cm",
+        "size": "約7~10cm",
         "variants": "총 5종 · 디자인 선택 가능",
         "variantCount": 5,
         "selection": "choose",
@@ -1211,18 +1036,6 @@
           {
             "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9368/1adff6c1-214c-43c1-a0b4-7ec1549e64bd.webp",
             "imagePath": "/series/official/attack-choice-result/i-detail-2.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9369/719e7de0-85c1-44a3-9877-48f5ed49e08e.webp",
-            "imagePath": "/series/official/attack-choice-result/i-detail-3.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9370/7ff10f2d-d8db-4233-81c3-bfb97ae0a517.webp",
-            "imagePath": "/series/official/attack-choice-result/i-detail-4.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9371/ea6a5390-8e04-4d48-a06c-bc30a48af133.webp",
-            "imagePath": "/series/official/attack-choice-result/i-detail-5.webp"
           }
         ]
       },
@@ -1231,8 +1044,8 @@
         "name": "ホログラムカード～選択と結果～",
         "nameKo": "홀로그램 카드 ~선택과 결과~",
         "description": "타로 카드 분위기의 신규 일러스트를 홀로그램 카드로 담은 5종 구성입니다.",
-        "size": "약 12cm",
-        "variants": "총 5종 · 디자인 선택 불가",
+        "size": "約12cm",
+        "variants": "총 5종 · 무작위 디자인",
         "variantCount": 5,
         "selection": "blind",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106953/5413e673-9e09-443b-a696-0475eb6f8815.webp",
@@ -1246,18 +1059,6 @@
           {
             "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9373/2a7aff25-64c8-4233-ab27-5ab2231e94ae.webp",
             "imagePath": "/series/official/attack-choice-result/j-detail-2.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9374/c26a8137-392c-4e60-a66c-5bd8917bd9a0.webp",
-            "imagePath": "/series/official/attack-choice-result/j-detail-3.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9375/b1604afa-df06-4a65-ad86-112a9aa72018.webp",
-            "imagePath": "/series/official/attack-choice-result/j-detail-4.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9376/0e45a2c9-a169-4360-b3ba-24bcf511337b.webp",
-            "imagePath": "/series/official/attack-choice-result/j-detail-5.webp"
           }
         ]
       },
@@ -1266,7 +1067,7 @@
         "name": "ちょこのっこぬいぐるみ ぷらす リヴァイ",
         "nameKo": "초코놋코 플러스 리바이 봉제인형",
         "description": "마지막 복권을 뽑으면 받을 수 있는 약 25cm 리바이 봉제인형입니다.",
-        "size": "약 25cm",
+        "size": "約25cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -1277,10 +1078,10 @@
       }
     ],
     "doubleChance": {
-      "name": "초코놋코 플러스 리바이 봉제인형",
+      "name": "ちょこのっこぬいぐるみ ぷらす リヴァイ",
       "nameJp": "ちょこのっこぬいぐるみ ぷらす リヴァイ",
-      "description": "라스트원과 동일한 약 25cm 리바이 봉제인형을 별도 응모로 제공합니다. 공식 당첨 수 30개는 매장과 온라인의 합계입니다.",
-      "deadline": "2026-11-30",
+      "description": "공식 별도 캠페인 당첨 수 30개. 이 프로그램에서는 응모를 제공하지 않습니다.",
+      "deadline": "キャンペーン期間: 発売日~2026年11月末日",
       "awardCount": 30,
       "imageUrl": "https://assets.1kuji.com/uploads/campaign/image/11532/fc54c53d-883c-4670-93c1-95fd3ad0c49d.webp",
       "imagePath": "/series/official/attack-choice-result/double-chance.webp"
@@ -1289,11 +1090,14 @@
     "franchiseKo": "진격의 거인",
     "franchiseJp": "進撃の巨人",
     "releaseDatePrecision": "day",
-    "releaseDateText": "2026-08-05",
+    "releaseDateText": "2026年08月05日(水)より順次発売予定",
     "catalogStatus": "ON_SALE",
     "prizeDetailsPending": false,
     "sampleAllocation": true,
-    "introducedRevision": 2
+    "introducedRevision": 2,
+    "franchiseCode": "ATTACK_ON_TITAN",
+    "sampleAllocationMethod": "equal-80-demo",
+    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
   },
   {
     "code": "CHAINSAW_MAN_OFFICIAL_2026",
@@ -1309,15 +1113,15 @@
     "priceJpy": 880,
     "samplePriceKrw": 13000,
     "sourceUrl": "https://1kuji.com/products/chainsawman3",
-    "onlineSourceUrl": "https://on-line.1kuji.com/Form/Product/ProductDetail.aspx?bid=IP00004957&pid=sap_0000008664&shop=0",
+    "onlineSourceUrl": "https://on-line.1kuji.com/Form/Product/ProductDetail.aspx?pid=sap_0000008664&bid=IP00004957",
     "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10738/a9d03dca-75b7-4bf6-bd54-ccc832f5dd36.webp",
     "posterPath": "/series/official/chainsaw-reze-vol2/poster-wide.webp",
     "summary": "극장판 레제편의 덴지·레제, 아키·천사의 악마를 피규어와 신규 일러스트 굿즈로 구성했습니다. 라스트원은 체인소맨과 빔의 특별 채색 피규어입니다.",
-    "copyright": "© 2025 MAPPA／チェンソーマンプロジェクト ©藤本タツキ／集英社",
+    "copyright": "© 2025 MAPPA/チェンソーマンプロジェクト ©藤本タツキ/集英社",
     "checkedAt": "2026-10-16",
     "descriptionHtml": "<p>극장판 레제편의 덴지·레제, 아키·천사의 악마를 피규어와 신규 일러스트 굿즈로 구성했습니다. 라스트원은 체인소맨과 빔의 특별 채색 피규어입니다.</p><p>공식 발매 상품의 포스터와 경품 정보를 아래에서 확인하세요. 원화 가격과 판별 수량은 체험용 예시입니다.</p>",
     "age": "15세 이상",
-    "retailers": "로손, 미니스톱, 데일리 야마자키, 기타 편의점·서점·하비샵, 제일복권 공식샵, 제일복권 ONLINE 등",
+    "retailers": "ローソン、ミニストップ、デイリーヤマザキ、その他コンビニエンスストア、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなど",
     "onlineSaleEndedAt": "",
     "additionalSources": [
       "https://www.bandaispirits.co.jp/products/search/detail.php?grp_id=9999&prd_id=chainsawman3"
@@ -1338,46 +1142,6 @@
       {
         "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3283/08efe1e9-e69d-4752-bfc5-f60f3b420509.webp",
         "imagePath": "/series/official/chainsaw-reze-vol2/product-detail-4.webp"
-      },
-      {
-        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3284/65597d5c-706d-4ef8-9c1f-4b71683b04dc.webp",
-        "imagePath": "/series/official/chainsaw-reze-vol2/product-detail-5.webp"
-      },
-      {
-        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3285/58a8c668-9883-489a-bc36-217d638df615.webp",
-        "imagePath": "/series/official/chainsaw-reze-vol2/product-detail-6.webp"
-      },
-      {
-        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3286/77ffa2ac-6e1a-4b9e-870c-6fc3428e02b4.webp",
-        "imagePath": "/series/official/chainsaw-reze-vol2/product-detail-7.webp"
-      },
-      {
-        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3287/f9d8302f-309d-48ff-89ce-75262e5d91ad.webp",
-        "imagePath": "/series/official/chainsaw-reze-vol2/product-detail-8.webp"
-      },
-      {
-        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3288/e3d44609-9c81-41a9-b0cf-7c76e17713e6.gif",
-        "imagePath": "/series/official/chainsaw-reze-vol2/product-detail-9.gif"
-      },
-      {
-        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3289/aa4997a1-17fc-4820-9129-293d41e52bcb.gif",
-        "imagePath": "/series/official/chainsaw-reze-vol2/product-detail-10.gif"
-      },
-      {
-        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3290/e84057ff-d904-4ae0-b14d-4f55dada9537.webp",
-        "imagePath": "/series/official/chainsaw-reze-vol2/product-detail-11.webp"
-      },
-      {
-        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3291/6efcc32f-8b02-47ec-8e0d-58dbf713bf16.webp",
-        "imagePath": "/series/official/chainsaw-reze-vol2/product-detail-12.webp"
-      },
-      {
-        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3292/4189ea90-73ab-4da9-9e35-ccffbb57d671.webp",
-        "imagePath": "/series/official/chainsaw-reze-vol2/product-detail-13.webp"
-      },
-      {
-        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3293/659a4fb7-8134-4fab-a6db-c475368b6b2b.webp",
-        "imagePath": "/series/official/chainsaw-reze-vol2/product-detail-14.webp"
       }
     ],
     "prizes": [
@@ -1386,7 +1150,7 @@
         "name": "デンジ＆レゼ フィギュア",
         "nameKo": "덴지 & 레제 피규어",
         "description": "카페 니도에서 대화하는 덴지와 레제의 장면을 함께 전시하는 피규어입니다.",
-        "size": "약 10cm(받침대 포함 약 12cm)",
+        "size": "約10cm(台座込み 約12cm)",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -1409,7 +1173,7 @@
         "name": "レゼ MASTERLISE",
         "nameKo": "레제 MASTERLISE",
         "description": "거베라 꽃을 든 레제의 표정과 혈흔이 묻은 흰 셔츠를 약 22cm 조형으로 담았습니다.",
-        "size": "약 22cm",
+        "size": "約22cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -1428,7 +1192,7 @@
         "name": "ちょこのっこフィギュアセット",
         "nameKo": "초코놋코 피규어 세트",
         "description": "하야카와 아키와 천사의 악마를 함께 전시하는 약 4.5cm 초코놋코 피규어 2개 세트입니다.",
-        "size": "약 4.5cm(2개 세트)",
+        "size": "約4.5cm(2個セット)",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -1479,7 +1243,7 @@
         "name": "きゅんキャラアクリルスタンド",
         "nameKo": "큐운캐러 아크릴 스탠드",
         "description": "등장인물을 귀여운 큐운캐러 비율로 그린 약 7cm 아크릴 스탠드 6종입니다.",
-        "size": "약 7cm",
+        "size": "約7cm",
         "variants": "총 6종 · 디자인 선택 가능",
         "variantCount": 6,
         "selection": "choose",
@@ -1494,22 +1258,6 @@
           {
             "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10270/9add6314-595d-4eca-8f0a-4b24ad26ec51.webp",
             "imagePath": "/series/official/chainsaw-reze-vol2/f-detail-2.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10271/9d46e35f-015c-4489-b283-22b5b49fb817.webp",
-            "imagePath": "/series/official/chainsaw-reze-vol2/f-detail-3.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10272/eaadda20-5bb1-4db2-9cfb-f98ff8971233.webp",
-            "imagePath": "/series/official/chainsaw-reze-vol2/f-detail-4.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10273/1392d855-371b-4702-830a-4c2b9e9ea3f8.webp",
-            "imagePath": "/series/official/chainsaw-reze-vol2/f-detail-5.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10274/6b1a54c1-96e6-4c36-8c6a-724da3aae310.webp",
-            "imagePath": "/series/official/chainsaw-reze-vol2/f-detail-6.webp"
           }
         ]
       },
@@ -1518,7 +1266,7 @@
         "name": "ホログラムステッカーセット",
         "nameKo": "홀로그램 스티커 세트",
         "description": "캐릭터 조합·포치타·영화 장면을 담은 홀로그램 스티커 5장 세트 8종입니다.",
-        "size": "약 7～8.5cm(5장 세트)",
+        "size": "約7~8.5cm(5枚セット)",
         "variants": "총 8종 · 디자인 선택 가능",
         "variantCount": 8,
         "selection": "choose",
@@ -1533,30 +1281,6 @@
           {
             "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10276/0ad4b844-c03b-4312-bd56-3bd987cbc6a4.webp",
             "imagePath": "/series/official/chainsaw-reze-vol2/g-detail-2.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10277/504a9d3a-20c1-4ac2-aadb-53efa33c65b2.webp",
-            "imagePath": "/series/official/chainsaw-reze-vol2/g-detail-3.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10278/7ee5991d-157f-469b-9e72-15c92f098e89.webp",
-            "imagePath": "/series/official/chainsaw-reze-vol2/g-detail-4.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10279/13cfffef-7332-41cf-b0cf-79c673efc524.webp",
-            "imagePath": "/series/official/chainsaw-reze-vol2/g-detail-5.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10280/92d429a3-9254-45ba-a197-2701faf271e5.webp",
-            "imagePath": "/series/official/chainsaw-reze-vol2/g-detail-6.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10281/70e558bf-d460-4857-bf5c-8fc9881231b7.webp",
-            "imagePath": "/series/official/chainsaw-reze-vol2/g-detail-7.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10282/09c47d22-a76b-4691-a127-d887f5cb79b1.webp",
-            "imagePath": "/series/official/chainsaw-reze-vol2/g-detail-8.webp"
           }
         ]
       },
@@ -1580,30 +1304,6 @@
           {
             "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10284/ea7aaf35-8164-4b2e-ad89-fba421b85045.webp",
             "imagePath": "/series/official/chainsaw-reze-vol2/h-detail-2.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10285/686d3dad-6765-4ab4-87f1-3a182e490fb0.webp",
-            "imagePath": "/series/official/chainsaw-reze-vol2/h-detail-3.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10286/6495cdf1-6028-41a2-a54e-51da54194f24.webp",
-            "imagePath": "/series/official/chainsaw-reze-vol2/h-detail-4.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10287/90246882-c801-4dd6-a521-1777346fcf2c.webp",
-            "imagePath": "/series/official/chainsaw-reze-vol2/h-detail-5.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10288/789f0107-29ba-44a5-8bb3-82449bf2430f.webp",
-            "imagePath": "/series/official/chainsaw-reze-vol2/h-detail-6.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10289/489627cb-486c-4c57-92c0-33686813f011.webp",
-            "imagePath": "/series/official/chainsaw-reze-vol2/h-detail-7.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10290/e116fe90-92b2-48b8-b458-7bc73b3f8679.webp",
-            "imagePath": "/series/official/chainsaw-reze-vol2/h-detail-8.webp"
           }
         ]
       },
@@ -1612,7 +1312,7 @@
         "name": "ラバーコースター",
         "nameKo": "러버 코스터",
         "description": "등장인물과 인상적인 대사를 함께 담은 약 7.5cm 러버 코스터 10종입니다.",
-        "size": "약 7.5cm",
+        "size": "約7.5cm",
         "variants": "총 10종 · 디자인 선택 가능",
         "variantCount": 10,
         "selection": "choose",
@@ -1627,38 +1327,6 @@
           {
             "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10292/43601579-8bd8-4cf7-9420-df1800adf16f.webp",
             "imagePath": "/series/official/chainsaw-reze-vol2/i-detail-2.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10293/0d1e5ce8-1884-4b89-82d9-d32bc594d21c.webp",
-            "imagePath": "/series/official/chainsaw-reze-vol2/i-detail-3.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10294/7ac66792-afd0-423e-9b9c-e2f22c7a462d.webp",
-            "imagePath": "/series/official/chainsaw-reze-vol2/i-detail-4.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10295/0a8b8899-0d5b-4d50-ba0b-7ab229efeebc.webp",
-            "imagePath": "/series/official/chainsaw-reze-vol2/i-detail-5.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10296/78133d99-3c66-49f7-8acf-b4efc57cf3a9.webp",
-            "imagePath": "/series/official/chainsaw-reze-vol2/i-detail-6.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10297/8df5fa22-06a5-4626-829e-66c61c875009.webp",
-            "imagePath": "/series/official/chainsaw-reze-vol2/i-detail-7.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10298/c34a9e50-28fe-44da-b269-64d452b9c63c.webp",
-            "imagePath": "/series/official/chainsaw-reze-vol2/i-detail-8.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10299/50e689a7-2b47-40d3-a8cb-08a803fc12e5.webp",
-            "imagePath": "/series/official/chainsaw-reze-vol2/i-detail-9.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10300/b6787341-75fe-4774-a540-3fc3ba9d179e.webp",
-            "imagePath": "/series/official/chainsaw-reze-vol2/i-detail-10.webp"
           }
         ]
       },
@@ -1667,7 +1335,7 @@
         "name": "チェンソーマン＆ビーム MEGAIMPACT スペシャルカラーver.",
         "nameKo": "체인소맨 & 빔 MEGAIMPACT 스페셜 컬러 ver.",
         "description": "태풍의 악마와 싸우는 체인소맨과 빔을 특별 채색으로 표현한 대형 라스트원 피규어입니다.",
-        "size": "세로 약 23cm · 가로 약 30cm",
+        "size": "縦 約23cm、横 約30cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -1678,10 +1346,10 @@
       }
     ],
     "doubleChance": {
-      "name": "체인소맨 & 빔 MEGAIMPACT 스페셜 컬러 ver.",
+      "name": "チェンソーマン&ビーム MEGAIMPACT スペシャルカラーver.",
       "nameJp": "チェンソーマン＆ビーム MEGAIMPACT スペシャルカラーver.",
-      "description": "라스트원과 동일한 체인소맨 & 빔 MEGAIMPACT 스페셜 컬러 피규어를 별도 응모로 제공합니다. 공식 당첨 수 50개는 매장과 온라인의 합계입니다.",
-      "deadline": "2026-12-31",
+      "description": "공식 별도 캠페인 당첨 수 50개. 이 프로그램에서는 응모를 제공하지 않습니다.",
+      "deadline": "キャンペーン期間: 発売日~2026年12月末日",
       "awardCount": 50,
       "imageUrl": "https://assets.1kuji.com/uploads/campaign/image/11546/3c2f1ecd-0d52-407a-96e6-bdce37c03a73.webp",
       "imagePath": "/series/official/chainsaw-reze-vol2/double-chance.webp"
@@ -1690,11 +1358,14 @@
     "franchiseKo": "체인소맨",
     "franchiseJp": "チェンソーマン",
     "releaseDatePrecision": "day",
-    "releaseDateText": "2026-09-18",
+    "releaseDateText": "2026年09月18日(金)より順次発売予定",
     "catalogStatus": "ON_SALE",
     "prizeDetailsPending": false,
     "sampleAllocation": true,
-    "introducedRevision": 2
+    "introducedRevision": 2,
+    "franchiseCode": "CHAINSAW_MAN",
+    "sampleAllocationMethod": "equal-80-demo",
+    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
   },
   {
     "code": "DRAGON_BALL",
@@ -1709,29 +1380,46 @@
     "priceJpy": 790,
     "samplePriceKrw": 12000,
     "sourceUrl": "https://1kuji.com/products/db_gt",
-    "onlineSourceUrl": "https://on-line.1kuji.com/Form/Product/ProductDetail.aspx?bid=IP00002048&pid=sap_0000008517&shop=0",
+    "onlineSourceUrl": " https://on-line.1kuji.com/Form/Product/ProductDetail.aspx?pid=sap_0000008517&bid=IP00002048",
     "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10725/c7225f21-0220-4d72-a476-b4bc19ff2e34.webp",
     "posterPath": "/series/official/dragonball-gt/poster-wide.webp",
     "summary": "초사이어인 4와 GT 모험 일행을 담은 피규어·아크릴·비주얼 굿즈 구성.",
-    "copyright": "©バード・スタジオ／集英社・東映アニメーション",
+    "copyright": "©バード・スタジオ/集英社・東映アニメーション",
     "checkedAt": "2026-10-16",
     "descriptionHtml": "<p>초사이어인 4와 GT 모험 일행을 담은 피규어·아크릴·비주얼 굿즈 구성.</p><p>공식 발매 상품의 포스터와 경품 정보를 아래에서 확인하세요. 원화 가격과 판별 수량은 체험용 예시입니다.</p>",
     "age": "15세 이상",
-    "retailers": "",
+    "retailers": "ローソン、ミニストップ、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなど",
     "onlineSaleEndedAt": "2026-08-25T08:15:00+09:00",
     "additionalSources": [
       "https://www.bandaispirits.co.jp/products/search/detail.php?grp_id=9999&prd_id=db_gt",
       "https://on-line.1kuji.com/Form/Product/ProductDetail.aspx?bid=IP00002048&pid=sap_0000008517&shop=0",
       "https://sf.1kuji.com/1kuji_dragonball/portal/special/db_gt/"
     ],
-    "gallery": [],
+    "gallery": [
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2994/fc499461-cd2a-42b5-8387-d5baea8a11ff.webp",
+        "imagePath": "/series/official/dragonball-gt/gallery-1-307a980978b2b832.webp"
+      },
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2992/1380fed2-69cc-49ed-be52-e74426a778c7.webp",
+        "imagePath": "/series/official/dragonball-gt/gallery-2-23af3b791844b1c5.webp"
+      },
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2993/75955e55-c53f-48e4-9d3f-29b166444de1.webp",
+        "imagePath": "/series/official/dragonball-gt/gallery-3-16ef8d4c1b848692.webp"
+      },
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2996/d12a7ea6-b1c6-4cd9-82cf-227f4108f3ad.webp",
+        "imagePath": "/series/official/dragonball-gt/gallery-4-004b43c1c0ed9434.webp"
+      }
+    ],
     "prizes": [
       {
         "letter": "A",
         "name": "超サイヤ人4孫悟空 MASTERLISE",
         "nameKo": "초사이어인 4 손오공 MASTERLISE",
         "description": "베지터와 등을 맞대어 전시하는 자세.",
-        "size": "약 25cm",
+        "size": "約25cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -1740,12 +1428,12 @@
         "sampleCount": 2,
         "gallery": [
           {
-            "imageUrl": "https://sf.1kuji.com/1kuji_dragonball/portal/images/special/db_gt/A1.webp",
-            "imagePath": "/series/official/dragonball-gt/a-detail-1.webp"
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9309/65788214-1f09-4cb6-865a-a7b82bfa83f2.webp",
+            "imagePath": "/series/official/dragonball-gt/a-detail-1-e2960fd19c1257fa.webp"
           },
           {
-            "imageUrl": "https://sf.1kuji.com/1kuji_dragonball/portal/images/special/db_gt/A2.webp",
-            "imagePath": "/series/official/dragonball-gt/a-detail-2.webp"
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9310/c2871191-6c5c-46c0-8442-60bb766f1cb1.webp",
+            "imagePath": "/series/official/dragonball-gt/a-detail-2-135d1dd9c5d7bf89.webp"
           }
         ]
       },
@@ -1754,7 +1442,7 @@
         "name": "超サイヤ人4ベジータ MASTERLISE",
         "nameKo": "초사이어인 4 베지터 MASTERLISE",
         "description": "털과 의상 주름을 표현한 피규어.",
-        "size": "약 23cm",
+        "size": "約23cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -1763,12 +1451,12 @@
         "sampleCount": 2,
         "gallery": [
           {
-            "imageUrl": "https://sf.1kuji.com/1kuji_dragonball/portal/images/special/db_gt/B1.webp",
-            "imagePath": "/series/official/dragonball-gt/b-detail-1.webp"
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9312/041105b1-8892-497c-9b2b-b83b2fcee519.webp",
+            "imagePath": "/series/official/dragonball-gt/b-detail-1-911ec29b30d16f98.webp"
           },
           {
-            "imageUrl": "https://sf.1kuji.com/1kuji_dragonball/portal/images/special/db_gt/B2.webp",
-            "imagePath": "/series/official/dragonball-gt/b-detail-2.webp"
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9313/6db73e8d-2af8-42b1-b3f7-456f82299959.webp",
+            "imagePath": "/series/official/dragonball-gt/b-detail-2-b55112ae7d344f8f.webp"
           }
         ]
       },
@@ -1777,7 +1465,7 @@
         "name": "孫悟空 MASTERLISE",
         "nameKo": "손오공 MASTERLISE",
         "description": "GT 오프닝을 떠올리는 어린 손오공.",
-        "size": "약 13cm",
+        "size": "約13cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -1786,12 +1474,12 @@
         "sampleCount": 2,
         "gallery": [
           {
-            "imageUrl": "https://sf.1kuji.com/1kuji_dragonball/portal/images/special/db_gt/CDE1.webp",
-            "imagePath": "/series/official/dragonball-gt/c-detail-1.webp"
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9315/e774db80-919d-4a32-bbb5-6997bed3ad68.webp",
+            "imagePath": "/series/official/dragonball-gt/c-detail-1-3f61e4548b20c756.webp"
           },
           {
-            "imageUrl": "https://sf.1kuji.com/1kuji_dragonball/portal/images/special/db_gt/CDE2.webp",
-            "imagePath": "/series/official/dragonball-gt/c-detail-2.webp"
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9316/3ed2bcc8-8125-46e5-8eab-fcb457c1276d.webp",
+            "imagePath": "/series/official/dragonball-gt/c-detail-2-3fc6223f54b51d4b.webp"
           }
         ]
       },
@@ -1800,7 +1488,7 @@
         "name": "トランクス MASTERLISE",
         "nameKo": "트랭크스 MASTERLISE",
         "description": "GT 모험 일행과 함께 전시하는 트랭크스.",
-        "size": "약 23cm",
+        "size": "約23cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -1809,12 +1497,12 @@
         "sampleCount": 2,
         "gallery": [
           {
-            "imageUrl": "https://sf.1kuji.com/1kuji_dragonball/portal/images/special/db_gt/CDE1.webp",
-            "imagePath": "/series/official/dragonball-gt/d-detail-1.webp"
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9318/fb5d9aae-dc7e-4bdb-b900-b7678195d048.webp",
+            "imagePath": "/series/official/dragonball-gt/d-detail-1-b0c992a03122faf8.webp"
           },
           {
-            "imageUrl": "https://sf.1kuji.com/1kuji_dragonball/portal/images/special/db_gt/CDE2.webp",
-            "imagePath": "/series/official/dragonball-gt/d-detail-2.webp"
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9319/a15aab26-cecb-4184-b585-a4020950ab39.webp",
+            "imagePath": "/series/official/dragonball-gt/d-detail-2-312f94c0ef8e8cf6.webp"
           }
         ]
       },
@@ -1823,7 +1511,7 @@
         "name": "パン＆ギル MASTERLISE PLUS",
         "nameKo": "팡 & 기루 MASTERLISE PLUS",
         "description": "GT 오프닝 이미지의 두 캐릭터 세트.",
-        "size": "팡 약 15cm / 기루 약 5.5cm",
+        "size": "パン 約15cm、ギル 約5.5cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -1832,12 +1520,12 @@
         "sampleCount": 2,
         "gallery": [
           {
-            "imageUrl": "https://sf.1kuji.com/1kuji_dragonball/portal/images/special/db_gt/CDE1.webp",
-            "imagePath": "/series/official/dragonball-gt/e-detail-1.webp"
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9321/38f4c799-f4ef-4cc2-a9d1-1b0102470812.webp",
+            "imagePath": "/series/official/dragonball-gt/e-detail-1-9794941cb73ecb25.webp"
           },
           {
-            "imageUrl": "https://sf.1kuji.com/1kuji_dragonball/portal/images/special/db_gt/CDE2.webp",
-            "imagePath": "/series/official/dragonball-gt/e-detail-2.webp"
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9322/d9795734-21cf-4183-837b-ca82139dd56c.webp",
+            "imagePath": "/series/official/dragonball-gt/e-detail-2-1f9fba039e933b4f.webp"
           }
         ]
       },
@@ -1846,7 +1534,7 @@
         "name": "超17号 MASTERLISE",
         "nameKo": "슈퍼 17호 MASTERLISE",
         "description": "특유의 체형과 시선을 살린 슈퍼 17호.",
-        "size": "약 27cm",
+        "size": "約27cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -1855,12 +1543,12 @@
         "sampleCount": 2,
         "gallery": [
           {
-            "imageUrl": "https://sf.1kuji.com/1kuji_dragonball/portal/images/special/db_gt/F1.webp",
-            "imagePath": "/series/official/dragonball-gt/f-detail-1.webp"
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9324/85ff509d-ddf7-4e5c-82dd-604ecf063e5a.webp",
+            "imagePath": "/series/official/dragonball-gt/f-detail-1-7baa7a2133b4312c.webp"
           },
           {
-            "imageUrl": "https://sf.1kuji.com/1kuji_dragonball/portal/images/special/db_gt/F2.webp",
-            "imagePath": "/series/official/dragonball-gt/f-detail-2.webp"
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9325/83a01264-4775-48f0-be75-44da7c9e7de7.webp",
+            "imagePath": "/series/official/dragonball-gt/f-detail-2-6480ffeebeea33b1.webp"
           }
         ]
       },
@@ -1869,83 +1557,113 @@
         "name": "アクリルスタンド",
         "nameKo": "아크릴 스탠드",
         "description": "GT 엔딩 장면을 구성하는 캐릭터 컬렉션.",
-        "size": "약 4~7.5cm",
+        "size": "約4~7.5cm",
         "variants": "총 23종 · 디자인 선택 가능",
         "variantCount": 23,
         "selection": "choose",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106935/8dcce86e-318f-4bab-8eb8-167544c16cc8.webp",
         "imagePath": "/series/official/dragonball-gt/g.webp",
         "sampleCount": 23,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9264/aa86dab4-9e52-4640-a8a9-109d4b8cda6e.webp",
+            "imagePath": "/series/official/dragonball-gt/g-detail-1-12eae0b2da13f459.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9265/4799460f-0308-4dd3-85e2-9b5254c88283.webp",
+            "imagePath": "/series/official/dragonball-gt/g-detail-2-67f67498d3bd7791.webp"
+          }
+        ]
       },
       {
         "letter": "H",
         "name": "ダイカットビジュアルボード",
         "nameKo": "다이컷 비주얼 보드",
         "description": "GT 로고와 전투 장면의 대형 보드.",
-        "size": "약 29~41cm",
+        "size": "約29~41cm",
         "variants": "총 10종 · 디자인 선택 가능",
         "variantCount": 10,
         "selection": "choose",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106936/8236d3de-d7c6-49f5-83bc-ddcd4041e3ff.webp",
         "imagePath": "/series/official/dragonball-gt/h.webp",
         "sampleCount": 23,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9287/006610bb-e958-40c6-8e4c-4febd171a0da.webp",
+            "imagePath": "/series/official/dragonball-gt/h-detail-1-b3dd7dc0cfa20263.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9288/283dcdc1-67c9-46fb-8739-53f393c1716c.webp",
+            "imagePath": "/series/official/dragonball-gt/h-detail-2-48a5c878ec2d222d.webp"
+          }
+        ]
       },
       {
         "letter": "I",
         "name": "クリアファイル＆ステッカーセット",
         "nameKo": "클리어 파일 & 스티커 세트",
         "description": "무광 파일과 GT 디자인 스티커 구성.",
-        "size": "파일 A4 / 스티커 약 4.5~7cm",
+        "size": "クリアファイル A4、ステッカー 約4.5~7cm",
         "variants": "총 11종 · 디자인 선택 가능",
         "variantCount": 11,
         "selection": "choose",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106937/937cb225-003d-43ab-a67f-3f3f192f2e7b.webp",
         "imagePath": "/series/official/dragonball-gt/i.webp",
         "sampleCount": 22,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9298/5deb7bab-adc7-4c25-a119-b2f85a3aa130.webp",
+            "imagePath": "/series/official/dragonball-gt/i-detail-1-2a1914d1630e53b5.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9299/d45f20ae-0f6a-40c0-8aa4-753962a4d119.webp",
+            "imagePath": "/series/official/dragonball-gt/i-detail-2-8faf83da8168df44.webp"
+          }
+        ]
       },
       {
         "letter": "LAST",
         "name": "ドラゴンボールGT THE GIGANT NAME",
         "nameKo": "드래곤볼 GT THE GIGANT NAME",
         "description": "GT 타이틀 로고를 입체화한 마지막 1장 경품.",
-        "size": "약 36cm",
+        "size": "約36cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106269/6af90e5d-62df-4011-b38e-4a494c237c9b.webp",
-        "imagePath": "/series/official/dragonball-gt/last.webp",
+        "imagePath": "/series/official/dragonball-gt/double-chance.webp",
         "sampleCount": 0,
         "gallery": [
           {
-            "imageUrl": "https://sf.1kuji.com/1kuji_dragonball/portal/images/special/db_gt/LO1.webp",
-            "imagePath": "/series/official/dragonball-gt/last-detail-1.webp"
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9327/b2c48496-3af8-4eb6-981c-5cfd558794e5.webp",
+            "imagePath": "/series/official/dragonball-gt/last-detail-1-4438c0e538753433.webp"
           },
           {
-            "imageUrl": "https://sf.1kuji.com/1kuji_dragonball/portal/images/special/db_gt/LO2.webp",
-            "imagePath": "/series/official/dragonball-gt/last-detail-2.webp"
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9328/c7f193cb-6446-4556-8683-e9a4936045c8.webp",
+            "imagePath": "/series/official/dragonball-gt/last-detail-2-4dfac9b63e4de324.webp"
           }
         ]
       }
     ],
     "doubleChance": {
-      "name": "드래곤볼 GT THE GIGANT NAME",
-      "description": "공식 캠페인 추첨 경품 50개. 라스트원상과 동일한 사양입니다.",
-      "deadline": "2026-11-30",
+      "name": "ドラゴンボールGT THE GIGANT NAME",
+      "description": "공식 별도 캠페인 당첨 수 50개. 이 프로그램에서는 응모를 제공하지 않습니다.",
+      "deadline": "キャンペーン期間: 発売日~2026年11月末日",
       "awardCount": 50,
-      "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106269/6af90e5d-62df-4011-b38e-4a494c237c9b.webp",
-      "imagePath": "/series/official/dragonball-gt/double-chance.webp"
+      "imageUrl": "https://assets.1kuji.com/uploads/campaign/image/11519/cc6868a1-4d8d-4caa-9d5d-c1cbc50a23bb.webp",
+      "imagePath": "/series/official/dragonball-gt/double-chance-3141d20c4b69dd4e.webp"
     },
     "franchiseKo": "드래곤볼",
     "franchiseJp": "ドラゴンボール",
     "releaseDatePrecision": "day",
-    "releaseDateText": "2026-08-22",
+    "releaseDateText": "2026年08月22日(土)より順次発売予定",
     "catalogStatus": "ON_SALE",
     "prizeDetailsPending": false,
     "sampleAllocation": true,
-    "introducedRevision": 1
+    "introducedRevision": 1,
+    "franchiseCode": "DRAGON_BALL",
+    "sampleAllocationMethod": "equal-80-demo",
+    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
   },
   {
     "code": "ONE_PIECE",
@@ -1964,11 +1682,11 @@
     "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10710/6adb2b73-5524-41fc-9a9d-40a4cd30d690.webp",
     "posterPath": "/series/official/one-piece-elbaf-vol2/poster-wide.webp",
     "summary": "엘바프 의상을 입은 밀짚모자 일당과 브로기·스코퍼 가반, 군코를 담은 제일복권. 피규어 6종과 엘바프 테마 잡화로 구성됩니다.",
-    "copyright": "©尾田栄一郎／集英社・フジテレビ・東映アニメーション",
+    "copyright": "©尾田栄一郎/集英社・フジテレビ・東映アニメーション",
     "checkedAt": "2026-10-16",
     "descriptionHtml": "<p>엘바프 의상을 입은 밀짚모자 일당과 브로기·스코퍼 가반, 군코를 담은 제일복권. 피규어 6종과 엘바프 테마 잡화로 구성됩니다.</p><p>공식 발매 상품의 포스터와 경품 정보를 아래에서 확인하세요. 원화 가격과 판별 수량은 체험용 예시입니다.</p>",
     "age": "",
-    "retailers": "세븐일레븐, 이토요카도, 유메타운, 무기와라 스토어 등",
+    "retailers": "セブン‐イレブン店舗、イトーヨーカドー店舗、ゆめタウン店舗、麦わらストアなど",
     "onlineSaleEndedAt": "",
     "additionalSources": [
       "https://sf.1kuji.com/onep_masterlise-expiece/"
@@ -1989,10 +1707,6 @@
       {
         "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2876/47463318-3d65-4a91-a4c4-aceae7b1f016.gif",
         "imagePath": "/series/official/one-piece-elbaf-vol2/product-detail-4.gif"
-      },
-      {
-        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2874/fbe33b01-935a-469a-bc64-d899d4220acf.webp",
-        "imagePath": "/series/official/one-piece-elbaf-vol2/product-detail-5.webp"
       }
     ],
     "prizes": [
@@ -2001,7 +1715,7 @@
         "name": "ロロノア・ゾロ MASTERLISE EXPIECE",
         "nameKo": "롤로노아 조로 MASTERLISE EXPIECE",
         "description": "엘바프의 새 의상과 역동적인 조로의 동작을 담은 피규어입니다.",
-        "size": "약 12cm",
+        "size": "約12cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -2015,7 +1729,7 @@
         "name": "サンジ MASTERLISE EXPIECE",
         "nameKo": "상디 MASTERLISE EXPIECE",
         "description": "갑옷을 입고 왼발을 높이 들어 올린 상디의 발차기를 표현했습니다.",
-        "size": "약 13cm",
+        "size": "約13cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -2029,7 +1743,7 @@
         "name": "トニートニー・チョッパー MASTERLISE EXPIECE",
         "nameKo": "토니토니 쵸파 MASTERLISE EXPIECE",
         "description": "엘바프 의상을 입은 쵸파의 용맹한 모습을 담았습니다.",
-        "size": "약 10cm",
+        "size": "約10cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -2043,7 +1757,7 @@
         "name": "ブロギー MASTERLISE EXPIECE",
         "nameKo": "브로기 MASTERLISE EXPIECE",
         "description": "도끼를 든 거인 브로기의 모습을 높이 약 21cm, 폭 약 28cm로 구현했습니다.",
-        "size": "높이 약 21cm · 폭 약 28cm",
+        "size": "高さ 約21cm、幅 約28cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -2057,7 +1771,7 @@
         "name": "スコッパー・ギャバン MASTERLISE EXPIECE",
         "nameKo": "스코퍼 가반 MASTERLISE EXPIECE",
         "description": "해적왕의 왼팔 스코퍼 가반을 MASTERLISE EXPIECE로 처음 선보입니다.",
-        "size": "약 16cm",
+        "size": "約16cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -2071,7 +1785,7 @@
         "name": "エルバフタオル",
         "nameKo": "엘바프 타월",
         "description": "엘바프 티저 비주얼을 활용하고 거인의 발자국을 입체적인 타월 조직으로 표현했습니다.",
-        "size": "약 40×90cm",
+        "size": "約40×90cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -2085,7 +1799,7 @@
         "name": "永久指針アクリルスタンド",
         "nameKo": "영구지침 아크릴 스탠드",
         "description": "루피와 우솝이 회전하는 구조로 리틀 가든과 엘바프의 의상 두 가지를 제공합니다.",
-        "size": "약 7.5cm",
+        "size": "約7.5cm",
         "variants": "총 2종 · 디자인 선택 가능",
         "variantCount": 2,
         "selection": "choose",
@@ -2108,7 +1822,7 @@
         "name": "デスクアソート",
         "nameKo": "데스크 어소트",
         "description": "노트·점착 메모·입체 메모·마스킹 테이프로 이루어진 6종 문구 구성입니다.",
-        "size": "노트 B6 · 점착 메모 약 5～6cm · 입체 메모 약 9.5×7.5cm · 마스킹 테이프 폭약 1.5cm×길이약 18m",
+        "size": "ノート B6、付箋 約5~6cm、立体メモ 約9.5×7.5cm、マスキングテープ 幅約1.5cm×長さ約18m",
         "variants": "총 6종 · 디자인 선택 가능",
         "variantCount": 6,
         "selection": "choose",
@@ -2123,22 +1837,6 @@
           {
             "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9333/76f9e5b0-17cb-40f0-872f-fbdddff7f37c.webp",
             "imagePath": "/series/official/one-piece-elbaf-vol2/h-detail-2.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9334/e53918a3-6a33-4859-b7e5-89ee30b6d943.webp",
-            "imagePath": "/series/official/one-piece-elbaf-vol2/h-detail-3.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9335/8f310e35-04be-4827-997b-37307c61162b.webp",
-            "imagePath": "/series/official/one-piece-elbaf-vol2/h-detail-4.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9336/94e2854b-ca59-4a6e-a5c6-70d6a7adab62.webp",
-            "imagePath": "/series/official/one-piece-elbaf-vol2/h-detail-5.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9337/3e69cca2-0c3a-41cd-84f8-746d327ca766.webp",
-            "imagePath": "/series/official/one-piece-elbaf-vol2/h-detail-6.webp"
           }
         ]
       },
@@ -2147,7 +1845,7 @@
         "name": "エルバフアクリルチャーム",
         "nameKo": "엘바프 아크릴 참",
         "description": "엘바프 등장인물의 의상을 디자인에 활용한 아크릴 참 10종입니다.",
-        "size": "약 4.5cm",
+        "size": "約4.5cm",
         "variants": "총 10종 · 디자인 선택 가능",
         "variantCount": 10,
         "selection": "choose",
@@ -2162,38 +1860,6 @@
           {
             "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9339/9be2d3c7-11c1-4c3a-b3d2-18c7b215d380.webp",
             "imagePath": "/series/official/one-piece-elbaf-vol2/i-detail-2.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9340/cde54ad9-a11b-401e-9be4-8b3edac85944.webp",
-            "imagePath": "/series/official/one-piece-elbaf-vol2/i-detail-3.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9341/4077b7e0-023a-480e-aaf7-7f330b9005f2.webp",
-            "imagePath": "/series/official/one-piece-elbaf-vol2/i-detail-4.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9342/eec3f94e-2e20-4a03-b3ad-604fa9b8eba1.webp",
-            "imagePath": "/series/official/one-piece-elbaf-vol2/i-detail-5.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9343/df9d96e8-e1f4-4b60-8ae6-29c0b03b7c6c.webp",
-            "imagePath": "/series/official/one-piece-elbaf-vol2/i-detail-6.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9344/3a4058cb-0c8e-42b5-ae48-60979018ca04.webp",
-            "imagePath": "/series/official/one-piece-elbaf-vol2/i-detail-7.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9345/394d3f2a-fa89-4f3b-a940-c8ec14741ce9.webp",
-            "imagePath": "/series/official/one-piece-elbaf-vol2/i-detail-8.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9346/d871f38e-4880-4617-881a-174ae8210739.webp",
-            "imagePath": "/series/official/one-piece-elbaf-vol2/i-detail-9.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9347/cdf6e5bd-ea5f-4d37-b9db-2157c05592b0.webp",
-            "imagePath": "/series/official/one-piece-elbaf-vol2/i-detail-10.webp"
           }
         ]
       },
@@ -2217,38 +1883,6 @@
           {
             "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9349/ecaa93d8-43ed-47e3-b1ef-a1ad658fb67c.webp",
             "imagePath": "/series/official/one-piece-elbaf-vol2/j-detail-2.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9350/804cd84e-2078-4457-a287-c22a2710ea40.webp",
-            "imagePath": "/series/official/one-piece-elbaf-vol2/j-detail-3.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9351/bbe61ebf-ff8c-4ba2-833b-0820e04cbb9a.webp",
-            "imagePath": "/series/official/one-piece-elbaf-vol2/j-detail-4.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9352/89111c40-1905-46f3-8f88-dbfcb3275121.webp",
-            "imagePath": "/series/official/one-piece-elbaf-vol2/j-detail-5.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9353/5947ca99-592f-46b2-b9f5-113c89c10175.webp",
-            "imagePath": "/series/official/one-piece-elbaf-vol2/j-detail-6.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9354/b2c4a366-d6c2-469d-842e-f10c6dc49e54.webp",
-            "imagePath": "/series/official/one-piece-elbaf-vol2/j-detail-7.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9355/aacd2868-02b9-4cfb-8910-79d37f22a9a6.webp",
-            "imagePath": "/series/official/one-piece-elbaf-vol2/j-detail-8.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9356/b19e031a-3471-43b8-91f9-4a4bb8e372d0.webp",
-            "imagePath": "/series/official/one-piece-elbaf-vol2/j-detail-9.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9357/bb0fbf55-6151-4cdd-9702-86411c2bbfde.webp",
-            "imagePath": "/series/official/one-piece-elbaf-vol2/j-detail-10.webp"
           }
         ]
       },
@@ -2257,7 +1891,7 @@
         "name": "軍子宮 MASTERLISE EXPIECE",
         "nameKo": "군코 MASTERLISE EXPIECE",
         "description": "신의 기사단 군코의 차분한 모습을 담은 라스트원 피규어입니다.",
-        "size": "약 19cm",
+        "size": "約19cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -2270,7 +1904,7 @@
     "doubleChance": {
       "name": "TO BE CONTINUED THE GIGANT NAME",
       "description": "2026년 원피스 제일복권 공통 경품으로, TO BE CONTINUED 문구를 대형 조형물로 만들었습니다. 매장·온라인을 합쳐 이 상품의 당첨 수는 100개이며 라스트원과 별도 응모 캠페인입니다.",
-      "deadline": "2026-11-30",
+      "deadline": "キャンペーン期間: 発売日~2026年11月末日",
       "awardCount": 100,
       "imageUrl": "https://assets.1kuji.com/uploads/campaign/image/11587/a71f454c-8fd9-48de-a593-572482b26691.webp",
       "imagePath": "/series/official/one-piece-elbaf-vol2/double-chance.webp"
@@ -2278,11 +1912,14 @@
     "franchiseKo": "원피스",
     "franchiseJp": "ワンピース",
     "releaseDatePrecision": "day",
-    "releaseDateText": "2026-08-08",
+    "releaseDateText": "2026年08月08日(土)より発売予定",
     "catalogStatus": "ON_SALE",
     "prizeDetailsPending": false,
     "sampleAllocation": true,
-    "introducedRevision": 1
+    "introducedRevision": 1,
+    "franchiseCode": "ONE_PIECE",
+    "sampleAllocationMethod": "equal-80-demo",
+    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
   },
   {
     "code": "NARUTO",
@@ -2301,11 +1938,11 @@
     "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10659/89050eae-63cf-431f-918c-c9a10134e18e.webp",
     "posterPath": "/series/official/naruto-kazekage/poster-wide.webp",
     "summary": "풍영 탈환편의 나루토·사쿠라·카카시·가아라·사소리 피규어와 아카츠키 잡화를 구성했습니다. 마지막 복권의 라스트원 경품은 데이다라입니다.",
-    "copyright": "©岸本斉史 スコット／集英社･テレビ東京･ぴえろ",
+    "copyright": "©岸本斉史 スコット/集英社・テレビ東京・ぴえろ",
     "checkedAt": "2026-10-16",
     "descriptionHtml": "<p>풍영 탈환편의 나루토·사쿠라·카카시·가아라·사소리 피규어와 아카츠키 잡화를 구성했습니다. 마지막 복권의 라스트원 경품은 데이다라입니다.</p><p>공식 발매 상품의 포스터와 경품 정보를 아래에서 확인하세요. 원화 가격과 판별 수량은 체험용 예시입니다.</p>",
     "age": "",
-    "retailers": "세븐일레븐, 이토요카도, 유메타운 등",
+    "retailers": "セブン‐イレブン店舗、イトーヨーカドー店舗、ゆめタウン店舗など",
     "onlineSaleEndedAt": "",
     "additionalSources": [
       "https://naruto-official.com/news/01_2625"
@@ -2326,34 +1963,6 @@
       {
         "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2658/d4b879ce-e888-4be8-95a8-f8c8367ea615.webp",
         "imagePath": "/series/official/naruto-kazekage/product-detail-4.webp"
-      },
-      {
-        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2660/ad4a5eb2-fd18-44ce-8aa9-0f55e2d2b15b.webp",
-        "imagePath": "/series/official/naruto-kazekage/product-detail-5.webp"
-      },
-      {
-        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2667/04a639f7-d400-4421-acfb-82013d0cf4ad.webp",
-        "imagePath": "/series/official/naruto-kazekage/product-detail-6.webp"
-      },
-      {
-        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2662/3dbf4095-5013-45fc-9b6e-6ab8b3951bcc.webp",
-        "imagePath": "/series/official/naruto-kazekage/product-detail-7.webp"
-      },
-      {
-        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2663/71024345-e80f-4aa8-b883-743377d02423.webp",
-        "imagePath": "/series/official/naruto-kazekage/product-detail-8.webp"
-      },
-      {
-        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2664/377e6745-1831-4523-8e1d-d8cfa52a9da8.gif",
-        "imagePath": "/series/official/naruto-kazekage/product-detail-9.gif"
-      },
-      {
-        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2665/a6fc4b0c-6436-43a7-ab2d-afe5557f85e6.webp",
-        "imagePath": "/series/official/naruto-kazekage/product-detail-10.webp"
-      },
-      {
-        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2661/0c9ed52a-3ba3-45ed-910d-795dafd1bc83.webp",
-        "imagePath": "/series/official/naruto-kazekage/product-detail-11.webp"
       }
     ],
     "prizes": [
@@ -2362,7 +1971,7 @@
         "name": "うずまきナルト MASTERLISE",
         "nameKo": "우즈마키 나루토 MASTERLISE",
         "description": "질풍전의 우즈마키 나루토를 약 24cm MASTERLISE 피규어로 담았습니다.",
-        "size": "약 24cm",
+        "size": "約24cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -2376,7 +1985,7 @@
         "name": "春野サクラ MASTERLISE",
         "nameKo": "하루노 사쿠라 MASTERLISE",
         "description": "질풍전의 하루노 사쿠라를 약 23cm MASTERLISE 피규어로 담았습니다.",
-        "size": "약 23cm",
+        "size": "約23cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -2390,7 +1999,7 @@
         "name": "はたけカカシ MASTERLISE",
         "nameKo": "하타케 카카시 MASTERLISE",
         "description": "질풍전의 하타케 카카시를 약 25cm MASTERLISE 피규어로 담았습니다.",
-        "size": "약 25cm",
+        "size": "約25cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -2404,7 +2013,7 @@
         "name": "我愛羅（風影） MASTERLISE",
         "nameKo": "가아라(카제카게) MASTERLISE",
         "description": "카제카게 가아라를 약 24cm MASTERLISE 피규어로 담았습니다.",
-        "size": "약 24cm",
+        "size": "約24cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -2418,7 +2027,7 @@
         "name": "サソリ MASTERLISE",
         "nameKo": "사소리 MASTERLISE",
         "description": "아카츠키 멤버 사소리를 약 23cm MASTERLISE 피규어로 담았습니다.",
-        "size": "약 23cm",
+        "size": "約23cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -2432,7 +2041,7 @@
         "name": "デスクトップフィギュア",
         "nameKo": "데스크톱 피규어",
         "description": "수학·쿠라마 마그넷과 기폭점토 마스코트로 구성된 약 4cm 데스크톱 소품 4종입니다.",
-        "size": "약 4cm",
+        "size": "約4cm",
         "variants": "총 4종 · 무작위 디자인",
         "variantCount": 4,
         "selection": "blind",
@@ -2447,14 +2056,6 @@
           {
             "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/7781/2029c497-6164-4bd0-a44e-7d374cd72ce9.webp",
             "imagePath": "/series/official/naruto-kazekage/f-detail-2.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/7782/0d97cad4-ac3d-4037-a79f-1c5798104353.webp",
-            "imagePath": "/series/official/naruto-kazekage/f-detail-3.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/7783/de1526e2-9132-4add-a3f8-74b924debb70.webp",
-            "imagePath": "/series/official/naruto-kazekage/f-detail-4.webp"
           }
         ]
       },
@@ -2463,7 +2064,7 @@
         "name": "スタンプ・ノートコレクション",
         "nameKo": "스탬프·노트 컬렉션",
         "description": "약 6cm 스탬프와 B6 노트를 포함한 7종 컬렉션입니다.",
-        "size": "스탬프 약 6cm · 노트 B6",
+        "size": "スタンプ 約6cm、ノート B6",
         "variants": "총 7종 · 디자인 선택 가능",
         "variantCount": 7,
         "selection": "choose",
@@ -2478,26 +2079,6 @@
           {
             "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/7785/462a58ea-b8ba-4b61-9eaf-647fc62a6139.webp",
             "imagePath": "/series/official/naruto-kazekage/g-detail-2.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/7786/0ed320e5-d563-4aff-a644-e9b546a099d4.webp",
-            "imagePath": "/series/official/naruto-kazekage/g-detail-3.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/7787/a4a81ad3-a305-404b-8652-7cd191aa0bd9.webp",
-            "imagePath": "/series/official/naruto-kazekage/g-detail-4.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/7788/2c639e61-1205-472d-9a14-ea798eb0f858.webp",
-            "imagePath": "/series/official/naruto-kazekage/g-detail-5.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/7789/d40351c6-fa31-4a7a-a251-cca8c10b7b90.webp",
-            "imagePath": "/series/official/naruto-kazekage/g-detail-6.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/7790/977e9080-d343-4132-adba-32aca84e0596.webp",
-            "imagePath": "/series/official/naruto-kazekage/g-detail-7.webp"
           }
         ]
       },
@@ -2506,7 +2087,7 @@
         "name": "-NARUTO 72 series-アクリルチャーム",
         "nameKo": "NARUTO 72 series 아크릴 참",
         "description": "NARUTO 72 series 일러스트를 사용한 약 5cm 아크릴 참 9종입니다.",
-        "size": "약 5cm",
+        "size": "約5cm",
         "variants": "총 9종 · 무작위 디자인",
         "variantCount": 9,
         "selection": "blind",
@@ -2521,34 +2102,6 @@
           {
             "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/7799/dc12d29e-c80b-4888-81ad-5384ed38a140.webp",
             "imagePath": "/series/official/naruto-kazekage/h-detail-2.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/7792/13e37e6c-bb54-46b2-a916-672ca77fb16f.webp",
-            "imagePath": "/series/official/naruto-kazekage/h-detail-3.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/7793/e5358401-f863-4f10-925f-0731f3f6d7d8.webp",
-            "imagePath": "/series/official/naruto-kazekage/h-detail-4.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/7794/ad0b90a2-1fd4-4b83-b32e-6a6411cfec58.webp",
-            "imagePath": "/series/official/naruto-kazekage/h-detail-5.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/7795/1dd9a099-7608-432d-82a0-7c6e639f7a52.webp",
-            "imagePath": "/series/official/naruto-kazekage/h-detail-6.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/7796/b3953680-fda4-4439-adfe-56fb69c123d9.webp",
-            "imagePath": "/series/official/naruto-kazekage/h-detail-7.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/7797/ee416a09-ae94-4f52-a029-2a338df3f84e.webp",
-            "imagePath": "/series/official/naruto-kazekage/h-detail-8.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/7798/88250f3c-ff8b-4725-ba53-df96633914e3.webp",
-            "imagePath": "/series/official/naruto-kazekage/h-detail-9.webp"
           }
         ]
       },
@@ -2557,7 +2110,7 @@
         "name": "ビジュアルシートセット",
         "nameKo": "비주얼 시트 세트",
         "description": "아카츠키 멤버를 디자인한 A4 비주얼 시트 2장 세트 6종입니다.",
-        "size": "A4(2장 세트)",
+        "size": "A4(2枚セット)",
         "variants": "총 6종 · 디자인 선택 가능",
         "variantCount": 6,
         "selection": "choose",
@@ -2572,22 +2125,6 @@
           {
             "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/7801/2b413307-c244-4409-9ae4-8e587586ab12.webp",
             "imagePath": "/series/official/naruto-kazekage/i-detail-2.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/7802/8f476ff1-b1db-4db7-8f97-981331cd6cf1.webp",
-            "imagePath": "/series/official/naruto-kazekage/i-detail-3.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/7803/e3fa0b4c-c068-4cc3-a530-ee402c4870de.webp",
-            "imagePath": "/series/official/naruto-kazekage/i-detail-4.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/7804/70fccc57-11f8-441a-a978-e75aaf50f284.webp",
-            "imagePath": "/series/official/naruto-kazekage/i-detail-5.webp"
-          },
-          {
-            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/7805/eb501462-2c1c-4d8b-b8e4-e3219e926a32.webp",
-            "imagePath": "/series/official/naruto-kazekage/i-detail-6.webp"
           }
         ]
       },
@@ -2596,7 +2133,7 @@
         "name": "デイダラ MASTERLISE",
         "nameKo": "데이다라 MASTERLISE",
         "description": "마지막 복권을 뽑으면 받을 수 있는 약 21cm 데이다라 MASTERLISE 피규어입니다.",
-        "size": "약 21cm",
+        "size": "約21cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -2607,9 +2144,9 @@
       }
     ],
     "doubleChance": {
-      "name": "데이다라 MASTERLISE",
-      "description": "라스트원과 동일한 데이다라 MASTERLISE 피규어를 별도 응모로 제공하는 캠페인입니다. 공식 당첨 수는 50개이며 2026년 9월 말까지로 안내되어 있습니다.",
-      "deadline": "2026-09-30",
+      "name": "デイダラ MASTERLISE",
+      "description": "공식 별도 캠페인 당첨 수 50개. 이 프로그램에서는 응모를 제공하지 않습니다.",
+      "deadline": "キャンペーン期間: 発売日~2026年09月末日",
       "awardCount": 50,
       "imageUrl": "https://assets.1kuji.com/uploads/campaign/image/11466/1b7033bf-aa3b-47c0-9788-1a0a5292c662.webp",
       "imagePath": "/series/official/naruto-kazekage/double-chance.webp"
@@ -2617,11 +2154,14 @@
     "franchiseKo": "나루토",
     "franchiseJp": "NARUTO-ナルト- 疾風伝",
     "releaseDatePrecision": "day",
-    "releaseDateText": "2026-06-26",
+    "releaseDateText": "2026年06月26日(金)より発売予定",
     "catalogStatus": "ON_SALE",
     "prizeDetailsPending": false,
     "sampleAllocation": true,
-    "introducedRevision": 1
+    "introducedRevision": 1,
+    "franchiseCode": "NARUTO",
+    "sampleAllocationMethod": "equal-80-demo",
+    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
   },
   {
     "code": "JUJUTSU_KAISEN",
@@ -2636,28 +2176,45 @@
     "priceJpy": 800,
     "samplePriceKrw": 12000,
     "sourceUrl": "https://1kuji.com/products/jujutsu19",
-    "onlineSourceUrl": "https://on-line.1kuji.com/Form/Product/ProductDetail.aspx?bid=IP00002080&pid=sap_0000008713&shop=0",
+    "onlineSourceUrl": "https://on-line.1kuji.com/Form/Product/ProductDetail.aspx?pid=sap_0000008713&bid=IP00002080",
     "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10730/162a4cae-1c6b-43d9-95af-d81ca464b379.webp",
     "posterPath": "/series/official/jujutsu-5th-final/poster-wide.webp",
     "summary": "애니메이션 5주년을 기념하는 MASTERLISE 피규어와 기념 비주얼 굿즈 구성.",
-    "copyright": "©芥見下々／集英社・呪術廻戦製作委員会 / © 2021 「劇場版 呪術廻戦 0」製作委員会 ©芥見下々／集英社",
+    "copyright": "©芥見下々/集英社・呪術廻戦製作委員会 © 2021 「劇場版 呪術廻戦 0」製作委員会 ©芥見下々/集英社",
     "checkedAt": "2026-10-16",
     "descriptionHtml": "<p>애니메이션 5주년을 기념하는 MASTERLISE 피규어와 기념 비주얼 굿즈 구성.</p><p>공식 발매 상품의 포스터와 경품 정보를 아래에서 확인하세요. 원화 가격과 판별 수량은 체험용 예시입니다.</p>",
     "age": "15세 이상",
-    "retailers": "",
+    "retailers": "ファミリーマート、ミニストップ、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなど",
     "onlineSaleEndedAt": "2026-10-09T11:35:00+09:00",
     "additionalSources": [
       "https://www.bandaispirits.co.jp/products/search/detail.php?grp_id=9999&prd_id=jujutsu19",
       "https://on-line.1kuji.com/Form/Product/ProductDetail.aspx?bid=IP00002080&pid=sap_0000008713&shop=0"
     ],
-    "gallery": [],
+    "gallery": [
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3316/cc1cd104-0102-445a-8349-4fe8cd746ec4.webp",
+        "imagePath": "/series/official/jujutsu-5th-final/gallery-1-773bd7ce5c7e89ae.webp"
+      },
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3317/98d269a5-284c-40c7-ac91-e8a685ccbb46.webp",
+        "imagePath": "/series/official/jujutsu-5th-final/gallery-2-6ba4f8c91482e079.webp"
+      },
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3318/6fc985be-2647-45d3-a39e-632ec5301a26.webp",
+        "imagePath": "/series/official/jujutsu-5th-final/gallery-3-8dd1b2f78bcc8e26.webp"
+      },
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3319/340595a0-bb38-4850-881f-7b388168995c.webp",
+        "imagePath": "/series/official/jujutsu-5th-final/gallery-4-0f31fcef5a820677.webp"
+      }
+    ],
     "prizes": [
       {
         "letter": "A",
         "name": "虎杖悠仁 MASTERLISE",
         "nameKo": "이타도리 유지 MASTERLISE",
         "description": "빨간 후드 차림의 유지 피규어.",
-        "size": "약 23cm",
+        "size": "約23cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -2671,7 +2228,7 @@
         "name": "乙骨憂太 MASTERLISE",
         "nameKo": "옷코츠 유타 MASTERLISE",
         "description": "극장판 마지막 장면의 교복 차림 유타.",
-        "size": "약 24cm",
+        "size": "約24cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -2685,84 +2242,134 @@
         "name": "アクリルボード",
         "nameKo": "아크릴 보드",
         "description": "네 이야기의 신규 일러스트를 담은 보드.",
-        "size": "약 30cm",
+        "size": "約30cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107161/30bf0fb1-23df-464c-8009-2cd693961cfd.webp",
         "imagePath": "/series/official/jujutsu-5th-final/c.webp",
         "sampleCount": 2,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10129/be6a6a9c-c333-4792-8aeb-351abd49af83.webp",
+            "imagePath": "/series/official/jujutsu-5th-final/c-detail-1-fda2d5e988c6ff6c.webp"
+          }
+        ]
       },
       {
         "letter": "D",
         "name": "劇場版 呪術廻戦 ０ ビッグアクリルスタンド",
         "nameKo": "극장판 주술회전 0 빅 아크릴 스탠드",
         "description": "옷코츠 유타·이누마키 토게 일러스트.",
-        "size": "약 17cm",
+        "size": "約17cm",
         "variants": "총 2종 · 디자인 선택 가능",
         "variantCount": 2,
         "selection": "choose",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106795/3c63b67b-ccd2-46fb-a651-d1e49b1dfd8e.webp",
         "imagePath": "/series/official/jujutsu-5th-final/d.webp",
         "sampleCount": 2,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8600/b2d84e9f-ac86-4d58-a0ab-4dd6fb24149b.webp",
+            "imagePath": "/series/official/jujutsu-5th-final/d-detail-1-67eb572beac0a605.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8601/85bc326a-e071-4b33-a5b4-fe35572816d4.webp",
+            "imagePath": "/series/official/jujutsu-5th-final/d-detail-2-0f2df5722d01af23.webp"
+          }
+        ]
       },
       {
         "letter": "E",
         "name": "懐玉・玉折 ビッグアクリルスタンド",
         "nameKo": "회옥·옥절 빅 아크릴 스탠드",
         "description": "고죠 사토루·게토 스구루 일러스트.",
-        "size": "약 17~18cm",
+        "size": "約17~18cm",
         "variants": "총 2종 · 디자인 선택 가능",
         "variantCount": 2,
         "selection": "choose",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106796/79906e5b-e9a3-42d3-9676-14592a30563b.webp",
         "imagePath": "/series/official/jujutsu-5th-final/e.webp",
         "sampleCount": 2,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8602/e8414c7d-0605-416a-b970-19a1e8434cb9.webp",
+            "imagePath": "/series/official/jujutsu-5th-final/e-detail-1-1146f0da65d8507b.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8603/561ea4a9-31a4-4a38-aead-ecc7324c106c.webp",
+            "imagePath": "/series/official/jujutsu-5th-final/e-detail-2-ad49e7425be4022b.webp"
+          }
+        ]
       },
       {
         "letter": "F",
         "name": "渋谷事変 ビッグアクリルスタンド",
         "nameKo": "시부야 사변 빅 아크릴 스탠드",
         "description": "후시구로 메구미·나나미 켄토 일러스트.",
-        "size": "약 18~19cm",
+        "size": "約18~19cm",
         "variants": "총 2종 · 디자인 선택 가능",
         "variantCount": 2,
         "selection": "choose",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106797/f29145f7-1de4-40ed-ad54-e022b353dbd2.webp",
         "imagePath": "/series/official/jujutsu-5th-final/f.webp",
         "sampleCount": 2,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8604/482f61fb-87eb-48ac-ad06-1135aeded777.webp",
+            "imagePath": "/series/official/jujutsu-5th-final/f-detail-1-d75425ef413b384f.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8605/19d3f0c7-9819-4a18-8875-18019cb0678d.webp",
+            "imagePath": "/series/official/jujutsu-5th-final/f-detail-2-8b97bd4dcab27b9b.webp"
+          }
+        ]
       },
       {
         "letter": "G",
         "name": "死滅回游 ビッグアクリルスタンド",
         "nameKo": "사멸회유 빅 아크릴 스탠드",
         "description": "이타도리 유지·쵸소우 일러스트.",
-        "size": "약 18cm",
+        "size": "約18cm",
         "variants": "총 2종 · 디자인 선택 가능",
         "variantCount": 2,
         "selection": "choose",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106798/4e21c25c-df41-4e53-b475-37e36fc450eb.webp",
         "imagePath": "/series/official/jujutsu-5th-final/g.webp",
         "sampleCount": 17,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8606/615e1bc4-2b71-4a7f-b3e7-8919606b25bf.webp",
+            "imagePath": "/series/official/jujutsu-5th-final/g-detail-1-443dbd5801485f20.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8607/4f692dce-06ce-46a8-ad2f-3d32310d9450.webp",
+            "imagePath": "/series/official/jujutsu-5th-final/g-detail-2-762fb2684ea3426f.webp"
+          }
+        ]
       },
       {
         "letter": "H",
         "name": "アクリルバッジ",
         "nameKo": "아크릴 배지",
         "description": "5주년 비주얼의 캐릭터 다이컷 배지.",
-        "size": "약 5~10cm",
+        "size": "約5~10cm",
         "variants": "총 28종 · 무작위 디자인",
         "variantCount": 28,
         "selection": "blind",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107162/44c1c570-b514-4779-969a-08300a09c5ed.webp",
         "imagePath": "/series/official/jujutsu-5th-final/h.webp",
         "sampleCount": 17,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10130/f9d1fa63-6c0d-4312-83d3-ef462a4aee43.webp",
+            "imagePath": "/series/official/jujutsu-5th-final/h-detail-1-de26eef35de46012.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10131/7616a70b-ed4a-4d7d-a2a0-1313fd3f3a49.webp",
+            "imagePath": "/series/official/jujutsu-5th-final/h-detail-2-6f1ceccaed199588.webp"
+          }
+        ]
       },
       {
         "letter": "I",
@@ -2776,53 +2383,74 @@
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107163/1099974c-215e-471d-b77f-d680326ec8af.webp",
         "imagePath": "/series/official/jujutsu-5th-final/i.webp",
         "sampleCount": 17,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10158/c875e27e-84a0-4c7b-8524-709d1b0f5617.webp",
+            "imagePath": "/series/official/jujutsu-5th-final/i-detail-1-17bd0f0e19597457.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10159/1350a04e-1a88-4ddb-8384-152247f6f98e.webp",
+            "imagePath": "/series/official/jujutsu-5th-final/i-detail-2-021b3e6a1b5e611e.webp"
+          }
+        ]
       },
       {
         "letter": "J",
         "name": "ラバーチャーム",
         "nameKo": "러버 참",
         "description": "캐릭터의 주력과 술식을 모티프로 한 참.",
-        "size": "약 6cm",
+        "size": "約6cm",
         "variants": "총 17종 · 무작위 디자인",
         "variantCount": 17,
         "selection": "blind",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107164/ead48dd9-3f52-4e17-b4c3-e01286292761.webp",
         "imagePath": "/series/official/jujutsu-5th-final/j.webp",
         "sampleCount": 17,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10169/ada6e7f8-04c1-4ff4-9f37-75b8f9a02b0b.webp",
+            "imagePath": "/series/official/jujutsu-5th-final/j-detail-1-41b29aa6413582d5.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10170/08e9c422-6448-454d-b843-06f9a46c3034.webp",
+            "imagePath": "/series/official/jujutsu-5th-final/j-detail-2-2c396d9e044dff82.webp"
+          }
+        ]
       },
       {
         "letter": "LAST",
         "name": "五条悟 MASTERLISE",
         "nameKo": "고죠 사토루 MASTERLISE",
         "description": "고죠 사토루의 마지막 1장 피규어 경품.",
-        "size": "약 17cm",
+        "size": "約17cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106424/d79e4a45-0a1f-4345-8c88-751fe17c2aa7.webp",
-        "imagePath": "/series/official/jujutsu-5th-final/last.webp",
+        "imagePath": "/series/official/jujutsu-5th-final/double-chance.webp",
         "sampleCount": 0,
         "gallery": []
       }
     ],
     "doubleChance": {
-      "name": "고죠 사토루 MASTERLISE",
-      "description": "공식 캠페인 추첨 경품 50개. 라스트원상과 동일한 사양입니다.",
-      "deadline": "2026-12-31",
+      "name": "五条悟 MASTERLISE",
+      "description": "공식 별도 캠페인 당첨 수 50개. 이 프로그램에서는 응모를 제공하지 않습니다.",
+      "deadline": "キャンペーン期間: 発売日~2026年12月末日",
       "awardCount": 50,
-      "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106424/d79e4a45-0a1f-4345-8c88-751fe17c2aa7.webp",
-      "imagePath": "/series/official/jujutsu-5th-final/double-chance.webp"
+      "imageUrl": "https://assets.1kuji.com/uploads/campaign/image/11514/40105835-3f37-417f-b610-fa3223c2a7be.webp",
+      "imagePath": "/series/official/jujutsu-5th-final/double-chance-976ff164a03d84e5.webp"
     },
     "franchiseKo": "주술회전",
     "franchiseJp": "呪術廻戦",
     "releaseDatePrecision": "day",
-    "releaseDateText": "2026-09-26",
+    "releaseDateText": "2026年09月26日(土)より順次発売予定",
     "catalogStatus": "ON_SALE",
     "prizeDetailsPending": false,
     "sampleAllocation": true,
-    "introducedRevision": 1
+    "introducedRevision": 1,
+    "franchiseCode": "JUJUTSU_KAISEN",
+    "sampleAllocationMethod": "equal-80-demo",
+    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
   },
   {
     "code": "DEATH_NOTE_2025",
@@ -2837,8 +2465,8 @@
     "onlineSaleEndedAt": "2025-12-01T16:30:00+09:00",
     "priceJpy": 790,
     "onlineSourceUrl": "https://on-line.1kuji.com/Form/Product/ProductDetail.aspx?bid=IP00006046&pid=sap_0000008325&shop=0",
-    "retailers": "미니스톱, 데일리 야마자키, 기타 편의점, 서점, 취미숍, 제일복권 공식 숍, 제일복권 ONLINE 등",
-    "copyright": "©大場つぐみ・小畑健／集英社",
+    "retailers": "ミニストップ、デイリーヤマザキ、その他コンビニエンスストア、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなど",
+    "copyright": "©大場つぐみ・小畑健/集英社",
     "summary": "만화 표지를 옮긴 야가미 라이토·L 피규어와 류크 자석, 원화 비주얼 굿즈 구성.",
     "samplePriceKrw": 12000,
     "sourceUrl": "https://1kuji.com/products/deathnote",
@@ -2857,7 +2485,7 @@
         "name": "夜神月 フィギュア",
         "nameKo": "야가미 라이토 피규어",
         "description": "만화 1권 표지의 라이토를 입체화.",
-        "size": "인물 약 20cm / 받침~낫 끝 약 26cm",
+        "size": "キャラクター 約20cm、台座~鎌頂点 約26cm",
         "variantCount": 1,
         "selection": "single",
         "variants": "총 1종",
@@ -2871,7 +2499,7 @@
         "name": "L フィギュア",
         "nameKo": "L 피규어",
         "description": "만화 2권 표지의 L을 입체화.",
-        "size": "인물 약 10cm / 받침 포함 약 14cm",
+        "size": "キャラクター 約10cm、台座込み 約14cm",
         "variantCount": 1,
         "selection": "single",
         "variants": "총 1종",
@@ -2892,14 +2520,23 @@
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/104728/7feb74bf-cce8-4598-9f09-02784dbd6775.jpg",
         "imagePath": "/series/official/death-note-2025/c.jpg",
         "sampleCount": 12,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/994/200d278b-b3bd-490c-a0c5-bc17f45fdb8e.jpg",
+            "imagePath": "/series/official/death-note-2025/c-detail-1-9bb0315e326fa271.jpg"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/995/fc74bb51-3450-4f82-98c2-ddb9050d8f8d.jpg",
+            "imagePath": "/series/official/death-note-2025/c-detail-2-7e9474b7d1de9f3d.jpg"
+          }
+        ]
       },
       {
         "letter": "D",
         "name": "リューク すり抜けマグネット",
         "nameKo": "류크 벽 통과 자석",
         "description": "벽을 통과하는 류크 모습의 피규어 자석.",
-        "size": "약 9cm",
+        "size": "約9cm",
         "variantCount": 1,
         "selection": "single",
         "variants": "총 1종",
@@ -2913,14 +2550,23 @@
         "name": "食器アソート",
         "nameKo": "식기 어소트",
         "description": "작품 모티프의 유리컵과 접시 구성.",
-        "size": "유리컵 약 8cm / 직사각 접시 약 15cm / 원형 접시 약 10cm",
+        "size": "グラス 約8cm、長方形皿 約15cm、丸皿 約10cm",
         "variantCount": 3,
         "selection": "choose",
         "variants": "총 3종 · 디자인 선택 가능",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/105335/4d578f28-072e-45fc-9c8a-f5537e6e7151.webp",
         "imagePath": "/series/official/death-note-2025/e.webp",
         "sampleCount": 10,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/3347/6cf17e06-aca4-4c2f-ba5e-588e415a1ae8.webp",
+            "imagePath": "/series/official/death-note-2025/e-detail-1-9b36ba21755750e2.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/3348/8e3af584-9540-40a3-b4f3-6d0394558b86.webp",
+            "imagePath": "/series/official/death-note-2025/e-detail-2-67ce4551b8df0259.webp"
+          }
+        ]
       },
       {
         "letter": "F",
@@ -2934,56 +2580,92 @@
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/105336/a2ce1685-f98d-4fb5-9b9a-6daaeadd2b32.webp",
         "imagePath": "/series/official/death-note-2025/f.webp",
         "sampleCount": 13,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/3350/65c5efed-8322-4fff-8f09-5e49bd50b581.webp",
+            "imagePath": "/series/official/death-note-2025/f-detail-1-3ac08c50c64448e4.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/3351/b242b846-88a1-46bc-8cc8-971211950839.webp",
+            "imagePath": "/series/official/death-note-2025/f-detail-2-464d573a6f9ccabf.webp"
+          }
+        ]
       },
       {
         "letter": "G",
         "name": "アクリルスタンド",
         "nameKo": "아크릴 스탠드",
         "description": "작중 장면을 옮긴 미니 아크릴 스탠드.",
-        "size": "약 7~9cm",
+        "size": "約7~9cm",
         "variantCount": 14,
-        "selection": "random",
-        "variants": "총 14종 · 무작위",
+        "selection": "blind",
+        "variants": "총 14종 · 무작위 디자인",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/105337/81a61cad-99b3-499b-a2ab-5b30a3ad0b62.webp",
         "imagePath": "/series/official/death-note-2025/g.webp",
         "sampleCount": 13,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/3362/856bdd6d-9b04-454d-84b1-9108e0d2f228.webp",
+            "imagePath": "/series/official/death-note-2025/g-detail-1-781efbb68133d7f5.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/3363/2be7d4ec-082b-48cb-9767-d0fe76eeb385.webp",
+            "imagePath": "/series/official/death-note-2025/g-detail-2-e47af9edc94c4958.webp"
+          }
+        ]
       },
       {
         "letter": "H",
         "name": "アクリルチャーム",
         "nameKo": "아크릴 참",
         "description": "사신의 눈과 사신 캐릭터 모티프의 연결 참.",
-        "size": "약 4cm",
+        "size": "約4cm",
         "variantCount": 7,
         "selection": "choose",
         "variants": "총 7종 · 디자인 선택 가능",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/105338/88acc77d-9ba2-4ed0-8e50-bb5559d0e98b.webp",
         "imagePath": "/series/official/death-note-2025/h.webp",
         "sampleCount": 13,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/3376/9a1f3e33-1cb7-489e-a5a5-70390f8370df.webp",
+            "imagePath": "/series/official/death-note-2025/h-detail-1-2aa89e6632ead7d4.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/3377/12c68592-88ec-42d8-8dde-ef3ee0589501.webp",
+            "imagePath": "/series/official/death-note-2025/h-detail-2-0d459cb40fa7a012.webp"
+          }
+        ]
       },
       {
         "letter": "I",
         "name": "ステーショナリーアソート",
         "nameKo": "문구 어소트",
         "description": "노트·말풍선·작중 장면을 담은 문구 구성.",
-        "size": "더블 포켓 파일 A4 / 투명 스티커 A6 / 메모장 약 9cm / 스티커 약 5cm·6장 세트",
+        "size": "ダブルポケットクリアファイル A4、透明シール A6、メモ帳 約9cm、ステッカー 約5cm(6枚セット)",
         "variantCount": 7,
         "selection": "choose",
         "variants": "총 7종 · 디자인 선택 가능",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/105339/a0eb602f-9966-4ee0-9806-f581caae8520.webp",
         "imagePath": "/series/official/death-note-2025/i.webp",
         "sampleCount": 13,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/3384/4243c81a-10fa-40c0-a2d5-5e8b000e38dc.webp",
+            "imagePath": "/series/official/death-note-2025/i-detail-1-e00f9bc9f46e1048.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/3385/dee01531-ea8d-4406-a84b-c3932f22bc28.webp",
+            "imagePath": "/series/official/death-note-2025/i-detail-2-7ae558f1b0b87df4.webp"
+          }
+        ]
       },
       {
         "letter": "LAST",
         "name": "L フィギュア ラストワンver.",
         "nameKo": "L 피규어 라스트원 ver.",
         "description": "입가에 손을 댄 사색하는 자세의 L.",
-        "size": "인물 약 10cm / 받침 포함 약 14cm",
+        "size": "キャラクター 約10cm、台座込み 約14cm",
         "variantCount": 1,
         "selection": "single",
         "variants": "총 1종",
@@ -3001,12 +2683,20 @@
       {
         "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/1152/7eaf94d4-8c6c-4a12-8763-22af6d524844.webp",
         "imagePath": "/series/official/death-note-2025/gallery-2.webp"
+      },
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/1153/ac23c650-e3b4-4a3e-a0a4-556e9f11f5a3.webp",
+        "imagePath": "/series/official/death-note-2025/gallery-3-8e8b442ae1887df9.webp"
+      },
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/1154/5c6ba0b3-9e6e-4e58-9d56-cca3f3c67063.gif",
+        "imagePath": "/series/official/death-note-2025/gallery-4-fd48985eac359d75.gif"
       }
     ],
     "doubleChance": {
-      "name": "야가미 라이토 피규어",
-      "description": "A상 라이토 피규어와 동일한 공식 캠페인 추첨 경품 30개.",
-      "deadline": "2026-02-28",
+      "name": "夜神月 フィギュア",
+      "description": "공식 별도 캠페인 당첨 수 30개. 이 프로그램에서는 응모를 제공하지 않습니다.",
+      "deadline": "キャンペーン期間: 発売日~2026年02月末日",
       "awardCount": 30,
       "imageUrl": "https://assets.1kuji.com/uploads/campaign/image/11235/85f9f612-7d41-4fd2-993a-98f6ec1f1b07.webp",
       "imagePath": "/series/official/death-note-2025/double-chance.webp"
@@ -3014,11 +2704,14 @@
     "franchiseKo": "데스노트",
     "franchiseJp": "DEATH NOTE",
     "releaseDatePrecision": "day",
-    "releaseDateText": "2025-11-29",
+    "releaseDateText": "2025年11月29日(土)より順次発売予定",
     "catalogStatus": "ON_SALE",
     "prizeDetailsPending": false,
     "sampleAllocation": true,
-    "introducedRevision": 3
+    "introducedRevision": 3,
+    "franchiseCode": "DEATH_NOTE",
+    "sampleAllocationMethod": "equal-80-demo",
+    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
   },
   {
     "code": "BLEACH_2026",
@@ -3033,8 +2726,8 @@
     "onlineSaleEndedAt": "",
     "priceJpy": 850,
     "onlineSourceUrl": "",
-    "retailers": "세븐일레븐, 이토요카도, 유메타운 등 (공식 페이지: 온라인 판매 없음)",
-    "copyright": "©久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ",
+    "retailers": "セブン‐イレブン店舗、イトーヨーカドー店舗、ゆめタウン店舗など",
+    "copyright": "©久保帯人/集英社・テレビ東京・dentsu・ぴえろ",
     "summary": "이치고·토시로·요루이치·켄파치 MASTERLISE와 사신대행증 수납함, 참백도 굿즈 구성.",
     "samplePriceKrw": 12000,
     "sourceUrl": "https://1kuji.com/products/bleach8",
@@ -3052,7 +2745,7 @@
         "name": "黒崎一護 MASTERLISE",
         "nameKo": "쿠로사키 이치고 MASTERLISE",
         "description": "쿠로사키 이치고의 MASTERLISE 피규어.",
-        "size": "약 19cm",
+        "size": "約19cm",
         "variantCount": 1,
         "selection": "single",
         "variants": "총 1종",
@@ -3075,7 +2768,7 @@
         "name": "日番谷冬獅郎 MASTERLISE",
         "nameKo": "히츠가야 토시로 MASTERLISE",
         "description": "히츠가야 토시로의 MASTERLISE 피규어.",
-        "size": "약 12cm",
+        "size": "約12cm",
         "variantCount": 1,
         "selection": "single",
         "variants": "총 1종",
@@ -3098,7 +2791,7 @@
         "name": "四楓院夜一 MASTERLISE",
         "nameKo": "시호인 요루이치 MASTERLISE",
         "description": "시호인 요루이치의 MASTERLISE 피규어.",
-        "size": "약 9.5cm",
+        "size": "約9.5cm",
         "variantCount": 1,
         "selection": "single",
         "variants": "총 1종",
@@ -3121,7 +2814,7 @@
         "name": "死神代行証小物入れ MASTERELIVE COLLECTION",
         "nameKo": "사신대행증 소품함 MASTERELIVE COLLECTION",
         "description": "사신대행증을 모티프로 한 소품 수납함.",
-        "size": "약 11cm",
+        "size": "約11cm",
         "variantCount": 1,
         "selection": "single",
         "variants": "총 1종",
@@ -3135,28 +2828,46 @@
         "name": "斬魄刀メタルチャーム",
         "nameKo": "참백도 메탈 참",
         "description": "참백도 디자인의 금속 참.",
-        "size": "약 7cm",
+        "size": "約7cm",
         "variantCount": 8,
         "selection": "choose",
         "variants": "총 8종 · 디자인 선택 가능",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107183/9c43aa45-1c1c-43bb-8cfe-e2aebcb0c917.webp",
         "imagePath": "/series/official/bleach-stirring-souls-vol5-2026/e.webp",
         "sampleCount": 18,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10304/7504ac2a-8c2e-4973-afe7-937ac23a529c.webp",
+            "imagePath": "/series/official/bleach-stirring-souls-vol5-2026/e-detail-1-b357a4b72d2878d4.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10305/7f98e4d0-630c-48c4-9ced-29f743918eea.webp",
+            "imagePath": "/series/official/bleach-stirring-souls-vol5-2026/e-detail-2-27f911283d3df283.webp"
+          }
+        ]
       },
       {
         "letter": "F",
         "name": "アクリルチャーム",
         "nameKo": "아크릴 참",
         "description": "블리치 캐릭터 디자인의 아크릴 참.",
-        "size": "약 9cm",
+        "size": "約9cm",
         "variantCount": 10,
-        "selection": "random",
-        "variants": "총 10종 · 무작위",
+        "selection": "blind",
+        "variants": "총 10종 · 무작위 디자인",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107184/89e97e3c-1da0-4127-a368-0ebb7880a60d.webp",
         "imagePath": "/series/official/bleach-stirring-souls-vol5-2026/f.webp",
         "sampleCount": 18,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10312/144d8cdd-da67-4ab2-84cf-bf047ecf12a1.webp",
+            "imagePath": "/series/official/bleach-stirring-souls-vol5-2026/f-detail-1-b1225016cfdf639c.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10313/b70e412b-1006-40a7-8d26-d679fb615bc8.webp",
+            "imagePath": "/series/official/bleach-stirring-souls-vol5-2026/f-detail-2-fe964093ced470fe.webp"
+          }
+        ]
       },
       {
         "letter": "G",
@@ -3170,28 +2881,46 @@
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107185/f940f649-aa87-4715-82d7-91a5cec56da8.webp",
         "imagePath": "/series/official/bleach-stirring-souls-vol5-2026/g.webp",
         "sampleCount": 18,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10322/e2e7e7f0-3f99-4489-8345-3d8680cdb680.webp",
+            "imagePath": "/series/official/bleach-stirring-souls-vol5-2026/g-detail-1-b5543bd7c8a71ef5.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10323/c699a170-85fb-4a23-97b5-19289f663750.webp",
+            "imagePath": "/series/official/bleach-stirring-souls-vol5-2026/g-detail-2-4e23df5e24331fef.webp"
+          }
+        ]
       },
       {
         "letter": "H",
         "name": "ステッカー",
         "nameKo": "스티커",
         "description": "캐릭터 디자인을 담은 6장 스티커 세트.",
-        "size": "약 6cm / 6장 세트",
+        "size": "約6cm(6枚セット)",
         "variantCount": 10,
         "selection": "choose",
         "variants": "총 10종 · 디자인 선택 가능",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107186/24019087-f7e2-4466-a745-6190a0eeb622.webp",
         "imagePath": "/series/official/bleach-stirring-souls-vol5-2026/h.webp",
         "sampleCount": 18,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10332/24381936-004f-4812-bdc8-51acf421715e.webp",
+            "imagePath": "/series/official/bleach-stirring-souls-vol5-2026/h-detail-1-8fa1d0595b485d43.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/10333/5c07827c-06cd-49e7-b4f2-2ac2bed6e1ee.webp",
+            "imagePath": "/series/official/bleach-stirring-souls-vol5-2026/h-detail-2-ab9896a214ac529a.webp"
+          }
+        ]
       },
       {
         "letter": "LAST",
         "name": "更木剣八 MASTERLISE",
         "nameKo": "자라키 켄파치 MASTERLISE",
         "description": "자라키 켄파치의 마지막 1장 피규어 경품.",
-        "size": "약 22cm",
+        "size": "約22cm",
         "variantCount": 1,
         "selection": "single",
         "variants": "총 1종",
@@ -3218,12 +2947,20 @@
       {
         "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3069/86bd43d8-e52b-4ea6-a832-a20ca2220c57.webp",
         "imagePath": "/series/official/bleach-stirring-souls-vol5-2026/gallery-2.webp"
+      },
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3070/5e11e22d-8ac0-4fc5-bd81-3047aeaccda2.webp",
+        "imagePath": "/series/official/bleach-stirring-souls-vol5-2026/gallery-3-c35b1aca72ce4575.webp"
+      },
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3071/2bc04172-fa3f-48d7-a8f2-0a935ae275eb.webp",
+        "imagePath": "/series/official/bleach-stirring-souls-vol5-2026/gallery-4-dd8dd7f26063685b.webp"
       }
     ],
     "doubleChance": {
-      "name": "자라키 켄파치 MASTERLISE",
-      "description": "라스트원상 켄파치 피규어와 동일한 공식 캠페인 추첨 경품 50개.",
-      "deadline": "2026-12-31",
+      "name": "更木剣八 MASTERLISE",
+      "description": "공식 별도 캠페인 당첨 수 50개. 이 프로그램에서는 응모를 제공하지 않습니다.",
+      "deadline": "キャンペーン期間: 発売日~2026年12月末日",
       "awardCount": 50,
       "imageUrl": "https://assets.1kuji.com/uploads/campaign/image/11636/74a34413-930a-4065-b4b7-25ae61b48009.webp",
       "imagePath": "/series/official/bleach-stirring-souls-vol5-2026/double-chance.webp"
@@ -3231,11 +2968,14 @@
     "franchiseKo": "블리치",
     "franchiseJp": "BLEACH",
     "releaseDatePrecision": "day",
-    "releaseDateText": "2026-09-19",
+    "releaseDateText": "2026年09月19日(土)より発売予定",
     "catalogStatus": "ON_SALE",
     "prizeDetailsPending": false,
     "sampleAllocation": true,
-    "introducedRevision": 3
+    "introducedRevision": 3,
+    "franchiseCode": "BLEACH",
+    "sampleAllocationMethod": "equal-80-demo",
+    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
   },
   {
     "code": "HAIKYU_2026",
@@ -3249,9 +2989,9 @@
     "onlineReleaseDate": "2026-09-07",
     "onlineSaleEndedAt": "",
     "priceJpy": 790,
-    "onlineSourceUrl": "https://on-line.1kuji.com/Form/Product/ProductDetail.aspx?bid=IP00003422&pid=sap_0000008535",
-    "retailers": "로손, 제일복권 공식 숍, 제일복권 ONLINE 등",
-    "copyright": "©古舘春一／集英社・「ハイキュー!!」製作委員会",
+    "onlineSourceUrl": "https://on-line.1kuji.com/Form/Product/ProductDetail.aspx?pid=sap_0000008535&bid=IP00003422",
+    "retailers": "ローソン、一番くじ公式ショップ、一番くじONLINEなど",
+    "copyright": "©古舘春一/集英社・「ハイキュー!!」製作委員会",
     "summary": "까마귀와 함께한 카라스노 1학년 피규어, 신규 일러스트와 배구 모티프 생활 굿즈 구성.",
     "samplePriceKrw": 12000,
     "sourceUrl": "https://1kuji.com/products/haikyu32",
@@ -3270,7 +3010,7 @@
         "name": "日向翔陽 フィギュア",
         "nameKo": "히나타 쇼요 피규어",
         "description": "저지를 어깨에 걸친 히나타와 까마귀.",
-        "size": "약 16cm",
+        "size": "約16cm",
         "variantCount": 1,
         "selection": "single",
         "variants": "총 1종",
@@ -3284,7 +3024,7 @@
         "name": "影山飛雄 フィギュア",
         "nameKo": "카게야마 토비오 피규어",
         "description": "날카로운 눈빛의 카게야마와 까마귀.",
-        "size": "약 18cm",
+        "size": "約18cm",
         "variantCount": 1,
         "selection": "single",
         "variants": "총 1종",
@@ -3298,7 +3038,7 @@
         "name": "山口 忠 フィギュア",
         "nameKo": "야마구치 타다시 피규어",
         "description": "성장한 야마구치와 까마귀.",
-        "size": "약 17cm",
+        "size": "約17cm",
         "variantCount": 1,
         "selection": "single",
         "variants": "총 1종",
@@ -3319,14 +3059,23 @@
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106896/7f92236f-da6f-4bb8-9cc1-a5cc78cf7b78.webp",
         "imagePath": "/series/official/haikyu-karasuno-future-2026/d.webp",
         "sampleCount": 10,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9045/52f9a14f-1df0-4993-b210-42cb63ce428a.webp",
+            "imagePath": "/series/official/haikyu-karasuno-future-2026/d-detail-1-411907c564d06376.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9046/b0c1fcf4-dafb-4dd3-9b21-cc4e699648f2.webp",
+            "imagePath": "/series/official/haikyu-karasuno-future-2026/d-detail-2-6f3338555bff0785.webp"
+          }
+        ]
       },
       {
         "letter": "E",
         "name": "スコアボード風 万年カレンダー",
         "nameKo": "스코어보드풍 만년 달력",
         "description": "배구 점수판 형태의 만년 달력.",
-        "size": "약 27cm",
+        "size": "約27cm",
         "variantCount": 1,
         "selection": "single",
         "variants": "총 1종",
@@ -3340,77 +3089,122 @@
         "name": "きららいずマスコット",
         "nameKo": "키라라이즈 마스코트",
         "description": "반짝이는 눈 자수가 특징인 봉제 마스코트.",
-        "size": "약 10cm",
+        "size": "約10cm",
         "variantCount": 7,
         "selection": "choose",
         "variants": "총 7종 · 디자인 선택 가능",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106898/d25f79ab-c472-42e5-bece-52b7c39a4ea7.webp",
         "imagePath": "/series/official/haikyu-karasuno-future-2026/f.webp",
         "sampleCount": 12,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9047/84b2239b-d21c-4f0f-9e4a-b128cb6f90a4.webp",
+            "imagePath": "/series/official/haikyu-karasuno-future-2026/f-detail-1-035974b1c153d1b0.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9048/676fb036-e956-4147-a38b-c8b9fc2a5c99.webp",
+            "imagePath": "/series/official/haikyu-karasuno-future-2026/f-detail-2-f1e90a3de1510c7d.webp"
+          }
+        ]
       },
       {
         "letter": "G",
         "name": "おすわりアクリルスタンド",
         "nameKo": "앉은 모습 아크릴 스탠드",
         "description": "책상 가장자리에 앉힌 듯 전시하는 스탠드.",
-        "size": "약 6~10cm",
+        "size": "約6~10cm",
         "variantCount": 9,
-        "selection": "random",
-        "variants": "총 9종 · 무작위",
+        "selection": "blind",
+        "variants": "총 9종 · 무작위 디자인",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106899/5c7eb9f3-8508-40aa-867c-ab883cfacdab.webp",
         "imagePath": "/series/official/haikyu-karasuno-future-2026/g.webp",
         "sampleCount": 13,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9054/26e89e46-3247-4c97-aa7b-e0e91b5e6001.webp",
+            "imagePath": "/series/official/haikyu-karasuno-future-2026/g-detail-1-4bc060d749da6f48.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9055/532ab258-7143-4ae3-8d5a-5445665c55f2.webp",
+            "imagePath": "/series/official/haikyu-karasuno-future-2026/g-detail-2-088dbe34ebb52a89.webp"
+          }
+        ]
       },
       {
         "letter": "H",
         "name": "ダイカットメモコレクション",
         "nameKo": "다이컷 메모 컬렉션",
         "description": "작중 티셔츠와 아이콘 모양의 메모지.",
-        "size": "약 8cm",
+        "size": "約8cm",
         "variantCount": 7,
         "selection": "choose",
         "variants": "총 7종 · 디자인 선택 가능",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106900/9ef94fdd-ead6-4c5d-9f11-fdc0cf0055c7.webp",
         "imagePath": "/series/official/haikyu-karasuno-future-2026/h.webp",
         "sampleCount": 12,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9063/bca08cac-213a-452e-a7cf-73ccb02d8882.webp",
+            "imagePath": "/series/official/haikyu-karasuno-future-2026/h-detail-1-768722424279ce8a.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9064/f5eb61ec-4bef-4f06-b091-c6e69606f5c7.webp",
+            "imagePath": "/series/official/haikyu-karasuno-future-2026/h-detail-2-2b490325439cfb8b.webp"
+          }
+        ]
       },
       {
         "letter": "I",
         "name": "アクリルチャーム",
         "nameKo": "아크릴 참",
         "description": "주요 학교 선수들을 담은 아크릴 참.",
-        "size": "약 6.5~9.5cm",
+        "size": "約6.5~9.5cm",
         "variantCount": 7,
-        "selection": "random",
-        "variants": "총 7종 · 무작위",
+        "selection": "blind",
+        "variants": "총 7종 · 무작위 디자인",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106901/1d554351-9fcd-44ab-bff5-86f7472d371a.webp",
         "imagePath": "/series/official/haikyu-karasuno-future-2026/i.webp",
         "sampleCount": 12,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9070/8b580721-76e6-4c3f-beb7-233e6355bbf8.webp",
+            "imagePath": "/series/official/haikyu-karasuno-future-2026/i-detail-1-89e3883f4eb546fc.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9071/ea693131-4b4d-4ee8-b3cc-f8531a7c525d.webp",
+            "imagePath": "/series/official/haikyu-karasuno-future-2026/i-detail-2-c3ea9c1203478f74.webp"
+          }
+        ]
       },
       {
         "letter": "J",
         "name": "クリアファイル＆ステッカーセット",
         "nameKo": "클리어 파일 & 스티커 세트",
         "description": "신규 일러스트의 파일과 스티커 구성.",
-        "size": "파일 A4 / 스티커 약 5~7.5cm",
+        "size": "クリアファイル A4、ステッカー 約5~7.5cm",
         "variantCount": 11,
         "selection": "choose",
         "variants": "총 11종 · 디자인 선택 가능",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106902/c93b20ad-2c10-48d0-9fd0-ee0e109acf25.webp",
         "imagePath": "/series/official/haikyu-karasuno-future-2026/j.webp",
         "sampleCount": 13,
-        "gallery": []
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9077/8065d48b-970b-4dc3-9087-58a242cdde12.webp",
+            "imagePath": "/series/official/haikyu-karasuno-future-2026/j-detail-1-625fc8219866b86d.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9078/6eddf98a-99d6-4220-93b2-2ba354bbb438.webp",
+            "imagePath": "/series/official/haikyu-karasuno-future-2026/j-detail-2-5c199eb885825729.webp"
+          }
+        ]
       },
       {
         "letter": "LAST",
         "name": "月島 蛍 フィギュア",
         "nameKo": "츠키시마 케이 피규어",
         "description": "저지를 어깨에 걸친 츠키시마와 까마귀.",
-        "size": "약 20cm",
+        "size": "約20cm",
         "variantCount": 1,
         "selection": "single",
         "variants": "총 1종",
@@ -3433,12 +3227,20 @@
       {
         "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3024/6398e546-a720-46de-9504-b4fbc93b6de3.webp",
         "imagePath": "/series/official/haikyu-karasuno-future-2026/gallery-2.webp"
+      },
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3025/9805a6e8-34fc-4ccb-9574-e47e441a1c7f.webp",
+        "imagePath": "/series/official/haikyu-karasuno-future-2026/gallery-3-6116e66038df2bb3.webp"
+      },
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3026/78c62999-5ef6-4704-8932-18e7d582c2c2.webp",
+        "imagePath": "/series/official/haikyu-karasuno-future-2026/gallery-4-5c2146e27405e458.webp"
       }
     ],
     "doubleChance": {
-      "name": "츠키시마 케이 피규어",
-      "description": "라스트원상 츠키시마 피규어와 동일한 공식 캠페인 추첨 경품 50개.",
-      "deadline": "2026-11-30",
+      "name": "月島 蛍 フィギュア",
+      "description": "공식 별도 캠페인 당첨 수 50개. 이 프로그램에서는 응모를 제공하지 않습니다.",
+      "deadline": "キャンペーン期間: 発売日~2026年11月末日",
       "awardCount": 50,
       "imageUrl": "https://assets.1kuji.com/uploads/campaign/image/11589/b023be47-9117-4789-8057-9c798c0fea01.webp",
       "imagePath": "/series/official/haikyu-karasuno-future-2026/double-chance.webp"
@@ -3446,11 +3248,14 @@
     "franchiseKo": "하이큐!!",
     "franchiseJp": "ハイキュー!!",
     "releaseDatePrecision": "day",
-    "releaseDateText": "2026-08-15",
+    "releaseDateText": "2026年08月15日(土)より順次発売予定",
     "catalogStatus": "ON_SALE",
     "prizeDetailsPending": false,
     "sampleAllocation": true,
-    "introducedRevision": 3
+    "introducedRevision": 3,
+    "franchiseCode": "HAIKYU",
+    "sampleAllocationMethod": "equal-80-demo",
+    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
   },
   {
     "code": "DRAGON_BALL_SPIRIT_2026",
@@ -3473,11 +3278,11 @@
     "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10727/400fefae-ab68-40b8-abd5-98acbc301603.webp",
     "posterPath": "/series/official/dragon-ball-spirit-saiyan-2026/poster-wide.webp",
     "summary": "손오공·손오반·손오천·버독·라데츠를 중심으로 사이어인의 가족을 담은 피규어와 생활 소품 구성입니다.",
-    "copyright": "©バード・スタジオ／集英社・東映アニメーション",
+    "copyright": "©バード・スタジオ/集英社・東映アニメーション",
     "checkedAt": "2026-10-16",
     "descriptionHtml": "<p>손오공·손오반·손오천·버독·라데츠를 중심으로 사이어인의 가족을 담은 피규어와 생활 소품 구성입니다.</p><p>공식 상품의 포스터와 경품 정보입니다. 원화 가격·판별 수량·뽑기는 체험용 예시이며 실제 판매처 재고와 연동되지 않습니다.</p>",
     "age": "",
-    "retailers": "세븐일레븐, 이토요카도, 유메타운, DRAGON BALL STORE TOKYO 등",
+    "retailers": "セブン‐イレブン店舗、イトーヨーカドー店舗、ゆめタウン店舗、DRAGON BALL STORE TOKYOなど",
     "onlineSaleEndedAt": "",
     "additionalSources": [
       "https://www.bandaispirits.co.jp/products/search/detail.php?grp_id=9999&prd_id=db_z8"
@@ -3489,7 +3294,7 @@
         "name": "孫悟空 MASTERLISE",
         "nameKo": "손오공 MASTERLISE",
         "description": "에네르기파를 발사하는 손오공의 모습을 약 20cm로 구현했습니다.",
-        "size": "약 20cm",
+        "size": "約20cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -3512,7 +3317,7 @@
         "name": "超サイヤ人孫悟飯 MASTERLISE",
         "nameKo": "초사이어인 손오반 MASTERLISE",
         "description": "에네르기파 자세의 초사이어인 손오반을 약 19cm로 담았습니다.",
-        "size": "약 19cm",
+        "size": "約19cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -3535,7 +3340,7 @@
         "name": "孫悟天 MASTERLISE",
         "nameKo": "손오천 MASTERLISE",
         "description": "손오천의 밝은 표정과 자세를 약 13cm로 구현했습니다.",
-        "size": "약 13cm",
+        "size": "約13cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -3558,7 +3363,7 @@
         "name": "バーダック MASTERLISE",
         "nameKo": "버독 MASTERLISE",
         "description": "바위에 한 발을 올린 버독의 모습을 약 25cm로 재현했습니다.",
-        "size": "약 25cm",
+        "size": "約25cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -3581,7 +3386,7 @@
         "name": "ラディッツ MASTERLISE",
         "nameKo": "라데츠 MASTERLISE",
         "description": "갑옷이 부서진 라데츠의 전투 모습을 약 25cm로 담았습니다.",
-        "size": "약 25cm",
+        "size": "約25cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -3604,8 +3409,8 @@
         "name": "フィギュアマグネット",
         "nameKo": "피규어 마그넷",
         "description": "거대 원숭이 오공·신룡·포룽가를 담은 약 5cm 마그넷 3종입니다.",
-        "size": "약 5cm",
-        "variants": "총 3종 · 디자인 선택 불가",
+        "size": "約5cm",
+        "variants": "총 3종 · 무작위 디자인",
         "variantCount": 3,
         "selection": "blind",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107265/6c355853-747b-44aa-bd75-6f528afe7c98.webp",
@@ -3627,7 +3432,7 @@
         "name": "ポーチ",
         "nameKo": "파우치",
         "description": "휴대하기 좋은 약 13cm 파우치 7종이며 일부는 웨하스 스티커 10주년 협업 디자인입니다.",
-        "size": "약 13cm",
+        "size": "約13cm",
         "variants": "총 7종 · 디자인 선택 가능",
         "variantCount": 7,
         "selection": "choose",
@@ -3650,8 +3455,8 @@
         "name": "アクリルスタンド",
         "nameKo": "아크릴 스탠드",
         "description": "모두 모으면 드래곤볼 Z 오프닝 장면을 재현하는 스탠드 9종입니다.",
-        "size": "약 7～10cm",
-        "variants": "총 9종 · 디자인 선택 불가",
+        "size": "約7~10cm",
+        "variants": "총 9종 · 무작위 디자인",
         "variantCount": 9,
         "selection": "blind",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107267/8f7671be-60eb-4b77-b40f-6507884b85e2.webp",
@@ -3673,8 +3478,8 @@
         "name": "ラバーアソート",
         "nameKo": "러버 어소트",
         "description": "음식 관련 마그넷과 로고 러버로 구성된 소품 7종입니다.",
-        "size": "마그넷 약 6.5cm · 로고 러버 약 5.5cm",
-        "variants": "총 7종 · 디자인 선택 불가",
+        "size": "マグネット 約6.5cm、ロゴラバー 約5.5cm",
+        "variants": "총 7종 · 무작위 디자인",
         "variantCount": 7,
         "selection": "blind",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107268/924e5ff2-8098-4673-a2ff-9c960b7cc981.webp",
@@ -3696,7 +3501,7 @@
         "name": "ダイカットタオル",
         "nameKo": "다이컷 타월",
         "description": "일부 웨하스 스티커 10주년 협업 디자인을 포함한 약 24cm 다이컷 타월 9종입니다.",
-        "size": "약 24cm",
+        "size": "約24cm",
         "variants": "총 9종 · 디자인 선택 가능",
         "variantCount": 9,
         "selection": "choose",
@@ -3719,7 +3524,7 @@
         "name": "孫悟空&孫悟飯 MASTERLISE PLUS",
         "nameKo": "손오공 & 손오반 MASTERLISE PLUS",
         "description": "근두운을 함께 탄 손오공과 손오반을 약 21cm로 담은 라스트원 피규어입니다.",
-        "size": "약 21cm",
+        "size": "約21cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -3739,10 +3544,10 @@
       }
     ],
     "doubleChance": {
-      "name": "손오공 & 손오반 MASTERLISE PLUS",
+      "name": "孫悟空&孫悟飯 MASTERLISE PLUS",
       "nameJp": "孫悟空＆孫悟飯 MASTERLISE PLUS",
-      "description": "라스트원과 동일한 근두운의 손오공·손오반 피규어를 별도 응모로 제공합니다. 공식 당첨 수는 50개입니다.",
-      "deadline": "2027-01-31",
+      "description": "공식 별도 캠페인 당첨 수 50개. 이 프로그램에서는 응모를 제공하지 않습니다.",
+      "deadline": "キャンペーン期間: 発売日~2027年01月末日",
       "awardCount": 50,
       "imageUrl": "https://assets.1kuji.com/uploads/campaign/image/11518/7fee9b4f-65d3-42a3-988b-2a5641c2421c.webp",
       "imagePath": "/series/official/dragon-ball-spirit-saiyan-2026/double-chance.webp"
@@ -3750,11 +3555,14 @@
     "franchiseKo": "드래곤볼 SPIRIT OF THE SAIYAN",
     "franchiseJp": "ドラゴンボール SPIRIT OF THE SAIYAN",
     "releaseDatePrecision": "day",
-    "releaseDateText": "2026.10.17 일본 매장 발매 예정",
+    "releaseDateText": "2026年10月17日(土)より発売予定",
     "catalogStatus": "UPCOMING",
     "prizeDetailsPending": false,
     "sampleAllocation": true,
-    "introducedRevision": 3
+    "introducedRevision": 3,
+    "franchiseCode": "DRAGON_BALL",
+    "sampleAllocationMethod": "equal-80-demo",
+    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
   },
   {
     "code": "ATTACK_ON_TITAN_HEARTS_2026",
@@ -3777,11 +3585,11 @@
     "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10760/297cb29d-7678-4f2a-9f86-28bdf55d3a2b.webp",
     "posterPath": "/series/official/attack-devote-hearts-2026/poster-wide.webp",
     "summary": "심장을 바치는 조사병단의 에렌·미카사·아르민·엘빈·한지와 말을 탄 리바이를 MASTERLISE 피규어로 담았습니다.",
-    "copyright": "©諫山創・講談社／「進撃の巨人」The Final Season製作委員会",
+    "copyright": "©諫山創・講談社/「進撃の巨人」The Final Season製作委員会",
     "checkedAt": "2026-10-16",
     "descriptionHtml": "<p>심장을 바치는 조사병단의 에렌·미카사·아르민·엘빈·한지와 말을 탄 리바이를 MASTERLISE 피규어로 담았습니다.</p><p>공식 상품의 포스터와 경품 정보입니다. 원화 가격·판별 수량·뽑기는 체험용 예시이며 실제 판매처 재고와 연동되지 않습니다.</p>",
     "age": "",
-    "retailers": "로손, 제일복권 공식샵, 제일복권 ONLINE 등",
+    "retailers": "ローソン、一番くじ公式ショップ、一番くじONLINEなど",
     "onlineSaleEndedAt": "",
     "additionalSources": [
       "https://www.bandaispirits.co.jp/products/search/detail.php?grp_id=9999&prd_id=shingeki16"
@@ -3810,7 +3618,7 @@
         "name": "エレン MASTERLISE",
         "nameKo": "에렌 MASTERLISE",
         "description": "심장을 바치는 에렌의 경례 자세를 약 24.5cm로 담았습니다.",
-        "size": "약 24.5cm",
+        "size": "約24.5cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -3829,7 +3637,7 @@
         "name": "ミカサ MASTERLISE",
         "nameKo": "미카사 MASTERLISE",
         "description": "심장을 바치는 미카사의 경례 자세를 약 24.5cm로 담았습니다.",
-        "size": "약 24.5cm",
+        "size": "約24.5cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -3848,7 +3656,7 @@
         "name": "アルミン MASTERLISE",
         "nameKo": "아르민 MASTERLISE",
         "description": "심장을 바치는 아르민의 경례 자세를 약 23.5cm로 담았습니다.",
-        "size": "약 23.5cm",
+        "size": "約23.5cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -3867,7 +3675,7 @@
         "name": "エルヴィン MASTERLISE",
         "nameKo": "엘빈 MASTERLISE",
         "description": "심장을 바치는 엘빈의 경례 자세를 약 26cm로 담았습니다.",
-        "size": "약 26cm",
+        "size": "約26cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -3886,7 +3694,7 @@
         "name": "ハンジ MASTERLISE",
         "nameKo": "한지 MASTERLISE",
         "description": "심장을 바치는 한지의 경례 자세를 약 24.5cm로 담았습니다.",
-        "size": "약 24.5cm",
+        "size": "約24.5cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -3900,7 +3708,7 @@
         "name": "きららいずマスコット",
         "nameKo": "키라라이즈 마스코트",
         "description": "반짝이는 눈이 특징인 약 10cm 마스코트 2종입니다.",
-        "size": "약 10cm",
+        "size": "約10cm",
         "variants": "총 2종 · 디자인 선택 가능",
         "variantCount": 2,
         "selection": "choose",
@@ -3946,8 +3754,8 @@
         "name": "ちょこのっこ フィギュア",
         "nameKo": "초코놋코 피규어",
         "description": "크리스타와 말도 포함된 약 4.5cm 초코놋코 피규어 8종입니다.",
-        "size": "약 4.5cm",
-        "variants": "총 8종 · 디자인 선택 불가",
+        "size": "約4.5cm",
+        "variants": "총 8종 · 무작위 디자인",
         "variantCount": 8,
         "selection": "blind",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107246/54b372a0-d5ef-4563-bb50-4dc0150e0a20.webp",
@@ -3969,7 +3777,7 @@
         "name": "ラバーコレクション",
         "nameKo": "러버 컬렉션",
         "description": "일상에서 사용하기 좋은 약 10cm 러버 코스터 8종입니다.",
-        "size": "약 10cm",
+        "size": "約10cm",
         "variants": "총 8종 · 디자인 선택 가능",
         "variantCount": 8,
         "selection": "choose",
@@ -3992,7 +3800,7 @@
         "name": "ステッカーコレクション",
         "nameKo": "스티커 컬렉션",
         "description": "여러 디자인을 모은 약 30cm 스티커 시트 8종입니다.",
-        "size": "약 30cm",
+        "size": "約30cm",
         "variants": "총 8종 · 디자인 선택 가능",
         "variantCount": 8,
         "selection": "choose",
@@ -4015,7 +3823,7 @@
         "name": "リヴァイ～人類最強の兵士～ MASTERLISE",
         "nameKo": "리바이 ~인류 최강의 병사~ MASTERLISE",
         "description": "말을 탄 리바이를 역동적인 자세의 약 30cm 피규어로 담았습니다.",
-        "size": "약 30cm",
+        "size": "約30cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -4031,10 +3839,10 @@
       }
     ],
     "doubleChance": {
-      "name": "리바이 ~인류 최강의 병사~ MASTERLISE",
+      "name": "リヴァイ~人類最強の兵士~ MASTERLISE",
       "nameJp": "リヴァイ～人類最強の兵士～ MASTERLISE",
-      "description": "라스트원과 동일한 말을 탄 리바이 피규어를 별도 응모로 제공합니다. 공식 당첨 수는 50개입니다.",
-      "deadline": "2027-01-31",
+      "description": "공식 별도 캠페인 당첨 수 50개. 이 프로그램에서는 응모를 제공하지 않습니다.",
+      "deadline": "キャンペーン期間: 発売日~2027年01月末日",
       "awardCount": 50,
       "imageUrl": "https://assets.1kuji.com/uploads/campaign/image/11580/f767d486-3357-4b46-bae8-a6f414b7a13f.webp",
       "imagePath": "/series/official/attack-devote-hearts-2026/double-chance.webp"
@@ -4042,11 +3850,14 @@
     "franchiseKo": "진격의 거인 ~심장을 바쳐라~",
     "franchiseJp": "進撃の巨人 ～心臓を捧げよ～",
     "releaseDatePrecision": "day",
-    "releaseDateText": "2026.10.24 일본 매장 발매 예정",
+    "releaseDateText": "2026年10月24日(土)より順次発売予定",
     "catalogStatus": "UPCOMING",
     "prizeDetailsPending": false,
     "sampleAllocation": true,
-    "introducedRevision": 3
+    "introducedRevision": 3,
+    "franchiseCode": "ATTACK_ON_TITAN",
+    "sampleAllocationMethod": "equal-80-demo",
+    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
   },
   {
     "code": "NARUTO_HIDAN_KAKUZU_2026",
@@ -4069,11 +3880,11 @@
     "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10777/449ab156-d0f6-402e-a85c-a12c9fff8ae5.webp",
     "posterPath": "/series/official/naruto-hidan-kakuzu-2026/poster-wide.webp",
     "summary": "시카마루·아스마와 아카츠키의 히단·카쿠즈를 피규어로 담고 아카츠키 미니 피규어와 작품 굿즈를 구성했습니다.",
-    "copyright": "©岸本斉史 スコット／集英社･テレビ東京･ぴえろ",
+    "copyright": "©岸本斉史 スコット/集英社・テレビ東京・ぴえろ",
     "checkedAt": "2026-10-16",
     "descriptionHtml": "<p>시카마루·아스마와 아카츠키의 히단·카쿠즈를 피규어로 담고 아카츠키 미니 피규어와 작품 굿즈를 구성했습니다.</p><p>공식 상품의 포스터와 경품 정보입니다. 원화 가격·판별 수량·뽑기는 체험용 예시이며 실제 판매처 재고와 연동되지 않습니다.</p>",
     "age": "",
-    "retailers": "제일복권 ONLINE, 제일복권 공식샵",
+    "retailers": "一番くじONLINE、一番くじ公式ショップ",
     "onlineSaleEndedAt": "",
     "additionalSources": [
       "https://www.bandaispirits.co.jp/products/search/detail.php?grp_id=9999&prd_id=naruto11"
@@ -4085,7 +3896,7 @@
         "name": "奈良シカマル MASTERLISE",
         "nameKo": "나라 시카마루 MASTERLISE",
         "description": "시카마루를 약 25cm MASTERLISE 피규어로 담았습니다.",
-        "size": "약 25cm",
+        "size": "約25cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -4099,7 +3910,7 @@
         "name": "猿飛アスマ MASTERLISE",
         "nameKo": "사루토비 아스마 MASTERLISE",
         "description": "아스마를 약 27cm MASTERLISE 피규어로 담았습니다.",
-        "size": "약 27cm",
+        "size": "約27cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -4113,7 +3924,7 @@
         "name": "飛段 MASTERLISE",
         "nameKo": "히단 MASTERLISE",
         "description": "아카츠키 히단을 약 25cm MASTERLISE 피규어로 담았습니다.",
-        "size": "약 25cm",
+        "size": "約25cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -4127,7 +3938,7 @@
         "name": "角都 MASTERLISE",
         "nameKo": "카쿠즈 MASTERLISE",
         "description": "아카츠키 카쿠즈를 약 26cm MASTERLISE 피규어로 담았습니다.",
-        "size": "약 26cm",
+        "size": "約26cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -4141,7 +3952,7 @@
         "name": "ラグマット",
         "nameKo": "러그 매트",
         "description": "자신교 문양을 모티브로 한 약 45cm 러그 매트입니다.",
-        "size": "약 45cm",
+        "size": "約45cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -4155,8 +3966,8 @@
         "name": "ちょこのっこフィギュア “暁”Ver.",
         "nameKo": "초코놋코 피규어 아카츠키 Ver.",
         "description": "아카츠키 멤버를 약 4cm 미니 피규어로 담은 10종 구성입니다.",
-        "size": "약 4cm",
-        "variants": "총 10종 · 디자인 선택 불가",
+        "size": "約4cm",
+        "variants": "총 10종 · 무작위 디자인",
         "variantCount": 10,
         "selection": "blind",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107289/91649961-5d1b-40ef-a0f3-a10989e725fd.webp",
@@ -4178,8 +3989,8 @@
         "name": "ぽこっとちゃーむ",
         "nameKo": "포콧토 참",
         "description": "초코놋코 일러스트를 사용해 가방 등에 달 수 있는 참 6종입니다.",
-        "size": "약 10cm",
-        "variants": "총 6종 · 디자인 선택 불가",
+        "size": "約10cm",
+        "variants": "총 6종 · 무작위 디자인",
         "variantCount": 6,
         "selection": "blind",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107290/0421fb6a-eb29-4e17-9ff0-4217cd5d7dff.webp",
@@ -4201,8 +4012,8 @@
         "name": "-NARUTO 72 series-アクリルチャーム",
         "nameKo": "NARUTO 72 series 아크릴 참",
         "description": "NARUTO 72 series 일러스트를 활용한 약 5cm 아크릴 참 9종입니다.",
-        "size": "약 5cm",
-        "variants": "총 9종 · 디자인 선택 불가",
+        "size": "約5cm",
+        "variants": "총 9종 · 무작위 디자인",
         "variantCount": 9,
         "selection": "blind",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107291/40d2596f-aeb6-41dd-b350-e7245cf2aa2c.webp",
@@ -4224,7 +4035,7 @@
         "name": "バラエティステッカー",
         "nameKo": "버라이어티 스티커",
         "description": "작중 인물과 NARUTO 72 series를 활용한 펼침형·조각 스티커 10종입니다.",
-        "size": "펼침형 스티커 약 18cm · 조각 스티커 약 5cm(6장 세트)",
+        "size": "見開きステッカー 約18cm、フレークステッカー 約5cm(6枚セット)",
         "variants": "총 10종 · 디자인 선택 가능",
         "variantCount": 10,
         "selection": "choose",
@@ -4247,7 +4058,7 @@
         "name": "うずまきナルト 風遁・螺旋手裏剣 MASTERLISE",
         "nameKo": "우즈마키 나루토 풍둔·나선수리검 MASTERLISE",
         "description": "풍둔 나선수리검을 사용하는 나루토의 약 25cm 라스트원 피규어입니다.",
-        "size": "약 25cm",
+        "size": "約25cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -4258,10 +4069,10 @@
       }
     ],
     "doubleChance": {
-      "name": "우즈마키 나루토 풍둔·나선수리검 MASTERLISE",
+      "name": "うずまきナルト 風遁・螺旋手裏剣 MASTERLISE",
       "nameJp": "うずまきナルト 風遁・螺旋手裏剣 MASTERLISE",
-      "description": "라스트원과 동일한 풍둔 나선수리검 나루토 피규어를 별도 응모로 제공합니다. 공식 당첨 수는 50개입니다.",
-      "deadline": "2027-01-31",
+      "description": "공식 별도 캠페인 당첨 수 50개. 이 프로그램에서는 응모를 제공하지 않습니다.",
+      "deadline": "キャンペーン期間: 発売日~2027年01月末日",
       "awardCount": 50,
       "imageUrl": "https://assets.1kuji.com/uploads/campaign/image/11620/dacbcdc3-a25e-4022-ad4f-bb25ab8f6d4b.webp",
       "imagePath": "/series/official/naruto-hidan-kakuzu-2026/double-chance.webp"
@@ -4269,11 +4080,14 @@
     "franchiseKo": "나루토 질풍전 히단·카쿠즈편",
     "franchiseJp": "NARUTO-ナルト- 疾風伝 飛段・角都編",
     "releaseDatePrecision": "day",
-    "releaseDateText": "2026.10.26 일본 매장 발매 예정",
+    "releaseDateText": "2026年10月26日(月)より順次発売予定",
     "catalogStatus": "UPCOMING",
     "prizeDetailsPending": false,
     "sampleAllocation": true,
-    "introducedRevision": 3
+    "introducedRevision": 3,
+    "franchiseCode": "NARUTO",
+    "sampleAllocationMethod": "equal-80-demo",
+    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
   },
   {
     "code": "ONE_PIECE_SKY_SONG_2026",
@@ -4296,11 +4110,11 @@
     "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10770/183d4578-65fd-4ac2-b429-9366b63c76c1.webp",
     "posterPath": "/series/official/one-piece-sky-song-2026/poster-wide.webp",
     "summary": "하늘섬편 루피·나미·크리켓·와이퍼 피규어와 작중 지도·소품을 담고, 라스트원에는 프로젝터 기능의 황금 대종루를 구성했습니다.",
-    "copyright": "©尾田栄一郎／集英社・フジテレビ・東映アニメーション",
+    "copyright": "©尾田栄一郎/集英社・フジテレビ・東映アニメーション",
     "checkedAt": "2026-10-16",
     "descriptionHtml": "<p>하늘섬편 루피·나미·크리켓·와이퍼 피규어와 작중 지도·소품을 담고, 라스트원에는 프로젝터 기능의 황금 대종루를 구성했습니다.</p><p>공식 상품의 포스터와 경품 정보입니다. 원화 가격·판별 수량·뽑기는 체험용 예시이며 실제 판매처 재고와 연동되지 않습니다.</p>",
     "age": "",
-    "retailers": "제일복권 ONLINE, 제일복권 공식샵, 무기와라 스토어 등",
+    "retailers": "一番くじONLINE、一番くじ公式ショップ、麦わらストアなど",
     "onlineSaleEndedAt": "",
     "additionalSources": [
       "https://www.bandaispirits.co.jp/products/search/detail.php?grp_id=9999&prd_id=onep_o12"
@@ -4312,7 +4126,7 @@
         "name": "モンキー・D・ルフィ MASTERLISE EXPIECE",
         "nameKo": "몽키 D. 루피 MASTERLISE EXPIECE",
         "description": "황금 구슬을 팔에 매단 하늘섬편 루피를 약 19cm로 담았습니다.",
-        "size": "약 19cm",
+        "size": "約19cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -4326,7 +4140,7 @@
         "name": "ナミ MASTERLISE EXPIECE",
         "nameKo": "나미 MASTERLISE EXPIECE",
         "description": "웨이버를 탄 나미를 약 18cm 피규어로 구현했습니다.",
-        "size": "약 18cm",
+        "size": "約18cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -4340,7 +4154,7 @@
         "name": "モンブラン・クリケット MASTERLISE EXPIECE",
         "nameKo": "몽블랑 크리켓 MASTERLISE EXPIECE",
         "description": "첫 등장 자세를 모티브로 한 크리켓의 약 24cm 피규어입니다.",
-        "size": "약 24cm",
+        "size": "約24cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -4354,7 +4168,7 @@
         "name": "ワイパー MASTERLISE EXPIECE",
         "nameKo": "와이퍼 MASTERLISE EXPIECE",
         "description": "첫 등장 자세를 모티브로 한 와이퍼의 약 19cm 피규어입니다.",
-        "size": "약 19cm",
+        "size": "約19cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -4382,7 +4196,7 @@
         "name": "モンブラン・クリケットの家風ペンスタンド",
         "nameKo": "몽블랑 크리켓의 집 모양 펜 스탠드",
         "description": "크리켓의 집을 약 20cm 펜 스탠드로 재현했습니다.",
-        "size": "약 20cm",
+        "size": "約20cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -4396,7 +4210,7 @@
         "name": "ジャヤ＆空島の地図 MASTERELIVE COLLECTION",
         "nameKo": "자야 & 하늘섬 지도 MASTERELIVE COLLECTION",
         "description": "작중 자야 지도와 하늘섬 지도를 재현한 2종 구성입니다.",
-        "size": "자야 지도 약 24cm · 하늘섬 지도 약 36cm",
+        "size": "ジャヤの地図 約24cm、空島の地図 約36cm",
         "variants": "총 2종 · 디자인 선택 가능",
         "variantCount": 2,
         "selection": "choose",
@@ -4419,8 +4233,8 @@
         "name": "デスクトップマスコット",
         "nameKo": "데스크톱 마스코트",
         "description": "하늘섬편 인물을 모티브로 한 약 5cm 미니 소품 5종입니다.",
-        "size": "약 5cm",
-        "variants": "총 5종 · 디자인 선택 불가",
+        "size": "約5cm",
+        "variants": "총 5종 · 무작위 디자인",
         "variantCount": 5,
         "selection": "blind",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107105/bdceedb2-7922-4b3f-90e2-e4ea83e6e82f.webp",
@@ -4442,7 +4256,7 @@
         "name": "黄金メタルチャーム",
         "nameKo": "황금 메탈 참",
         "description": "작중 인물과 황금을 모티브로 한 약 4cm 메탈 참 8종입니다.",
-        "size": "약 4cm",
+        "size": "約4cm",
         "variants": "총 8종 · 디자인 선택 가능",
         "variantCount": 8,
         "selection": "choose",
@@ -4465,7 +4279,7 @@
         "name": "クラウドグッズコレクション",
         "nameKo": "클라우드 굿즈 컬렉션",
         "description": "구름·하늘섬 모티브의 트레이·마그넷·클립·코스터 10종입니다.",
-        "size": "러버 트레이 약 8cm · 러버 마그넷 약 5cm · 러버 클립 약 5cm · 러버 코스터 약 8cm",
+        "size": "ラバートレイ 約8cm、ラバーマグネット 約5cm、ラバークリップ 約5cm、ラバーコースター 約8cm",
         "variants": "총 10종 · 디자인 선택 가능",
         "variantCount": 10,
         "selection": "choose",
@@ -4488,7 +4302,7 @@
         "name": "ステッカーコレクション",
         "nameKo": "스티커 컬렉션",
         "description": "명장면 조각 스티커와 홀로그램 스티커를 포함한 5장 세트 10종입니다.",
-        "size": "약 4cm(5장 세트)",
+        "size": "約4cm(5枚セット)",
         "variants": "총 10종 · 디자인 선택 가능",
         "variantCount": 10,
         "selection": "choose",
@@ -4511,7 +4325,7 @@
         "name": "黄金の大鐘楼",
         "nameKo": "황금 대종루",
         "description": "스위치를 켜면 루피 실루엣이 투영되는 프로젝터 기능을 갖춘 약 11cm 황금 대종루입니다.",
-        "size": "약 11cm",
+        "size": "約11cm",
         "variants": "총 1종",
         "variantCount": 1,
         "selection": "single",
@@ -4525,7 +4339,7 @@
       "name": "TO BE CONTINUED THE GIGANT NAME",
       "nameJp": "TO BE CONTINUED THE GIGANT NAME",
       "description": "2026년 원피스 공통 경품인 약 35cm TO BE CONTINUED 조형물을 별도 응모로 제공합니다. 이 상품의 공식 당첨 수는 100개입니다.",
-      "deadline": "2027-01-31",
+      "deadline": "キャンペーン期間: 発売日~2027年01月末日",
       "awardCount": 100,
       "imageUrl": "https://assets.1kuji.com/uploads/campaign/image/11635/7c1cc920-01b6-49d9-ae99-721fa175936b.webp",
       "imagePath": "/series/official/one-piece-sky-song-2026/double-chance.webp"
@@ -4533,11 +4347,14 @@
     "franchiseKo": "원피스 ~하늘에 울려 퍼지는 섬의 노랫소리~",
     "franchiseJp": "ONE PIECE -空に奏でる\"島の歌声\"（ラブ・ソング）-",
     "releaseDatePrecision": "day",
-    "releaseDateText": "2026.10.29 일본 매장 발매 예정",
+    "releaseDateText": "2026年10月29日(木)より順次発売予定",
     "catalogStatus": "UPCOMING",
     "prizeDetailsPending": false,
     "sampleAllocation": true,
-    "introducedRevision": 3
+    "introducedRevision": 3,
+    "franchiseCode": "ONE_PIECE",
+    "sampleAllocationMethod": "equal-80-demo",
+    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
   },
   {
     "code": "DEATH_NOTE_2_2027",
@@ -4560,8 +4377,37 @@
     "posterPath": "/series/official/death-note-2-2027/poster-wide.webp",
     "checkedAt": "2026-10-16",
     "summary": "2027년 1월 16일 발매 예정. 니아·멜로 피규어가 공개되었으며 전체 경품 구성은 아직 미공개입니다.",
-    "copyright": "©大場つぐみ・小畑健／集英社",
-    "prizes": [],
+    "copyright": "©大場つぐみ・小畑健/集英社",
+    "prizes": [
+      {
+        "letter": "C",
+        "name": "ニア フィギュア",
+        "nameKo": "ニア フィギュア",
+        "description": "공식 공개 경품. 총 1종 · 約16cm",
+        "size": "約16cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107110/f1a203e3-fa7e-49c2-98aa-fe0c130872f3.webp",
+        "imagePath": "/series/official/death-note-2-2027/c.webp",
+        "sampleCount": 0,
+        "gallery": []
+      },
+      {
+        "letter": "D",
+        "name": "メロ フィギュア",
+        "nameKo": "メロ フィギュア",
+        "description": "공식 공개 경품. 총 1종 · 約13cm",
+        "size": "約13cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107111/f10e757f-2a9e-40ca-bf0e-7cb7e7101fd0.webp",
+        "imagePath": "/series/official/death-note-2-2027/d.webp",
+        "sampleCount": 0,
+        "gallery": []
+      }
+    ],
     "previewPrizes": [
       {
         "letter": "C",
@@ -4594,13 +4440,826 @@
     "franchiseKo": "데스노트 2",
     "franchiseJp": "DEATH NOTE 2",
     "releaseDatePrecision": "day",
-    "releaseDateText": "2027-01-16",
+    "releaseDateText": "2027年01月16日(土)より順次発売予定",
     "catalogStatus": "UPCOMING",
     "prizeDetailsPending": true,
     "sampleAllocation": true,
     "onlineReleaseDate": "",
     "onlineSourceUrl": "",
     "descriptionHtml": "<p>2027년 1월 16일 발매 예정. 니아·멜로 피규어가 공개되었으며 전체 경품 구성은 아직 미공개입니다.</p>",
-    "introducedRevision": 3
+    "introducedRevision": 3,
+    "franchiseCode": "DEATH_NOTE",
+    "sampleAllocationMethod": "equal-80-demo",
+    "retailers": "",
+    "age": "",
+    "lastSyncedAt": "2026-10-16T16:53:20+09:00"
+  },
+  {
+    "code": "AUTO_KIMETSU31_9D73201302",
+    "slug": "auto-kimetsu31-9d73201302",
+    "franchiseCode": "DEMON_SLAYER",
+    "nameKo": "一番くじ 鬼滅の刃 ～兄妹の鬼～",
+    "nameJp": "一番くじ 鬼滅の刃 ～兄妹の鬼～",
+    "productTitle": "一番くじ 鬼滅の刃 ～兄妹の鬼～",
+    "productTitleKo": "一番くじ 鬼滅の刃 ～兄妹の鬼～",
+    "frameColor": "#ef4444",
+    "sourceUrl": "https://1kuji.com/products/kimetsu31",
+    "releaseDate": "",
+    "releaseDatePrecision": "unknown",
+    "releaseDateText": "発売日未定",
+    "onlineReleaseDate": "",
+    "priceJpy": 850,
+    "samplePriceKrw": 12000,
+    "catalogStatus": "UPCOMING",
+    "prizeDetailsPending": true,
+    "sampleAllocation": true,
+    "sampleAllocationMethod": "equal-80-demo",
+    "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10802/7fbd4ee1-93dd-422e-95ad-fb0c4e7dab83.webp",
+    "posterPath": "/series/official/auto-kimetsu31-9d73201302/poster-6ebe4faf21653bf7.webp",
+    "summary": "공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다.",
+    "descriptionHtml": "<p>공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다.</p><p>원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
+    "onlineSourceUrl": "",
+    "retailers": "一番くじONLINE、一番くじ公式ショップ",
+    "age": "",
+    "copyright": "©吾峠呼世晴/集英社・アニプレックス・ufotable",
+    "checkedAt": "2026-10-16",
+    "lastSyncedAt": "2026-10-16T16:53:20+09:00",
+    "prizes": [],
+    "gallery": [],
+    "introducedRevision": 4
+  },
+  {
+    "code": "AUTO_JUJUTSU20_5D95123DEF",
+    "slug": "auto-jujutsu20-5d95123def",
+    "franchiseCode": "JUJUTSU_KAISEN",
+    "nameKo": "一番くじ 呪術廻戦 廻想録 ー虎杖悠仁ー",
+    "nameJp": "一番くじ 呪術廻戦 廻想録 ー虎杖悠仁ー",
+    "productTitle": "一番くじ 呪術廻戦 廻想録 ー虎杖悠仁ー",
+    "productTitleKo": "一番くじ 呪術廻戦 廻想録 ー虎杖悠仁ー",
+    "frameColor": "#6d28d9",
+    "sourceUrl": "https://1kuji.com/products/jujutsu20",
+    "releaseDate": "",
+    "releaseDatePrecision": "unknown",
+    "releaseDateText": "■発売日: 未定",
+    "onlineReleaseDate": "",
+    "priceJpy": null,
+    "samplePriceKrw": 12000,
+    "catalogStatus": "UPCOMING",
+    "prizeDetailsPending": true,
+    "sampleAllocation": true,
+    "sampleAllocationMethod": "equal-80-demo",
+    "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10817/bf2b7634-a077-4bde-a90a-7777e54649c0.webp",
+    "posterPath": "/series/official/auto-jujutsu20-5d95123def/poster-4f489dc3710e8ca1.webp",
+    "summary": "공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다.",
+    "descriptionHtml": "<p>공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다.</p><p>원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
+    "onlineSourceUrl": "",
+    "retailers": "",
+    "age": "",
+    "copyright": "©芥見下々/集英社・呪術廻戦製作委員会",
+    "checkedAt": "2026-10-16",
+    "lastSyncedAt": "2026-10-16T16:53:20+09:00",
+    "prizes": [],
+    "gallery": [],
+    "introducedRevision": 4
+  },
+  {
+    "code": "AUTO_HXH11_2_73EDC31AD3",
+    "slug": "auto-hxh11-2-73edc31ad3",
+    "franchiseCode": "HUNTER_HUNTER",
+    "nameKo": "一番くじ HUNTER×HUNTER GREED ISLAND ②（再販売）",
+    "nameJp": "一番くじ HUNTER×HUNTER GREED ISLAND ②（再販売）",
+    "productTitle": "一番くじ HUNTER×HUNTER GREED ISLAND ②（再販売）",
+    "productTitleKo": "一番くじ HUNTER×HUNTER GREED ISLAND ②（再販売）",
+    "frameColor": "#15803d",
+    "sourceUrl": "https://1kuji.com/products/hxh11-2",
+    "releaseDate": "",
+    "releaseDatePrecision": "unknown",
+    "releaseDateText": "発売日未定",
+    "onlineReleaseDate": "",
+    "priceJpy": 850,
+    "samplePriceKrw": 12000,
+    "catalogStatus": "UPCOMING",
+    "prizeDetailsPending": true,
+    "sampleAllocation": true,
+    "sampleAllocationMethod": "equal-80-demo",
+    "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10845/941152f1-3d74-404d-9741-2673de18106f.webp",
+    "posterPath": "/series/official/auto-hxh11-2-73edc31ad3/poster-bdc5ccb08473e8c6.webp",
+    "summary": "공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다.",
+    "descriptionHtml": "<p>공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다.</p><p>원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
+    "onlineSourceUrl": "",
+    "retailers": "",
+    "age": "",
+    "copyright": "©P1998-2027 ©V・N・M",
+    "checkedAt": "2026-10-16",
+    "lastSyncedAt": "2026-10-16T16:53:20+09:00",
+    "prizes": [],
+    "gallery": [
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3352/5ead8106-4662-40cc-a242-35e5892763c2.webp",
+        "imagePath": "/series/official/auto-hxh11-2-73edc31ad3/gallery-1-c151d7e47b8b470d.webp"
+      },
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3350/e2b66f31-1f62-498d-a11f-02e99d70db0c.gif",
+        "imagePath": "/series/official/auto-hxh11-2-73edc31ad3/gallery-2-ea12a38d9ef6d464.gif"
+      },
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3351/31f39f03-cdb8-4fe9-849d-95129143ea8b.webp",
+        "imagePath": "/series/official/auto-hxh11-2-73edc31ad3/gallery-3-439546661750f50b.webp"
+      },
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3353/37838cb1-6fe7-4754-a5fa-3c0346dd2405.webp",
+        "imagePath": "/series/official/auto-hxh11-2-73edc31ad3/gallery-4-a9ba3ac3862832ce.webp"
+      }
+    ],
+    "introducedRevision": 4
+  },
+  {
+    "code": "AUTO_ONEP105_652A8064D9",
+    "slug": "auto-onep105-652a8064d9",
+    "franchiseCode": "ONE_PIECE",
+    "nameKo": "一番くじ ワンピース～あにまる大集合！～",
+    "nameJp": "一番くじ ワンピース～あにまる大集合！～",
+    "productTitle": "一番くじ ワンピース～あにまる大集合！～",
+    "productTitleKo": "一番くじ ワンピース～あにまる大集合！～",
+    "frameColor": "#0369a1",
+    "sourceUrl": "https://1kuji.com/products/onep105",
+    "releaseDate": "2026-11-14",
+    "releaseDatePrecision": "day",
+    "releaseDateText": "2026年11月14日(土)より順次発売予定",
+    "onlineReleaseDate": "",
+    "priceJpy": 750,
+    "samplePriceKrw": 12000,
+    "catalogStatus": "UPCOMING",
+    "prizeDetailsPending": true,
+    "sampleAllocation": true,
+    "sampleAllocationMethod": "equal-80-demo",
+    "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10785/5830b985-0600-4dba-bcfd-7eb921117413.webp",
+    "posterPath": "/series/official/auto-onep105-652a8064d9/poster-a519781d3dc9a522.webp",
+    "summary": "공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다.",
+    "descriptionHtml": "<p>공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다.</p><p>원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
+    "onlineSourceUrl": "",
+    "retailers": "ファミリーマート、一番くじ公式ショップ、一番くじONLINEなど",
+    "age": "",
+    "copyright": "©尾田栄一郎/集英社・フジテレビ・東映アニメーション",
+    "checkedAt": "2026-10-16",
+    "lastSyncedAt": "2026-10-16T16:53:20+09:00",
+    "prizes": [
+      {
+        "letter": "A",
+        "name": "チョッパーのマルチスタンド",
+        "nameKo": "チョッパーのマルチスタンド",
+        "description": "공식 공개 경품. 총 1종 · 高さ 約10cm",
+        "size": "高さ 約10cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106828/350fb13e-86a4-4bfe-9dc3-b9a960f5eac4.webp",
+        "imagePath": "/series/official/auto-onep105-652a8064d9/a-99bf7c16beedbf98.webp",
+        "sampleCount": 0,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8781/2fa7e873-07cb-41e7-8c0a-0bd4b0be72fe.webp",
+            "imagePath": "/series/official/auto-onep105-652a8064d9/a-detail-1-1aae71136246b83e.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8782/54f902b6-ab11-4d87-b977-dda89580c1df.webp",
+            "imagePath": "/series/official/auto-onep105-652a8064d9/a-detail-2-a0291529c620ba86.webp"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "name": "ヘッドマグネット",
+        "nameKo": "ヘッドマグネット",
+        "description": "공식 공개 경품. 총 4종 · 무작위 디자인 · 約5cm",
+        "size": "約5cm",
+        "variants": "총 4종 · 무작위 디자인",
+        "variantCount": 4,
+        "selection": "blind",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106829/11e60726-60f0-496c-8825-a8f50d2fdca3.webp",
+        "imagePath": "/series/official/auto-onep105-652a8064d9/d-6fc7ad893a679bff.webp",
+        "sampleCount": 0,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8785/0772389a-3a80-4fa7-a574-4ece0fb63463.webp",
+            "imagePath": "/series/official/auto-onep105-652a8064d9/d-detail-1-7dc5d411cf1a7481.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8786/437c3843-36a9-43fe-8be4-fc2e08e8d471.webp",
+            "imagePath": "/series/official/auto-onep105-652a8064d9/d-detail-2-05b8cfc612bc7890.webp"
+          }
+        ]
+      }
+    ],
+    "gallery": [],
+    "introducedRevision": 4
+  },
+  {
+    "code": "AUTO_HXH8_2_FF575C1199",
+    "slug": "auto-hxh8_2-ff575c1199",
+    "franchiseCode": "HUNTER_HUNTER",
+    "nameKo": "一番くじ HUNTER×HUNTER CHMERA ANT ②（再販売）",
+    "nameJp": "一番くじ HUNTER×HUNTER CHMERA ANT ②（再販売）",
+    "productTitle": "一番くじ HUNTER×HUNTER CHMERA ANT ②（再販売）",
+    "productTitleKo": "一番くじ HUNTER×HUNTER CHMERA ANT ②（再販売）",
+    "frameColor": "#15803d",
+    "sourceUrl": "https://1kuji.com/products/hxh8_2",
+    "releaseDate": "2026-11-14",
+    "releaseDatePrecision": "day",
+    "releaseDateText": "2026年11月14日(土)より発売予定",
+    "onlineReleaseDate": "",
+    "priceJpy": 790,
+    "samplePriceKrw": 12000,
+    "catalogStatus": "UPCOMING",
+    "prizeDetailsPending": false,
+    "sampleAllocation": true,
+    "sampleAllocationMethod": "equal-80-demo",
+    "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10788/c2f8ee0d-8933-40b8-9034-f0597e793ccd.webp",
+    "posterPath": "/series/official/auto-hxh8_2-ff575c1199/poster-6291765fc5f1613b.webp",
+    "summary": "공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다.",
+    "descriptionHtml": "<p>공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다.</p><p>원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
+    "onlineSourceUrl": "",
+    "retailers": "セブン‐イレブン店舗、イトーヨーカドー店舗、ゆめタウン店舗など",
+    "age": "",
+    "copyright": "©P1998-2026 ©V・N・M",
+    "checkedAt": "2026-10-16",
+    "lastSyncedAt": "2026-10-16T16:53:20+09:00",
+    "prizes": [
+      {
+        "letter": "A",
+        "name": "メルエム MASTERLISE",
+        "nameKo": "メルエム MASTERLISE",
+        "description": "공식 공개 경품. 총 1종 · 約23cm",
+        "size": "約23cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106877/5b417717-bc9a-46bb-b948-cec6399d6cdd.webp",
+        "imagePath": "/series/official/auto-hxh8_2-ff575c1199/a-6c0d5cf1dd736b7a.webp",
+        "sampleCount": 9,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8935/7b84931e-823e-4d20-98f2-6283ede5062d.webp",
+            "imagePath": "/series/official/auto-hxh8_2-ff575c1199/a-detail-1-24f932777c474b09.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8936/005ec78a-a9a5-431f-9744-7273b78fe5c0.webp",
+            "imagePath": "/series/official/auto-hxh8_2-ff575c1199/a-detail-2-175295208ebaaf01.webp"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "name": "ネテロ MASTERLISE",
+        "nameKo": "ネテロ MASTERLISE",
+        "description": "공식 공개 경품. 총 1종 · 約22cm",
+        "size": "約22cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106878/6463d665-f232-4efd-af75-a71dde57b97d.webp",
+        "imagePath": "/series/official/auto-hxh8_2-ff575c1199/b-db368c01623e9797.webp",
+        "sampleCount": 9,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8938/f9df3f78-5751-4ed5-9655-addd97e1b944.webp",
+            "imagePath": "/series/official/auto-hxh8_2-ff575c1199/b-detail-1-227dea4c14d97882.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8939/550b0cfc-f245-49e2-8c6a-d0ac3371d519.webp",
+            "imagePath": "/series/official/auto-hxh8_2-ff575c1199/b-detail-2-165a69eef5665f43.webp"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "name": "ゴン MASTERLISE",
+        "nameKo": "ゴン MASTERLISE",
+        "description": "공식 공개 경품. 총 1종 · 約10cm",
+        "size": "約10cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106879/e81acb83-8ead-41a1-b716-bd6b76773bd3.webp",
+        "imagePath": "/series/official/auto-hxh8_2-ff575c1199/c-5c104bff127853ab.webp",
+        "sampleCount": 9,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8941/a15e9309-7f56-4408-ace9-54616d962e71.webp",
+            "imagePath": "/series/official/auto-hxh8_2-ff575c1199/c-detail-1-863109981a1a2915.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8942/c1c3c6cf-c30b-4759-93de-60d9ace2d1fd.webp",
+            "imagePath": "/series/official/auto-hxh8_2-ff575c1199/c-detail-2-223070874c9843ec.webp"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "name": "キルア MASTERLISE",
+        "nameKo": "キルア MASTERLISE",
+        "description": "공식 공개 경품. 총 1종 · 約21cm",
+        "size": "約21cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106880/b1e20c41-424e-4f12-8916-03f25bc51da3.webp",
+        "imagePath": "/series/official/auto-hxh8_2-ff575c1199/d-e4c1d634e702b29e.webp",
+        "sampleCount": 9,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8944/a9753181-fdb9-4c21-99de-7eddc52f3a02.webp",
+            "imagePath": "/series/official/auto-hxh8_2-ff575c1199/d-detail-1-5090dc4db70de9f9.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8945/a4ee2a67-d1f6-451b-8841-849a7e81c58b.webp",
+            "imagePath": "/series/official/auto-hxh8_2-ff575c1199/d-detail-2-da8fb08a207e336f.webp"
+          }
+        ]
+      },
+      {
+        "letter": "E",
+        "name": "ネフェルピトー MASTERLISE",
+        "nameKo": "ネフェルピトー MASTERLISE",
+        "description": "공식 공개 경품. 총 1종 · 約24cm",
+        "size": "約24cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106881/e8f605e5-4047-423f-945f-6409f0ad7850.webp",
+        "imagePath": "/series/official/auto-hxh8_2-ff575c1199/e-5b4aec95b24c5acd.webp",
+        "sampleCount": 9,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8947/5d3f4589-b183-420e-94ff-863f1204374a.webp",
+            "imagePath": "/series/official/auto-hxh8_2-ff575c1199/e-detail-1-c5be5bfe5311d8d8.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8948/d8146021-abcf-445a-b466-e3988abd1cef.webp",
+            "imagePath": "/series/official/auto-hxh8_2-ff575c1199/e-detail-2-f23c0d0aa72d85c0.webp"
+          }
+        ]
+      },
+      {
+        "letter": "F",
+        "name": "シャウアプフ/モントゥトゥユピー MASTERLISE",
+        "nameKo": "シャウアプフ/モントゥトゥユピー MASTERLISE",
+        "description": "공식 공개 경품. 총 2종 · 무작위 디자인 · シャウアプフ 約6cm、モントゥトゥユピー 約7cm",
+        "size": "シャウアプフ 約6cm、モントゥトゥユピー 約7cm",
+        "variants": "총 2종 · 무작위 디자인",
+        "variantCount": 2,
+        "selection": "blind",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106882/5f5a7980-6511-4094-a354-6e226a874ed6.webp",
+        "imagePath": "/series/official/auto-hxh8_2-ff575c1199/f-a83d252a7dbff25d.webp",
+        "sampleCount": 9,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8950/f67e6bcd-60bb-4ba6-aeff-48b0e7206fc1.webp",
+            "imagePath": "/series/official/auto-hxh8_2-ff575c1199/f-detail-1-3d605b39dd4b9e60.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8951/a21a4bbf-adcb-470a-bbab-d07a13187354.webp",
+            "imagePath": "/series/official/auto-hxh8_2-ff575c1199/f-detail-2-c2ba9014c68e7ef2.webp"
+          }
+        ]
+      },
+      {
+        "letter": "G",
+        "name": "ラバーコレクション",
+        "nameKo": "ラバーコレクション",
+        "description": "공식 공개 경품. 총 10종 · 디자인 선택 가능 · ラバートレイ 約8cm、シリコンカバー 約8cm、ラバータイ 約19cm、ラバーコースター 約8cm",
+        "size": "ラバートレイ 約8cm、シリコンカバー 約8cm、ラバータイ 約19cm、ラバーコースター 約8cm",
+        "variants": "총 10종 · 디자인 선택 가능",
+        "variantCount": 10,
+        "selection": "choose",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106883/06aca6d4-4ab9-43bb-ba67-9579b81af0cc.webp",
+        "imagePath": "/series/official/auto-hxh8_2-ff575c1199/g-4494d846053e33a1.webp",
+        "sampleCount": 9,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8958/3ea396d7-fb8e-45f0-b50b-1e36823d2d05.webp",
+            "imagePath": "/series/official/auto-hxh8_2-ff575c1199/g-detail-1-d73c4ca939b13362.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8959/4b712de4-7e71-4a03-bceb-1a21c7a545eb.webp",
+            "imagePath": "/series/official/auto-hxh8_2-ff575c1199/g-detail-2-dc492b1c639d2e4d.webp"
+          }
+        ]
+      },
+      {
+        "letter": "H",
+        "name": "ステーショナリーアソート",
+        "nameKo": "ステーショナリーアソート",
+        "description": "공식 공개 경품. 총 10종 · 디자인 선택 가능 · クリアファイル A4(2枚セット)、ノート A6、メモ 約9.5cm",
+        "size": "クリアファイル A4(2枚セット)、ノート A6、メモ 約9.5cm",
+        "variants": "총 10종 · 디자인 선택 가능",
+        "variantCount": 10,
+        "selection": "choose",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106884/9f33c27b-48e2-4ce1-8f3c-b171d792d927.webp",
+        "imagePath": "/series/official/auto-hxh8_2-ff575c1199/h-7b3f126e1f5259cc.webp",
+        "sampleCount": 9,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8968/5d5218fd-e065-415c-ab3b-8a6c4dfd551b.webp",
+            "imagePath": "/series/official/auto-hxh8_2-ff575c1199/h-detail-1-a597cc5cb0dc3703.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8969/cb393e83-534a-4e07-9b1f-e53712a4bb0b.webp",
+            "imagePath": "/series/official/auto-hxh8_2-ff575c1199/h-detail-2-148b9e51e56e6262.webp"
+          }
+        ]
+      },
+      {
+        "letter": "I",
+        "name": "ストラップ付きフォンタブ/ネックストラップ＆ステッカーアソート",
+        "nameKo": "ストラップ付きフォンタブ/ネックストラップ＆ステッカーアソート",
+        "description": "공식 공개 경품. 총 10종 · 디자인 선택 가능 · フォンタブ 約7~11cm、ストラップ 約11cm、ネックストラップ 約47cm、ステッカー 約5cm",
+        "size": "フォンタブ 約7~11cm、ストラップ 約11cm、ネックストラップ 約47cm、ステッカー 約5cm",
+        "variants": "총 10종 · 디자인 선택 가능",
+        "variantCount": 10,
+        "selection": "choose",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106885/f6dc08fd-9a71-4482-8ce6-63e812250e7d.webp",
+        "imagePath": "/series/official/auto-hxh8_2-ff575c1199/i-fec0ec4e63f03a2b.webp",
+        "sampleCount": 8,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8978/65a7fe7a-b43b-4417-b7ea-d58a8c4d6819.webp",
+            "imagePath": "/series/official/auto-hxh8_2-ff575c1199/i-detail-1-2e7a16d20e0dc41e.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8979/496c40f0-1130-4aac-9202-48da57cf59cc.webp",
+            "imagePath": "/series/official/auto-hxh8_2-ff575c1199/i-detail-2-aa895e776a279771.webp"
+          }
+        ]
+      },
+      {
+        "letter": "LAST",
+        "name": "ゴン～成長ver.～ MASTERLISE EXTRA",
+        "nameKo": "ゴン～成長ver.～ MASTERLISE EXTRA",
+        "description": "공식 공개 경품. 종류 수 미공개 · 約100cm",
+        "size": "約100cm",
+        "variants": "종류 수 미공개",
+        "variantCount": null,
+        "selection": "unknown",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106886/7016fe6c-3be9-42cf-82df-63270558b3a3.webp",
+        "imagePath": "/series/official/auto-hxh8_2-ff575c1199/last-8b80049a44b5245a.webp",
+        "sampleCount": 0,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8988/0eea3e8e-4023-4960-8de6-09bc762a6c9e.webp",
+            "imagePath": "/series/official/auto-hxh8_2-ff575c1199/last-detail-1-54ff6b8615c6e29e.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/8989/80677101-6d4e-4965-936d-fa4ad90101b0.webp",
+            "imagePath": "/series/official/auto-hxh8_2-ff575c1199/last-detail-2-785cda69b298944f.webp"
+          }
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2815/fe1dcb66-ebd4-48a4-a25b-c2393caaad6b.webp",
+        "imagePath": "/series/official/auto-hxh8_2-ff575c1199/gallery-1-f279f06b18646933.webp"
+      },
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2816/8f7a7ef1-b73b-4bd9-943f-a9fa6d41f3d2.webp",
+        "imagePath": "/series/official/auto-hxh8_2-ff575c1199/gallery-2-fb65bb1124070bb6.webp"
+      },
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2817/ee6fc9a1-6ef0-4dfd-9bcd-462ab56f27ab.webp",
+        "imagePath": "/series/official/auto-hxh8_2-ff575c1199/gallery-3-37a3266a4dd10083.webp"
+      },
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/2818/d1d82024-01e8-41a1-9472-059915dfad65.webp",
+        "imagePath": "/series/official/auto-hxh8_2-ff575c1199/gallery-4-3fdd10fe080d9031.webp"
+      }
+    ],
+    "introducedRevision": 4,
+    "doubleChance": {
+      "name": "ゴン~成長ver.~ MASTERLISE EXTRA",
+      "deadline": "キャンペーン期間: 発売日~2027年02月末日",
+      "description": "공식 별도 캠페인 당첨 수 50개. 이 프로그램에서는 응모를 제공하지 않습니다.",
+      "awardCount": 50,
+      "imageUrl": "https://assets.1kuji.com/uploads/campaign/image/11640/93bdf65c-27d7-4c2b-98db-0e187f06cbc8.webp",
+      "imagePath": "/series/official/auto-hxh8_2-ff575c1199/double-chance-4ca503d97fdcfeef.webp"
+    }
+  },
+  {
+    "code": "AUTO_DB_FA3_FFFF89190D",
+    "slug": "auto-db_fa3-ffff89190d",
+    "franchiseCode": "DRAGON_BALL",
+    "nameKo": "一番くじ ドラゴンボール Fantastic Adventure 3",
+    "nameJp": "一番くじ ドラゴンボール Fantastic Adventure 3",
+    "productTitle": "一番くじ ドラゴンボール Fantastic Adventure 3",
+    "productTitleKo": "一番くじ ドラゴンボール Fantastic Adventure 3",
+    "frameColor": "#ea580c",
+    "sourceUrl": "https://1kuji.com/products/db_fa3",
+    "releaseDate": "2026-11-28",
+    "releaseDatePrecision": "day",
+    "releaseDateText": "2026年11月28日(土)より順次発売予定",
+    "onlineReleaseDate": "",
+    "priceJpy": 800,
+    "samplePriceKrw": 12000,
+    "catalogStatus": "UPCOMING",
+    "prizeDetailsPending": false,
+    "sampleAllocation": true,
+    "sampleAllocationMethod": "equal-80-demo",
+    "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10791/997762ae-ba90-4c45-8e4e-48ab856e4f09.webp",
+    "posterPath": "/series/official/auto-db_fa3-ffff89190d/poster-5cd4a41a50e3ca2b.webp",
+    "summary": "공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다.",
+    "descriptionHtml": "<p>공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다.</p><p>원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
+    "onlineSourceUrl": "",
+    "retailers": "ファミリーマートなど",
+    "age": "",
+    "copyright": "©バード・スタジオ/集英社・東映アニメーション",
+    "checkedAt": "2026-10-16",
+    "lastSyncedAt": "2026-10-16T16:53:20+09:00",
+    "prizes": [
+      {
+        "letter": "A",
+        "name": "孫悟空＆ブルマ＆ウーロン 牛魔王の車フィギュア",
+        "nameKo": "孫悟空＆ブルマ＆ウーロン 牛魔王の車フィギュア",
+        "description": "공식 공개 경품. 총 1종 · 約20cm",
+        "size": "約20cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106787/98e2736a-95ba-423f-846b-2e478268e17e.webp",
+        "imagePath": "/series/official/auto-db_fa3-ffff89190d/a-e063b48507a66ad4.webp",
+        "sampleCount": 80,
+        "gallery": []
+      },
+      {
+        "letter": "LAST",
+        "name": "孫悟空＆ブルマ フィギュア",
+        "nameKo": "孫悟空＆ブルマ フィギュア",
+        "description": "공식 공개 경품. 종류 수 미공개 · 約17cm",
+        "size": "約17cm",
+        "variants": "종류 수 미공개",
+        "variantCount": null,
+        "selection": "unknown",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106788/8aa38871-ae0f-450f-8cf1-bff2a9cc972c.webp",
+        "imagePath": "/series/official/auto-db_fa3-ffff89190d/last-2788cdd9ad5a339c.webp",
+        "sampleCount": 0,
+        "gallery": []
+      }
+    ],
+    "gallery": [],
+    "introducedRevision": 4
+  },
+  {
+    "code": "AUTO_MYHERO48_BBBA72A638",
+    "slug": "auto-myhero48-bbba72a638",
+    "franchiseCode": "MY_HERO_ACADEMIA",
+    "nameKo": "一番くじ 僕のヒーローアカデミア -彼女たちの物語-",
+    "nameJp": "一番くじ 僕のヒーローアカデミア -彼女たちの物語-",
+    "productTitle": "一番くじ 僕のヒーローアカデミア -彼女たちの物語-",
+    "productTitleKo": "一番くじ 僕のヒーローアカデミア -彼女たちの物語-",
+    "frameColor": "#166534",
+    "sourceUrl": "https://1kuji.com/products/myhero48",
+    "releaseDate": "2026-11-30",
+    "releaseDatePrecision": "day",
+    "releaseDateText": "2026年11月30日(月)より順次発売予定",
+    "onlineReleaseDate": "",
+    "priceJpy": 850,
+    "samplePriceKrw": 12000,
+    "catalogStatus": "UPCOMING",
+    "prizeDetailsPending": false,
+    "sampleAllocation": true,
+    "sampleAllocationMethod": "equal-80-demo",
+    "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10804/88825605-64f2-4fa7-ab41-5cd2bc79748a.webp",
+    "posterPath": "/series/official/auto-myhero48-bbba72a638/poster-603fd811bbb3fb1a.webp",
+    "summary": "공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다.",
+    "descriptionHtml": "<p>공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다.</p><p>원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
+    "onlineSourceUrl": "",
+    "retailers": "一番くじONLINE、一番くじ公式ショップ",
+    "age": "",
+    "copyright": "©堀越耕平/集英社・僕のヒーローアカデミア製作委員会",
+    "checkedAt": "2026-10-16",
+    "lastSyncedAt": "2026-10-16T16:53:20+09:00",
+    "prizes": [
+      {
+        "letter": "A",
+        "name": "麗日お茶子 MASTERLISE",
+        "nameKo": "麗日お茶子 MASTERLISE",
+        "description": "공식 공개 경품. 총 1종 · 約22cm",
+        "size": "約22cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106992/154a47f0-238c-47dc-a526-9f3df21f74ed.webp",
+        "imagePath": "/series/official/auto-myhero48-bbba72a638/a-11effe245b569ac2.webp",
+        "sampleCount": 20,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9597/0708b293-b5fd-4e72-a9c9-a83cca31303b.webp",
+            "imagePath": "/series/official/auto-myhero48-bbba72a638/a-detail-1-f8fe1ed3565f110f.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9598/b4b70d7c-a9fa-434e-9ccf-76c4b112abdf.webp",
+            "imagePath": "/series/official/auto-myhero48-bbba72a638/a-detail-2-32bc3db8a1605c21.webp"
+          }
+        ]
+      },
+      {
+        "letter": "B",
+        "name": "蛙吹梅雨 MASTERLISE",
+        "nameKo": "蛙吹梅雨 MASTERLISE",
+        "description": "공식 공개 경품. 총 1종 · 約21cm",
+        "size": "約21cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106993/88ddba63-bac9-4d87-8b79-6892ee9409d8.webp",
+        "imagePath": "/series/official/auto-myhero48-bbba72a638/b-fde504e30077f3de.webp",
+        "sampleCount": 20,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9606/69c611c6-a717-497c-8fa2-01b0276c5c1f.webp",
+            "imagePath": "/series/official/auto-myhero48-bbba72a638/b-detail-1-73baed5a241c5023.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9607/e8ed4b8a-f771-4f7e-85dd-8506d09ddf2c.webp",
+            "imagePath": "/series/official/auto-myhero48-bbba72a638/b-detail-2-1c4d3fa59080a48c.webp"
+          }
+        ]
+      },
+      {
+        "letter": "C",
+        "name": "葉隠透 MASTERLISE",
+        "nameKo": "葉隠透 MASTERLISE",
+        "description": "공식 공개 경품. 총 1종 · 約22cm",
+        "size": "約22cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106994/51040955-45f6-4825-9505-b4c30d757679.webp",
+        "imagePath": "/series/official/auto-myhero48-bbba72a638/c-c90dcd49dfaf3a31.webp",
+        "sampleCount": 20,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9594/dcb1c49f-2c8b-480f-a01e-0ec45db63972.webp",
+            "imagePath": "/series/official/auto-myhero48-bbba72a638/c-detail-1-1d92d734befa44b6.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9595/f6d49a64-6769-4303-9bd2-ea26afd97cb7.webp",
+            "imagePath": "/series/official/auto-myhero48-bbba72a638/c-detail-2-7803dc528dbf99d8.webp"
+          }
+        ]
+      },
+      {
+        "letter": "D",
+        "name": "波動ねじれ MASTERLISE",
+        "nameKo": "波動ねじれ MASTERLISE",
+        "description": "공식 공개 경품. 총 1종 · 約23cm",
+        "size": "約23cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106995/b49430a9-cc80-4965-91bb-4d40d9a5fd96.webp",
+        "imagePath": "/series/official/auto-myhero48-bbba72a638/d-48fc4af5962d38d6.webp",
+        "sampleCount": 20,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9600/c9a0d8e8-8822-4450-b613-7a754dcd9070.webp",
+            "imagePath": "/series/official/auto-myhero48-bbba72a638/d-detail-1-6231d869bf947610.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9601/7c00a16f-2a1b-4544-935a-6a7c95c89cb5.webp",
+            "imagePath": "/series/official/auto-myhero48-bbba72a638/d-detail-2-8d3934bc0dac0d5f.webp"
+          }
+        ]
+      },
+      {
+        "letter": "LAST",
+        "name": "トガヒミコ MASTERLISE",
+        "nameKo": "トガヒミコ MASTERLISE",
+        "description": "공식 공개 경품. 종류 수 미공개 · 約23cm",
+        "size": "約23cm",
+        "variants": "종류 수 미공개",
+        "variantCount": null,
+        "selection": "unknown",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106996/920e3235-ba34-478b-a8b3-feb70f66a6b2.webp",
+        "imagePath": "/series/official/auto-myhero48-bbba72a638/last-1eab4698017ec89a.webp",
+        "sampleCount": 0,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9603/6eed6ab7-d7a9-40a9-a713-880ac1adf341.webp",
+            "imagePath": "/series/official/auto-myhero48-bbba72a638/last-detail-1-77ac4e6d6222d15c.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9604/88034dc0-f2c1-49ca-859d-5aa1f2016246.webp",
+            "imagePath": "/series/official/auto-myhero48-bbba72a638/last-detail-2-1b9af1bfdd26ac57.webp"
+          }
+        ]
+      }
+    ],
+    "gallery": [],
+    "introducedRevision": 4
+  },
+  {
+    "code": "AUTO_ONEP106_9838A2EE1C",
+    "slug": "auto-onep106-9838a2ee1c",
+    "franchiseCode": "ONE_PIECE",
+    "nameKo": "一番くじ ワンピース IMPACT LOG",
+    "nameJp": "一番くじ ワンピース IMPACT LOG",
+    "productTitle": "一番くじ ワンピース IMPACT LOG",
+    "productTitleKo": "一番くじ ワンピース IMPACT LOG",
+    "frameColor": "#0369a1",
+    "sourceUrl": "https://1kuji.com/products/onep106",
+    "releaseDate": "2027-01-09",
+    "releaseDatePrecision": "day",
+    "releaseDateText": "2027年01月09日(土)より順次発売予定",
+    "onlineReleaseDate": "",
+    "priceJpy": 790,
+    "samplePriceKrw": 12000,
+    "catalogStatus": "UPCOMING",
+    "prizeDetailsPending": false,
+    "sampleAllocation": true,
+    "sampleAllocationMethod": "equal-80-demo",
+    "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10827/bd05f42f-381d-4c73-8d73-e7c61bded625.webp",
+    "posterPath": "/series/official/auto-onep106-9838a2ee1c/poster-ae2edb4be8b1f7dd.webp",
+    "summary": "공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다.",
+    "descriptionHtml": "<p>공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다.</p><p>원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
+    "onlineSourceUrl": "",
+    "retailers": "ファミリーマートなど",
+    "age": "",
+    "copyright": "©尾田栄一郎/集英社・フジテレビ・東映アニメーション",
+    "checkedAt": "2026-10-16",
+    "lastSyncedAt": "2026-10-16T16:53:20+09:00",
+    "prizes": [
+      {
+        "letter": "A",
+        "name": "モンキー・D・ルフィVSチャルロス聖 Revible Moment",
+        "nameKo": "モンキー・D・ルフィVSチャルロス聖 Revible Moment",
+        "description": "공식 공개 경품. 총 1종 · 約18cm",
+        "size": "約18cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107202/0a26ce3e-931a-4d9d-91c4-c508c2be978f.webp",
+        "imagePath": "/series/official/auto-onep106-9838a2ee1c/a-a8770b0e23e08e70.webp",
+        "sampleCount": 20,
+        "gallery": []
+      },
+      {
+        "letter": "B",
+        "name": "ポートガス・D・エース-炎帝- Revible Moment",
+        "nameKo": "ポートガス・D・エース-炎帝- Revible Moment",
+        "description": "공식 공개 경품. 총 1종 · 約31cm",
+        "size": "約31cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107203/59b6f6fc-f411-456b-b188-255ed818b994.webp",
+        "imagePath": "/series/official/auto-onep106-9838a2ee1c/b-c2f5572bf4d1b29e.webp",
+        "sampleCount": 20,
+        "gallery": []
+      },
+      {
+        "letter": "C",
+        "name": "ロロノア・ゾロ＆ウソップ-名刀・鼻嵐- Revible Moment",
+        "nameKo": "ロロノア・ゾロ＆ウソップ-名刀・鼻嵐- Revible Moment",
+        "description": "공식 공개 경품. 총 1종 · 約23cm",
+        "size": "約23cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107204/ab60228e-3eee-4c29-b351-32314f944c15.webp",
+        "imagePath": "/series/official/auto-onep106-9838a2ee1c/c-38f829d210b09e94.webp",
+        "sampleCount": 20,
+        "gallery": []
+      },
+      {
+        "letter": "D",
+        "name": "ペローナVSウソップ Revible Moment",
+        "nameKo": "ペローナVSウソップ Revible Moment",
+        "description": "공식 공개 경품. 총 1종 · ペローナ 約26.5cm、ウソップ 約8cm",
+        "size": "ペローナ 約26.5cm、ウソップ 約8cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107205/c2d18867-9d1d-4205-a993-d7982c78a853.webp",
+        "imagePath": "/series/official/auto-onep106-9838a2ee1c/d-ca8cc149ffb41cb8.webp",
+        "sampleCount": 20,
+        "gallery": []
+      },
+      {
+        "letter": "LAST",
+        "name": "ONE PIECE THE GIGANT NAME",
+        "nameKo": "ONE PIECE THE GIGANT NAME",
+        "description": "공식 공개 경품. 종류 수 미공개 · 約45cm",
+        "size": "約45cm",
+        "variants": "종류 수 미공개",
+        "variantCount": null,
+        "selection": "unknown",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107206/71fcca9b-4e35-4924-b570-2030c27dcf34.webp",
+        "imagePath": "/series/official/auto-onep106-9838a2ee1c/last-67d1d3a438e234ff.webp",
+        "sampleCount": 0,
+        "gallery": []
+      }
+    ],
+    "gallery": [],
+    "introducedRevision": 4
   }
 ]

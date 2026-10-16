@@ -1,11 +1,19 @@
 {
+  "checkedAt": "2026-10-16T16:53:20+09:00",
+  "lastSuccessAt": "2026-10-16T16:53:20+09:00",
   "status": "ok",
-  "checkedAt": "2026-10-16T07:50:10.563Z",
-  "lastSuccessAt": "2026-10-16T07:50:10.574Z",
-  "checked": 17,
-  "added": 0,
-  "updated": 0,
+  "checked": 25,
+  "released": 12,
+  "upcoming": 13,
+  "added": 8,
+  "updated": 17,
   "failed": 0,
+  "errors": [],
+  "discovery": {
+    "checkedPages": 6,
+    "found": 12,
+    "deferred": 4
+  },
   "schedule": {
     "timezone": "Asia/Seoul",
     "hour": 10,
