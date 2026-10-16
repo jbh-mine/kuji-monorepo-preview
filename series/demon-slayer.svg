@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" width="200" height="120">
+  <defs>
+    <linearGradient id="ds-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#14532d"/>
+      <stop offset="50%" style="stop-color:#166534"/>
+      <stop offset="100%" style="stop-color:#0f3d26"/>
+    </linearGradient>
+    <linearGradient id="ds-sun" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f87171"/>
+      <stop offset="100%" style="stop-color:#b91c1c"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="120" fill="url(#ds-bg)"/>
+  <circle cx="160" cy="28" r="22" fill="url(#ds-sun)" opacity="0.95"/>
+  <path fill="none" stroke="#22c55e" stroke-width="2" opacity="0.5" d="M0 85 Q50 70 100 85 T200 85"/>
+  <path fill="none" stroke="#16a34a" stroke-width="2" opacity="0.45" d="M0 95 Q50 80 100 95 T200 95"/>
+  <path fill="none" stroke="#15803d" stroke-width="2" opacity="0.4" d="M0 105 Q50 90 100 105 T200 105"/>
+  <text x="100" y="68" text-anchor="middle" fill="#fef3c7" font-family="system-ui,sans-serif" font-size="14" font-weight="800" opacity="0.9">&#xADC0;&#xBA78;&#xC758; &#xCE7C;&#xB0A0;</text>
+</svg>

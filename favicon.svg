@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Ticket body -->
+  <rect x="8" y="4" width="48" height="56" rx="4" fill="#fff" stroke="#c0392b" stroke-width="3"/>
+  <!-- Top notch (ticket clip) -->
+  <rect x="22" y="1" width="20" height="8" rx="2" fill="#c0392b"/>
+  <!-- Dashed tear line -->
+  <line x1="8" y1="44" x2="56" y2="44" stroke="#ccc" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <!-- Grade text -->
+  <text x="32" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" font-weight="bold" fill="#c0392b">くじ</text>
+  <!-- Star decoration -->
+  <text x="32" y="56" text-anchor="middle" font-size="10" fill="#f59e0b">★</text>
+</svg>

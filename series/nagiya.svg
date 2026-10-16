@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" width="200" height="120">
+  <defs>
+    <linearGradient id="ng-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#5b21b6"/>
+      <stop offset="100%" style="stop-color:#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="120" fill="url(#ng-bg)"/>
+  <circle cx="100" cy="45" r="28" fill="#c4b5fd" opacity="0.35"/>
+  <text x="100" y="95" text-anchor="middle" fill="#f5f3ff" font-family="system-ui,sans-serif" font-size="14" font-weight="800">&#xB098;&#xD788;&#xC57C;</text>
+</svg>

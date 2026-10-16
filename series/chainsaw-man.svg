@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" width="200" height="120">
+  <defs>
+    <linearGradient id="csm-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" style="stop-color:#1c1917"/>
+      <stop offset="100%" style="stop-color:#292524"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="120" fill="url(#csm-bg)"/>
+  <g fill="#ea580c" opacity="0.9">
+    <rect x="20" y="50" width="160" height="8" rx="2" transform="rotate(-8 100 54)"/>
+    <polygon points="175,48 190,54 175,60"/>
+  </g>
+  <text x="100" y="95" text-anchor="middle" fill="#fed7aa" font-family="system-ui,sans-serif" font-size="13" font-weight="800">&#xCCB4;&#xC778;&#xC18C;&#xB9E8;</text>
+</svg>
