@@ -1,0 +1,14 @@
+{
+  "status": "ok",
+  "checkedAt": "2026-10-16T07:50:10.563Z",
+  "lastSuccessAt": "2026-10-16T07:50:10.574Z",
+  "checked": 17,
+  "added": 0,
+  "updated": 0,
+  "failed": 0,
+  "schedule": {
+    "timezone": "Asia/Seoul",
+    "hour": 10,
+    "minute": 10
+  }
+}

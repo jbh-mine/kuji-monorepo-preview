@@ -1,0 +1,86 @@
+name: Refresh official catalog and publish Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/daily-catalog.yml'
+      - 'scripts/**'
+      - 'index.html'
+      - 'assets/**'
+      - 'official-catalog.json'
+  schedule:
+    # 01:10 UTC = 10:10 in Korea and Japan. GitHub may delay scheduled runs.
+    - cron: '10 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages-daily-catalog
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Verify catalog updater
+        run: python -m unittest discover -s scripts/tests -v
+      - name: Refresh official product information
+        id: sync
+        # Preserve and publish the health report even when every official request fails.
+        continue-on-error: true
+        run: python scripts/catalog_sync.py --root . --max-new 8
+      - name: Validate retained public catalog and health report
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          catalog = json.loads(Path('official-catalog.json').read_text(encoding='utf-8'))
+          status = json.loads(Path('sync-status.json').read_text(encoding='utf-8'))
+          assert isinstance(catalog, list) and catalog, 'Never publish an empty catalog'
+          assert status['status'] in {'ok', 'partial', 'failed'}
+          print(f"Catalog check: {status['status']}; checked={status['checked']}, added={status['added']}, failed={status['failed']}")
+          PY
+      - name: Commit changed catalog, immutable assets and health report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- official-catalog.json sync-status.json series/official
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh official kuji catalog"
+            git push origin HEAD:main
+          fi
+      - name: Assemble the existing static application with refreshed data
+        run: |
+          mkdir _site
+          cp index.html official-catalog.json sync-status.json _site/
+          cp -R assets series _site/
+          find . -maxdepth 1 -type f \( -name '*.svg' -o -name '*.ico' -o -name '*.png' -o -name '*.txt' -o -name '.nojekyll' \) -exec cp {} _site/ \;
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+  deploy:
+    needs: refresh
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      # GITHUB_TOKEN pushes do not trigger another workflow: deployment is explicit here.
+      - name: Publish refreshed catalog and sync health
+        id: deployment
+        uses: actions/deploy-pages@v4
