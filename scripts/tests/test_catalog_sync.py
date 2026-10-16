@@ -17,10 +17,16 @@ from pathlib import Path
 from unittest.mock import patch
 
 SCRIPT = Path(__file__).resolve().parents[1] / "catalog_sync.py"
+sys.path.insert(0, str(SCRIPT.parent))
 SPEC = importlib.util.spec_from_file_location("catalog_sync", SCRIPT)
 sync = importlib.util.module_from_spec(SPEC)
 sys.modules[SPEC.name] = sync
 SPEC.loader.exec_module(sync)
+
+# Catalog fixtures exercise the full translation path without external services.
+# Unknown terms deliberately stay marked pending; glossary terms are Korean.
+_online_translator = sync.KoreanTranslator
+sync.KoreanTranslator = lambda *args, **kwargs: _online_translator(*args, max_requests=0, **kwargs)
 
 NOW = datetime(2026, 10, 16, 12, 0, tzinfo=sync.JST)
 URL = "https://1kuji.com/products/chainsawman3"
@@ -158,6 +164,34 @@ class ParserTests(unittest.TestCase):
         self.assertEqual(sync.catalog_status("2026-10-17", "day", before), "UPCOMING")
         self.assertEqual(sync.catalog_status("2026-10-17", "day", after), "ON_SALE")
         self.assertEqual(sync.catalog_status("", "unknown", after), "UPCOMING")
+
+    def test_changed_campaign_name_cannot_retain_another_prizes_human_korean_name(self):
+        old = sync.merge_product(sync.parse_product(GOLDEN_PAGE, URL), None, URL, NOW)
+        old["doubleChance"]["nameKo"] = "옛 캠페인 경품"
+        parsed = sync.parse_product(GOLDEN_PAGE, URL)
+        parsed["doubleChance"]["name"] = "レゼ フィギュア"
+        updated = sync.merge_product(parsed, old, URL, NOW)
+        self.assertNotIn("nameKo", updated["doubleChance"])
+        localized = sync.translate_catalog([updated], _online_translator(max_requests=0))[0][0]
+        self.assertEqual(localized["doubleChance"]["nameKo"], "레제 피규어")
+
+    def test_missing_size_keeps_exact_japanese_fact_instead_of_korean_value_as_original(self):
+        old = sync.merge_product(sync.parse_product(GOLDEN_PAGE, URL), None, URL, NOW)
+        old["prizes"][0].update(size="높이 약 10cm", sizeJp="高さ 約10cm")
+        parsed = sync.parse_product(GOLDEN_PAGE, URL)
+        parsed["prizes"][0]["size"] = ""
+        updated = sync.merge_product(parsed, old, URL, NOW)
+        self.assertEqual(updated["prizes"][0]["sizeJp"], "高さ 約10cm")
+
+    def test_newly_completed_lineup_refreshes_an_obsolete_undisclosed_summary(self):
+        old = sync.merge_product(sync.parse_product(PARTIAL_ANNOUNCEMENT, "https://1kuji.com/products/deathnote2"), None, "https://1kuji.com/products/deathnote2", NOW)
+        old["summary"] = "전체 경품 구성은 아직 미공개입니다."
+        full_page = page(title="一番くじ DEATH NOTE 2", headings=[("A", "ニア フィギュア"), ("B", "メロ フィギュア"), ("C", "ニア フィギュア"), ("D", "メロ フィギュア"), ("LAST", "メロ フィギュア")])
+        updated = sync.merge_product(sync.parse_product(full_page, "https://1kuji.com/products/deathnote2"), old, "https://1kuji.com/products/deathnote2", NOW)
+        localized = sync.translate_catalog([updated], _online_translator(max_requests=0))[0][0]
+        self.assertFalse(localized["prizeDetailsPending"])
+        self.assertNotIn("미공개", localized["summary"])
+        self.assertIn("니아 피규어", localized["summary"])
 
     def test_calendar_discovery_only_accepts_official_allowlisted_product_links(self):
         links, pages = sync.discover_products(LISTING)

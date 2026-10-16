@@ -31,6 +31,8 @@ from html.parser import HTMLParser
 from pathlib import Path, PurePosixPath
 from typing import Callable
 
+from translation_ko import KoreanTranslator, load_cache, translate_catalog
+
 JST = timezone(timedelta(hours=9))  # Japan and Korea share UTC+09:00; no host-local dates.
 PAGE_HOSTS = frozenset({"1kuji.com", "www.1kuji.com"})
 IMAGE_HOSTS = PAGE_HOSTS | {"assets.1kuji.com", "sf.1kuji.com", "on-line.1kuji.com"}
@@ -464,7 +466,7 @@ def merge_product(parsed: dict, existing: dict | None, url: str, now: datetime) 
         selection = raw["selection"] if raw["selection"] != "unknown" else previous.get("selection", "unknown") if identity_same else "unknown"
         variants = f"총 {count}종" if count is not None else "종류 수 미공개"
         variants += " · 디자인 선택 가능" if selection == "choose" else " · 무작위 디자인" if selection == "blind" else ""
-        size = raw["size"] or (previous.get("size", "") if identity_same else "")
+        size = raw["size"] or (previous.get("sizeJp", previous.get("size", "")) if identity_same else "")
         factual_description = "공식 공개 경품. " + " · ".join(value for value in (variants, size) if value)
         new_gallery = [asset_ref(image, raw["letter"].lower() + f"-detail-{i + 1}") for i, image in enumerate(raw["images"][1:3])]
         if identity_same:
@@ -472,11 +474,15 @@ def merge_product(parsed: dict, existing: dict | None, url: str, now: datetime) 
         prize = {**previous, "letter": raw["letter"], "name": raw["name"],
                  "nameKo": previous.get("nameKo", raw["name"]) if identity_same else raw["name"],
                  "description": previous.get("description", factual_description) if identity_same else factual_description,
-                 "size": size, "variants": variants, "variantCount": count, "selection": selection,
+                 "size": size, "sizeJp": size, "variants": variants, "variantCount": count, "selection": selection,
                  **asset_ref(raw["images"][0], raw["letter"].lower()), "sampleCount": counts.get(raw["letter"], 0),
                  "gallery": new_gallery}
         prizes.append(prize)
     own_summary = old.get("summary") or "공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다."
+    # A previously incomplete announcement must not retain a now-false promise
+    # that its full lineup is still undisclosed. Regenerate factual Korean text.
+    if old.get("prizeDetailsPending") and parsed["complete"]:
+        own_summary = "공식 상품 페이지에 공개된 일본어 정식 상품명과 경품 정보를 표시합니다."
     title_same = old.get("productTitle") == parsed["productTitle"]
     korean_title = old.get("productTitleKo") if title_same else None
     korean_title = korean_title or parsed["productTitle"]
@@ -488,6 +494,7 @@ def merge_product(parsed: dict, existing: dict | None, url: str, now: datetime) 
               "frameColor": old.get("frameColor", color), "sourceUrl": source,
               "releaseDate": parsed["releaseDate"], "releaseDatePrecision": parsed["releaseDatePrecision"],
               "releaseDateText": parsed["releaseDateText"], "onlineReleaseDate": parsed["onlineReleaseDate"] or old.get("onlineReleaseDate", ""),
+              "releaseDateTextJp": parsed["releaseDateText"],
               "priceJpy": parsed["priceJpy"], "samplePriceKrw": old.get("samplePriceKrw", 12000),
               "catalogStatus": catalog_status(parsed["releaseDate"], parsed["releaseDatePrecision"], now),
               "prizeDetailsPending": not parsed["complete"], "sampleAllocation": True,
@@ -496,7 +503,9 @@ def merge_product(parsed: dict, existing: dict | None, url: str, now: datetime) 
               "summary": own_summary, "descriptionHtml": old.get("descriptionHtml") or "<p>" + html.escape(own_summary) + "</p><p>원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
               "onlineSourceUrl": parsed["onlineSourceUrl"] or old.get("onlineSourceUrl", ""),
               "retailers": parsed["retailers"] or old.get("retailers", ""),
+              "retailersJp": parsed["retailers"] or old.get("retailersJp", old.get("retailers", "")),
               "age": parsed["age"] or old.get("age", ""),
+              "ageJp": parsed["age"] or old.get("ageJp", old.get("age", "")),
               "copyright": parsed["copyright"] or old.get("copyright", ""),
               "checkedAt": now.astimezone(JST).date().isoformat(), "lastSyncedAt": now.astimezone(JST).isoformat(timespec="seconds"),
               "prizes": prizes, "gallery": product_gallery}
@@ -509,9 +518,11 @@ def merge_product(parsed: dict, existing: dict | None, url: str, now: datetime) 
         campaign_description = previous.get("description", "공식 별도 캠페인 경품입니다. 이 프로그램에서는 응모를 제공하지 않습니다.")
         if award_count is not None and (previous.get("awardCount") != award_count or previous.get("name") != raw["name"]):
             campaign_description = f"공식 별도 캠페인 당첨 수 {award_count}개. 이 프로그램에서는 응모를 제공하지 않습니다."
-        result["doubleChance"] = {**previous, "name": raw["name"], "deadline": raw["deadline"],
+        result["doubleChance"] = {**previous, "name": raw["name"], "deadline": raw["deadline"], "deadlineJp": raw["deadline"],
                                   "description": campaign_description, "awardCount": award_count,
                                   **asset_ref(raw["imageUrl"], "double-chance")}
+        if previous.get("name") != raw["name"]:
+            result["doubleChance"].pop("nameKo", None)
     return result
 
 
@@ -560,10 +571,12 @@ def atomic_json(path: Path, value) -> None:
 
 def sync_catalog(root: Path, catalog_path: Path, status_path: Path, *, fetch: Callable | None = None,
                  now: datetime | None = None, discover: bool = True, max_new: int = DEFAULT_MAX_NEW,
-                 dry_run: bool = False) -> dict:
+                 dry_run: bool = False, translator: KoreanTranslator | None = None) -> dict:
     root = root.resolve()
     now = (now or datetime.now(JST)).astimezone(JST)
     fetch = fetch or Fetcher()
+    cache_path = root / "translation-cache.json"
+    translator = translator or KoreanTranslator(load_cache(cache_path))
     catalog = json.loads(catalog_path.read_text(encoding="utf-8"))
     if not isinstance(catalog, list) or not catalog or len(catalog) > MAX_PRODUCTS:
         raise CatalogError("Saved catalog must be a nonempty bounded product array")
@@ -634,6 +647,7 @@ def sync_catalog(root: Path, catalog_path: Path, status_path: Path, *, fetch: Ca
             response = fetch(source)
             parsed = parse_product(response.data.decode("utf-8"), source)
             product = merge_product(parsed, existing, source, now)
+            product = translate_catalog([product], translator)[0][0]
             with tempfile.TemporaryDirectory(prefix="kuji-catalog-") as directory:
                 files = stage_assets(product, root, fetch, Path(directory))
                 if not dry_run:
@@ -673,11 +687,15 @@ def sync_catalog(root: Path, catalog_path: Path, status_path: Path, *, fetch: Ca
         precision = product.get("releaseDatePrecision", "day" if product.get("releaseDate") else "unknown")
         category = catalog_status(product.get("releaseDate", ""), precision, now)
         status["released" if category == "ON_SALE" else "upcoming"] += 1
+    status["translation"] = {"language": "ko", "pending": sum(bool(product.get("translationPending")) for product in catalog),
+                             "requests": translator.requests, "cacheHits": translator.hits, "failedRequests": translator.failed}
     if status["failed"]:
         status["status"] = "failed" if product_successes == 0 else "partial"
     else:
         status["lastSuccessAt"] = status["checkedAt"]
-    if not dry_run: atomic_json(status_path, status)
+    if not dry_run:
+        atomic_json(cache_path, translator.cache)
+        atomic_json(status_path, status)
     return status
 
 
