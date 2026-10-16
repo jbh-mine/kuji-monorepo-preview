@@ -343,12 +343,13 @@
     "introducedRevision": 3,
     "franchiseCode": "HUNTER_HUNTER",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "retailersJp": "ファミリーマート、書店、ホビーショップ、一番くじ公式ショップなど",
     "releaseDateTextJp": "2026年08月29日(土)より順次発売予定",
     "translationGenerated": [],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "ageJp": ""
   },
   {
     "code": "MY_HERO_ACADEMIA_2026",
@@ -673,12 +674,13 @@
     "introducedRevision": 3,
     "franchiseCode": "MY_HERO_ACADEMIA",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "retailersJp": "ファミリーマート、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなど",
     "releaseDateTextJp": "2026年09月12日(土)より順次発売予定",
     "translationGenerated": [],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "ageJp": ""
   },
   {
     "code": "DEMON_SLAYER_OFFICIAL_2026",
@@ -938,7 +940,7 @@
     "introducedRevision": 2,
     "franchiseCode": "DEMON_SLAYER",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "ageJp": "15세 이상",
     "retailersJp": "一番くじONLINE、一番くじ公式ショップ",
     "releaseDateTextJp": "2026年07月30日(木)より順次発売予定",
@@ -1211,7 +1213,7 @@
     "introducedRevision": 2,
     "franchiseCode": "ATTACK_ON_TITAN",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "ageJp": "15세 이상",
     "retailersJp": "一番くじ公式ショップ、一番くじONLINEなど",
     "releaseDateTextJp": "2026年08月05日(水)より順次発売予定",
@@ -1508,7 +1510,7 @@
     "introducedRevision": 2,
     "franchiseCode": "CHAINSAW_MAN",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "ageJp": "15세 이상",
     "retailersJp": "ローソン、ミニストップ、デイリーヤマザキ、その他コンビニエンスストア、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなど",
     "releaseDateTextJp": "2026年09月18日(金)より順次発売予定",
@@ -1835,7 +1837,7 @@
     "introducedRevision": 1,
     "franchiseCode": "DRAGON_BALL",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "ageJp": "15세 이상",
     "retailersJp": "ローソン、ミニストップ、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなど",
     "releaseDateTextJp": "2026年08月22日(土)より順次発売予定",
@@ -2122,12 +2124,13 @@
     "introducedRevision": 1,
     "franchiseCode": "ONE_PIECE",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "retailersJp": "セブン‐イレブン店舗、イトーヨーカドー店舗、ゆめタウン店舗、麦わらストアなど",
     "releaseDateTextJp": "2026年08月08日(土)より発売予定",
     "translationGenerated": [],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "ageJp": ""
   },
   {
     "code": "NARUTO",
@@ -2392,12 +2395,13 @@
     "introducedRevision": 1,
     "franchiseCode": "NARUTO",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "retailersJp": "セブン‐イレブン店舗、イトーヨーカドー店舗、ゆめタウン店舗など",
     "releaseDateTextJp": "2026年06月26日(金)より発売予定",
     "translationGenerated": [],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "ageJp": ""
   },
   {
     "code": "JUJUTSU_KAISEN",
@@ -2711,7 +2715,7 @@
     "introducedRevision": 1,
     "franchiseCode": "JUJUTSU_KAISEN",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "ageJp": "15세 이상",
     "retailersJp": "ファミリーマート、ミニストップ、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなど",
     "releaseDateTextJp": "2026年09月26日(土)より順次発売予定",
@@ -3001,7 +3005,7 @@
     "introducedRevision": 3,
     "franchiseCode": "DEATH_NOTE",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "ageJp": "15세 이상",
     "retailersJp": "ミニストップ、デイリーヤマザキ、その他コンビニエンスストア、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなど",
     "releaseDateTextJp": "2025年11月29日(土)より順次発売予定",
@@ -3292,12 +3296,13 @@
     "introducedRevision": 3,
     "franchiseCode": "BLEACH",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "retailersJp": "セブン‐イレブン店舗、イトーヨーカドー店舗、ゆめタウン店舗など",
     "releaseDateTextJp": "2026年09月19日(土)より発売予定",
     "translationGenerated": [],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "ageJp": ""
   },
   {
     "code": "HAIKYU_2026",
@@ -3602,7 +3607,7 @@
     "introducedRevision": 3,
     "franchiseCode": "HAIKYU",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "ageJp": "15세 이상",
     "retailersJp": "ローソン、一番くじ公式ショップ、一番くじONLINEなど",
     "releaseDateTextJp": "2026年08月15日(土)より順次発売予定",
@@ -3640,7 +3645,24 @@
     "additionalSources": [
       "https://www.bandaispirits.co.jp/products/search/detail.php?grp_id=9999&prd_id=db_z8"
     ],
-    "gallery": [],
+    "gallery": [
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3559/1344bf62-b5e5-43a1-a5b2-259a256eda0e.webp",
+        "imagePath": "/series/official/dragon-ball-spirit-saiyan-2026/gallery-1-970b36a558c3fd2f.webp"
+      },
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3558/aeb80de8-32ce-4533-bf3f-487b1df20658.webp",
+        "imagePath": "/series/official/dragon-ball-spirit-saiyan-2026/gallery-2-fc10c393ce7d6420.webp"
+      },
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3560/997a0588-7c5a-4411-8994-17b67876dc45.webp",
+        "imagePath": "/series/official/dragon-ball-spirit-saiyan-2026/gallery-3-47ee0198dac28947.webp"
+      },
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3561/0d93f493-3e0e-4982-ae81-428406219430.webp",
+        "imagePath": "/series/official/dragon-ball-spirit-saiyan-2026/gallery-4-aafc4cf52ec479f0.webp"
+      }
+    ],
     "prizes": [
       {
         "letter": "A",
@@ -3940,12 +3962,13 @@
     "introducedRevision": 3,
     "franchiseCode": "DRAGON_BALL",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "retailersJp": "セブン‐イレブン店舗、イトーヨーカドー店舗、ゆめタウン店舗、DRAGON BALL STORE TOKYOなど",
     "releaseDateTextJp": "2026年10月17日(土)より発売予定",
     "translationGenerated": [],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "ageJp": ""
   },
   {
     "code": "ATTACK_ON_TITAN_HEARTS_2026",
@@ -4265,12 +4288,13 @@
     "introducedRevision": 3,
     "franchiseCode": "ATTACK_ON_TITAN",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "retailersJp": "ローソン、一番くじ公式ショップ、一番くじONLINEなど",
     "releaseDateTextJp": "2026年10月24日(土)より順次発売予定",
     "translationGenerated": [],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "ageJp": ""
   },
   {
     "code": "NARUTO_HIDAN_KAKUZU_2026",
@@ -4523,12 +4547,13 @@
     "introducedRevision": 3,
     "franchiseCode": "NARUTO",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "retailersJp": "一番くじONLINE、一番くじ公式ショップ",
     "releaseDateTextJp": "2026年10月26日(月)より順次発売予定",
     "translationGenerated": [],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "ageJp": ""
   },
   {
     "code": "ONE_PIECE_SKY_SONG_2026",
@@ -4822,12 +4847,13 @@
     "introducedRevision": 3,
     "franchiseCode": "ONE_PIECE",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "retailersJp": "一番くじONLINE、一番くじ公式ショップ、麦わらストアなど",
     "releaseDateTextJp": "2026年10月29日(木)より順次発売予定",
     "translationGenerated": [],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "ageJp": ""
   },
   {
     "code": "DEATH_NOTE_2_2027",
@@ -4939,11 +4965,13 @@
     "sampleAllocationMethod": "equal-80-demo",
     "retailers": "",
     "age": "",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "releaseDateTextJp": "2027年01月16日(土)より順次発売予定",
     "translationGenerated": [],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "retailersJp": "",
+    "ageJp": ""
   },
   {
     "code": "AUTO_KIMETSU31_9D73201302",
@@ -4974,7 +5002,7 @@
     "age": "",
     "copyright": "©吾峠呼世晴/集英社・アニプレックス・ufotable",
     "checkedAt": "2026-10-16",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "prizes": [],
     "gallery": [],
     "introducedRevision": 4,
@@ -4986,7 +5014,8 @@
       "title"
     ],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "ageJp": ""
   },
   {
     "code": "AUTO_JUJUTSU20_5D95123DEF",
@@ -5017,7 +5046,7 @@
     "age": "",
     "copyright": "©芥見下々/集英社・呪術廻戦製作委員会",
     "checkedAt": "2026-10-16",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "prizes": [],
     "gallery": [],
     "introducedRevision": 4,
@@ -5028,7 +5057,9 @@
       "title"
     ],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "retailersJp": "",
+    "ageJp": ""
   },
   {
     "code": "AUTO_HXH11_2_73EDC31AD3",
@@ -5059,7 +5090,7 @@
     "age": "",
     "copyright": "©P1998-2027 ©V・N・M",
     "checkedAt": "2026-10-16",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "prizes": [],
     "gallery": [
       {
@@ -5087,7 +5118,9 @@
       "title"
     ],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "retailersJp": "",
+    "ageJp": ""
   },
   {
     "code": "AUTO_ONEP105_652A8064D9",
@@ -5118,7 +5151,7 @@
     "age": "",
     "copyright": "©尾田栄一郎/集英社・フジテレビ・東映アニメーション",
     "checkedAt": "2026-10-16",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -5187,7 +5220,8 @@
       "title"
     ],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "ageJp": ""
   },
   {
     "code": "AUTO_HXH8_2_FF575C1199",
@@ -5218,7 +5252,7 @@
     "age": "",
     "copyright": "©P1998-2026 ©V・N・M",
     "checkedAt": "2026-10-16",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -5539,7 +5573,8 @@
       "title"
     ],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "ageJp": ""
   },
   {
     "code": "AUTO_DB_FA3_FFFF89190D",
@@ -5570,7 +5605,7 @@
     "age": "",
     "copyright": "©バード・スタジオ/集英社・東映アニメーション",
     "checkedAt": "2026-10-16",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -5621,7 +5656,8 @@
       "title"
     ],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "ageJp": ""
   },
   {
     "code": "AUTO_MYHERO48_BBBA72A638",
@@ -5652,7 +5688,7 @@
     "age": "",
     "copyright": "©堀越耕平/集英社・僕のヒーローアカデミア製作委員会",
     "checkedAt": "2026-10-16",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -5805,7 +5841,8 @@
       "title"
     ],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "ageJp": ""
   },
   {
     "code": "AUTO_ONEP106_9838A2EE1C",
@@ -5836,7 +5873,7 @@
     "age": "",
     "copyright": "©尾田栄一郎/集英社・フジテレビ・東映アニメーション",
     "checkedAt": "2026-10-16",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -5944,7 +5981,8 @@
       "title"
     ],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "ageJp": ""
   },
   {
     "code": "AUTO_DB_AC_2_C177AE1EAF",
@@ -5975,7 +6013,7 @@
     "age": "",
     "copyright": "©バード・スタジオ/集英社・東映アニメーション",
     "checkedAt": "2026-10-16",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "prizes": [],
     "gallery": [],
     "introducedRevision": 4,
@@ -5987,7 +6025,8 @@
       "title"
     ],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "ageJp": ""
   },
   {
     "code": "AUTO_ONEP107_B72A2E32C2",
@@ -6018,7 +6057,7 @@
     "age": "",
     "copyright": "©尾田栄一郎/集英社・フジテレビ・東映アニメーション",
     "checkedAt": "2026-10-16",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -6126,7 +6165,8 @@
       "title"
     ],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "ageJp": ""
   },
   {
     "code": "AUTO_DB_DO_06FE9841A7",
@@ -6157,7 +6197,7 @@
     "age": "",
     "copyright": "©バード・スタジオ/集英社・東映アニメーション",
     "checkedAt": "2026-10-16",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -6283,7 +6323,9 @@
       "title"
     ],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "retailersJp": "",
+    "ageJp": ""
   },
   {
     "code": "AUTO_MYHERO49_D5AD0377D3",
@@ -6314,7 +6356,7 @@
     "age": "",
     "copyright": "©堀越耕平/集英社・僕のヒーローアカデミア製作委員会",
     "checkedAt": "2026-10-16",
-    "lastSyncedAt": "2026-10-16T16:59:12+09:00",
+    "lastSyncedAt": "2026-10-16T17:54:46+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -6440,6 +6482,8 @@
       "title"
     ],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "retailersJp": "",
+    "ageJp": ""
   }
 ]

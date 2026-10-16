@@ -1,22 +1,29 @@
 {
-  "checkedAt": "2026-10-16T16:59:12+09:00",
-  "lastSuccessAt": "2026-10-16T16:59:12+09:00",
+  "checkedAt": "2026-10-16T17:54:46+09:00",
+  "lastSuccessAt": "2026-10-16T17:54:46+09:00",
   "status": "ok",
   "checked": 29,
   "released": 12,
   "upcoming": 17,
-  "added": 4,
-  "updated": 0,
+  "added": 0,
+  "updated": 22,
   "failed": 0,
   "errors": [],
   "discovery": {
     "checkedPages": 6,
-    "found": 4,
+    "found": 0,
     "deferred": 0
   },
   "schedule": {
     "timezone": "Asia/Seoul",
     "hour": 10,
     "minute": 10
+  },
+  "translation": {
+    "language": "ko",
+    "pending": 0,
+    "requests": 0,
+    "cacheHits": 57,
+    "failedRequests": 0
   }
 }
