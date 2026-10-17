@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-10-16T17:54:46+09:00",
-  "lastSuccessAt": "2026-10-16T17:54:46+09:00",
+  "checkedAt": "2026-10-17T14:33:43+09:00",
+  "lastSuccessAt": "2026-10-17T14:33:43+09:00",
   "status": "ok",
   "checked": 29,
-  "released": 12,
-  "upcoming": 17,
+  "released": 13,
+  "upcoming": 16,
   "added": 0,
-  "updated": 22,
+  "updated": 1,
   "failed": 0,
   "errors": [],
   "discovery": {
