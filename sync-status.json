@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-10-19T15:09:40+09:00",
-  "lastSuccessAt": "2026-10-19T15:09:40+09:00",
+  "checkedAt": "2026-10-20T14:59:23+09:00",
+  "lastSuccessAt": "2026-10-20T14:59:23+09:00",
   "status": "ok",
   "checked": 29,
   "released": 13,
@@ -21,7 +21,7 @@
   },
   "translation": {
     "language": "ko",
-    "pending": 1,
+    "pending": 2,
     "requests": 1,
     "cacheHits": 58,
     "failedRequests": 1
