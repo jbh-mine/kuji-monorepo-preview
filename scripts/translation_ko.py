@@ -15,6 +15,7 @@ import json
 import os
 import re
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -25,18 +26,33 @@ GLOSSARY_VERSION = "2026-10-ko-v1"
 MAX_TEXT = 1200
 MAX_RESPONSE = 256 * 1024
 MAX_CACHE_RECORDS = 20000
+MAX_ERROR_RECORDS = 10
 JAPANESE = re.compile(r"[\u3041-\u3096\u30a1-\u30fa\u3400-\u9fff]")
 HANGUL = re.compile(r"[가-힣]")
 
 # Official franchise/character spellings, familiar product types, and edition
 # phrases are public product terminology, not translations of promotional prose.
 GLOSSARY = {
+    "The Gathering of RIVALS": "라이벌들의 집결", "20th ANNIVERSARY": "20주년",
+    "ディオ・ブランドー": "디오 브란도", "カーズ": "카즈", "DIO": "디오",
+    "川尻浩作": "카와지리 코사쿠", "ディアボロ": "디아볼로", "エンリコ・P": "엔리코 P",
+    "ディエゴ・ブランドー": "디에고 브란도",
+    "碇シンジ": "이카리 신지", "綾波レイ": "아야나미 레이",
+    "式波・アスカ・ラングレー": "시키나미 아스카 랑그레이", "渚カヲル": "나기사 카오루",
+    "新劇場版：破": "신극장판: 파", "亡妃の秘宝": "망비의 비보",
+    "猫猫": "마오마오", "壬氏": "진시", "きららいずマスコット": "키라라이즈 마스코트",
+    "ナツ・ドラグニル": "나츠 드래그닐", "ルーシィ・ハートフィリア": "루시 하트필리아",
+    "ハッピー": "해피", "エルザ・スカーレット": "엘자 스칼렛",
+    "星霊達のデスクトップマスコット": "성령들의 데스크톱 마스코트",
     "一番くじ": "제일복권", "鬼滅の刃": "귀멸의 칼날", "進撃の巨人": "진격의 거인",
     "チェンソーマン": "체인소맨", "ドラゴンボール": "드래곤볼", "ワンピース": "원피스",
     "ONE PIECE": "원피스", "NARUTO-ナルト-": "나루토", "ナルト": "나루토",
     "呪術廻戦": "주술회전", "HUNTER×HUNTER": "헌터×헌터", "HUNTERxHUNTER": "헌터×헌터",
     "僕のヒーローアカデミア": "나의 히어로 아카데미아", "DEATH NOTE": "데스노트",
     "BLEACH": "블리치", "ハイキュー!!": "하이큐!!", "ハイキュー！！": "하이큐!!",
+    "ジョジョの奇妙な冒険": "죠죠의 기묘한 모험", "エヴァンゲリオン": "에반게리온",
+    "ヱヴァンゲリヲン新劇場版": "에반게리온 신극장판", "薬屋のひとりごと": "약사의 혼잣말",
+    "FAIRY TAIL": "페어리테일", "FAIRYTAIL": "페어리테일",
     "兄妹の鬼": "남매의 오니", "廻想録": "회상록", "虎杖悠仁": "이타도리 유지",
     "あにまる大集合！": "동물 대집합!", "あにまる大集合!": "동물 대집합!",
     "彼女たちの物語": "그녀들의 이야기", "うなれ体育祭": "포효하라, 체육대회",
@@ -66,9 +82,17 @@ GLOSSARY = {
     "レベッカ": "레베카", "しらほし": "시라호시", "チョッパー": "쵸파",
     "炎帝": "염제", "名刀・鼻嵐": "명도 코폭풍", "マルチスタンド": "멀티 스탠드",
     "ヘッドマグネット": "헤드 마그넷", "ラバーコレクション": "러버 컬렉션",
+    "あにまるブランケット": "동물 담요", "あにまるマグカップ": "동물 머그컵",
+    "あにまるステッカーコレクション": "동물 스티커 컬렉션", "あにまるラバーコレクション": "동물 러버 컬렉션",
+    "タオルコレクション": "타월 컬렉션", "カルー ビッグぬいぐるみ": "카루 대형 봉제인형",
+    "あにまる": "동물", "ブランケット": "담요", "マグカップ": "머그컵", "タオル": "타월",
+    "コレクション": "컬렉션", "超カルガモ部隊": "초 카루가모 부대", "アクリルスタンド": "아크릴 스탠드",
+    "カルー": "카루", "ビッグ": "대형", "ぬいぐるみ": "봉제인형",
     "ステーショナリーアソート": "문구 모음", "ストラップ付きフォンタブ": "스트랩 포함 폰 탭",
     "ネックストラップ": "목걸이 스트랩", "ステッカーアソート": "스티커 모음",
     "ラバートレイ": "러버 트레이", "シリコンカバー": "실리콘 커버", "ラバータイ": "러버 타이",
+    "ラバースマホグリップ": "러버 스마트폰 그립", "ラバーマーカーチャーム": "러버 마커 참",
+    "ラバーヘアクリップ": "러버 헤어클립",
     "ラバーコースター": "러버 코스터", "クリアファイル": "클리어 파일", "ノート": "노트",
     "メモ": "메모", "フォンタブ": "폰 탭", "ストラップ": "스트랩", "ステッカー": "스티커",
     "フィギュア": "피규어", "頭頂まで": "머리 꼭대기까지", "高さ": "높이", "直径": "지름",
@@ -80,6 +104,7 @@ GLOSSARY = {
     "発売日未定": "발매일 미정", "発売日": "발매일", "末日": "말일", "より": "부터 ",
     "販売開始予定": "판매 시작 예정", "台座込み": "받침대 포함", "ロープ": "로프",
     "ローソン": "로손", "ファミリーマート": "패밀리마트", "ミニストップ": "미니스톱",
+    "ファミリマート": "패밀리마트", "デイリーヤマザキ": "데일리 야마자키", "麦わらストア": "무기와라 스토어",
     "セブン‐イレブン": "세븐일레븐", "セブン-イレブン": "세븐일레븐", "セブンイレブン": "세븐일레븐",
     "デンジ": "덴지", "レゼ": "레제", "早川アキ": "하야카와 아키", "天使の悪魔": "천사의 악마",
     "夜神月": "야가미 라이토", "弥海砂": "아마네 미사", "リューク": "류크", "レム": "렘",
@@ -93,6 +118,8 @@ FRANCHISE_KO = {
     "DRAGON_BALL": "드래곤볼", "ONE_PIECE": "원피스", "NARUTO": "나루토", "JUJUTSU_KAISEN": "주술회전",
     "HUNTER_HUNTER": "헌터×헌터", "MY_HERO_ACADEMIA": "나의 히어로 아카데미아",
     "DEATH_NOTE": "데스노트", "BLEACH": "블리치", "HAIKYU": "하이큐!!",
+    "JOJO": "죠죠의 기묘한 모험", "EVANGELION": "에반게리온",
+    "APOTHECARY_DIARIES": "약사의 혼잣말", "FAIRY_TAIL": "페어리테일",
 }
 # Legacy cache rows have no preparedSource. Invalidate only rows whose newly
 # corrected character reading disagrees; all unrelated translations stay valid.
@@ -130,6 +157,23 @@ class TranslationError(ValueError):
     pass
 
 
+def sanitized_error(error: Exception) -> dict:
+    """Keep only controlled diagnostic codes; never retain request or response text."""
+    if isinstance(error, urllib.error.HTTPError):
+        status = error.code
+        if isinstance(status, int) and not isinstance(status, bool) and 100 <= status <= 599:
+            known = {400, 401, 403, 404, 408, 429, 500, 502, 503, 504}
+            code = f"http_{status}" if status in known else "http_error"
+            return {"code": code, "httpStatus": status}
+        return {"code": "request_failed"}
+    if isinstance(error, TimeoutError) or (isinstance(error, urllib.error.URLError)
+                                         and isinstance(error.reason, TimeoutError)):
+        return {"code": "timeout"}
+    if isinstance(error, (TranslationError, json.JSONDecodeError, UnicodeError)):
+        return {"code": "invalid_response"}
+    return {"code": "request_failed"}
+
+
 class TranslationRedirects(urllib.request.HTTPRedirectHandler):
     def redirect_request(self, request, fp, code, msg, headers, newurl):
         url = urllib.parse.urlsplit(newurl)
@@ -165,6 +209,7 @@ class KoreanTranslator:
         self.requests = 0
         self.hits = 0
         self.failed = 0
+        self.errors = []
         self.network_available = True
 
     def translate(self, source: str, fallback: str, *, require_korean: bool = False) -> tuple[str, bool]:
@@ -207,6 +252,8 @@ class KoreanTranslator:
             return translated, False
         except Exception as error:
             self.failed += 1
+            if len(self.errors) < MAX_ERROR_RECORDS:
+                self.errors.append(sanitized_error(error))
             # Rate limiting/outage must not add 120 repeated failed requests to a run.
             if not isinstance(error, TranslationError):
                 self.network_available = False
@@ -293,7 +340,8 @@ def translate_catalog(products: list[dict], translator: KoreanTranslator) -> tup
         product["translationLanguage"] = "ko"
         translated.append(product)
     return translated, {"pending": sum(bool(item.get("translationPending")) for item in translated),
-                        "requests": translator.requests, "cacheHits": translator.hits, "failedRequests": translator.failed}
+                        "requests": translator.requests, "cacheHits": translator.hits, "failedRequests": translator.failed,
+                        "errors": copy.deepcopy(translator.errors)}
 
 
 def load_cache(path: Path) -> dict:

@@ -1,17 +1,17 @@
 {
-  "checkedAt": "2026-10-20T14:59:23+09:00",
-  "lastSuccessAt": "2026-10-20T14:59:23+09:00",
+  "checkedAt": "2026-10-21T09:25:35+09:00",
+  "lastSuccessAt": "2026-10-21T09:25:35+09:00",
   "status": "ok",
-  "checked": 29,
-  "released": 13,
-  "upcoming": 16,
-  "added": 0,
-  "updated": 1,
+  "checked": 33,
+  "released": 14,
+  "upcoming": 19,
+  "added": 4,
+  "updated": 29,
   "failed": 0,
   "errors": [],
   "discovery": {
     "checkedPages": 6,
-    "found": 0,
+    "found": 4,
     "deferred": 0
   },
   "schedule": {
@@ -21,9 +21,10 @@
   },
   "translation": {
     "language": "ko",
-    "pending": 2,
-    "requests": 1,
-    "cacheHits": 58,
-    "failedRequests": 1
+    "pending": 0,
+    "requests": 0,
+    "cacheHits": 62,
+    "failedRequests": 0,
+    "errors": []
   }
 }

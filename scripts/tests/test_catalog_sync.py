@@ -69,6 +69,24 @@ def page(title="一番くじ 劇場版『チェンソーマン レゼ篇』第2�
 GOLDEN_PAGE = page()
 PARTIAL_ANNOUNCEMENT = page(title="一番くじ DEATH NOTE 2", release="2027年01月16日(土)より順次発売予定",
                             headings=[("C", "ニア フィギュア"), ("D", "メロ フィギュア")], price="1回850円(税10％込)", online="")
+# The selector, grade letters and unknown markers reproduce eva20's official
+# 2026-10-21 announcement. Only publicly announced factual names are retained.
+EVA_PREVIEW = page(title="一番くじ ヱヴァンゲリヲン新劇場版：破", release="2026年12月05日(土)より発売予定",
+                   headings=[("A", "碇シンジ＆綾波レイ フィギュア"), ("B", "式波・アスカ・ラングレー フィギュア"),
+                             ("C", "渚カヲル フィギュア"), ("LAST", "エヴァンゲリオン2号機 フィギュア")], price="1回790円(税10％込)")
+EVA_TEASER = '''<section class="topicsCol" id="topicsCol"><div class="topicsColInner">
+  <div style="padding: 1rem; margin: 0 0 0 10px;">
+  <span style="color: #F00;">○</span>A賞 碇シンジ＆綾波レイ フィギュア<br>
+  <span style="color: #F00;">○</span>B賞 式波・アスカ・ラングレー フィギュア<br>
+  <span style="color: #F00;">○</span>C賞 渚カヲル フィギュア<br>
+  <span style="color: #F00;">○</span>D賞 ？？？<br>
+  <span style="color: #F00;">○</span>E賞 ？？？<br>
+  <span style="color: #F00;">○</span>F賞 ？？？<br>
+  <span style="color: #F00;">○</span>G賞 ？？？<br>
+  <span style="color: #F00;">○</span>ラストワン賞 エヴァンゲリオン2号機 フィギュア<br>
+  <span style="color: #F00;">○</span>ダブルチャンスキャンペーン ？？？<br>
+  続報をお楽しみに！</div></div></section>'''
+EVA_PREVIEW_WITH_TEASER = EVA_PREVIEW.replace("</main>", EVA_TEASER + "</main>")
 LISTING = '''<main><ul class="itemList">
   <li><a href="/products/chainsawman3"><p class="itemName">一番くじ 劇場版『チェンソーマン レゼ篇』第2弾</p></a></li>
   <li><a href="/products/deathnote2"><p class="itemName">一番くじ DEATH NOTE 2</p></a></li>
@@ -133,6 +151,56 @@ class ParserTests(unittest.TestCase):
         self.assertTrue(all(prize["sampleCount"] == 0 for prize in product["prizes"]))
         self.assertEqual(product["catalogStatus"], "UPCOMING")
         self.assertEqual(product["nameKo"], "一番くじ DEATH NOTE 2")
+
+    def test_real_eva_teaser_prevents_prefix_and_last_prizes_from_looking_complete(self):
+        parsed = sync.parse_product(EVA_PREVIEW_WITH_TEASER, "https://1kuji.com/products/eva20")
+        self.assertFalse(parsed["complete"])
+        self.assertEqual(parsed["unpublishedPrizeGrades"], list("DEFG"))
+        self.assertEqual([prize["letter"] for prize in parsed["prizes"]], ["A", "B", "C", "LAST"])
+        product = sync.merge_product(parsed, None, "https://1kuji.com/products/eva20", NOW)
+        self.assertTrue(product["prizeDetailsPending"])
+        self.assertTrue(all(prize["sampleCount"] == 0 for prize in product["prizes"]))
+
+    def test_unknown_last_and_missing_middle_grades_stay_partial(self):
+        for headings, teaser, expected in [
+            ([("A", "フィギュア"), ("B", "フィギュア")], "○ラストワン賞 ？？？<br>", ["LAST"]),
+            ([("A", "フィギュア"), ("C", "フィギュア"), ("LAST", "フィギュア")], "○B賞 未公開<br>", ["B"]),
+        ]:
+            source = page(headings=headings).replace("</main>", '<section id="topicsCol">' + teaser + '</section></main>')
+            with self.subTest(expected=expected):
+                parsed = sync.parse_product(source, URL)
+                self.assertFalse(parsed["complete"])
+                self.assertEqual(parsed["unpublishedPrizeGrades"], expected)
+
+    def test_complete_small_lineup_ignores_other_banners_and_campaign_teasers(self):
+        source = page(headings=HEADINGS[:3] + [HEADINGS[-1]])
+        source = source.replace("</main>", '<aside>○D賞 ？？？<br>COMING SOON</aside><section id="topicsCol">○ダブルチャンスキャンペーン ？？？<br></section></main>')
+        self.assertTrue(sync.parse_product(source, URL)["complete"])
+
+    def test_new_images_override_an_outdated_unknown_grade_teaser(self):
+        source = GOLDEN_PAGE.replace("</main>", '<section id="topicsCol">○D賞 ？？？<br>○ラストワン賞 ？？？<br></section></main>')
+        self.assertTrue(sync.parse_product(source, URL)["complete"])
+        self.assertEqual(sync.parse_product(source, URL)["unpublishedPrizeGrades"], [])
+
+    def test_announced_named_grade_without_image_also_stays_partial(self):
+        source = page(headings=HEADINGS[:3] + [HEADINGS[-1]])
+        source = source.replace("</main>", '<section id="topicsCol">○D賞 クリアポスター<br></section></main>')
+        self.assertFalse(sync.parse_product(source, URL)["complete"])
+
+    def test_successful_release_refresh_keeps_legacy_aliases_and_korean_label_consistent(self):
+        old = sync.merge_product(sync.parse_product(page(release="2026年10月17日(土)より発売予定"), URL), None, URL, NOW)
+        old.update(releaseStatus="upcoming", releasePrecision="day", releaseLabel="2026.10.17 일본 매장 발매 예정")
+        after = datetime(2026, 10, 21, 10, 10, tzinfo=sync.JST)
+        refreshed = sync.merge_product(sync.parse_product(page(release="2026年10月17日(土)より発売予定"), URL), old, URL, after)
+        self.assertEqual(refreshed["catalogStatus"], "ON_SALE")
+        self.assertEqual(refreshed["releaseStatus"], "ON_SALE")
+        self.assertEqual(refreshed["releasePrecision"], refreshed["releaseDatePrecision"])
+        self.assertEqual(refreshed["releaseLabel"], "2026.10.17 일본 매장 발매")
+        self.assertEqual(refreshed["releaseDateTextJp"], "2026年10月17日(土)より発売予定")
+        month = sync.merge_product(sync.parse_product(page(release="2026年10月発売予定"), URL), old, URL, after)
+        self.assertEqual(month["releaseStatus"], "UPCOMING")
+        self.assertEqual(month["releasePrecision"], "month")
+        self.assertEqual(month["releaseLabel"], "2026.10 일본 매장 발매 예정 · 일자 미정")
 
     def test_unannounced_date_and_price_are_not_filled_with_defaults(self):
         parsed = sync.parse_product(page(release="発売日未定", headings=[], price="未定", online=""), URL)
@@ -200,6 +268,22 @@ class ParserTests(unittest.TestCase):
         self.assertIn("https://1kuji.com/products?sale_month=11&sale_year=2026", pages)
         self.assertEqual(sync.franchise_for("一番くじ HUNTERxHUNTER")[0], "HUNTER_HUNTER")
         self.assertEqual(sync.franchise_for("一番くじ ONE PIECE")[0], "ONE_PIECE")
+
+    def test_new_popular_anime_are_discoverable_and_parseable(self):
+        titles = {
+            "jojo_26": ("JOJO", "一番くじ ジョジョの奇妙な冒険 The Gathering of RIVALS"),
+            "eva20": ("EVANGELION", "一番くじ ヱヴァンゲリヲン新劇場版：破"),
+            "kusuriya2": ("APOTHECARY_DIARIES", "一番くじ 『劇場版 薬屋のひとりごと 亡妃の秘宝』"),
+            "fairytail": ("FAIRY_TAIL", "一番くじ FAIRY TAIL 20th ANNIVERSARY"),
+        }
+        listing = "".join(f'<a href="/products/{slug}"><img alt="{title}"></a>' for slug, (_, title) in titles.items())
+        links, _ = sync.discover_products(listing)
+        self.assertEqual(set(links), {"https://1kuji.com/products/" + slug for slug in titles})
+        for slug, (franchise, title) in titles.items():
+            with self.subTest(slug=slug):
+                parsed = sync.parse_product(page(title=title), "https://1kuji.com/products/" + slug)
+                self.assertEqual(sync.franchise_for(parsed["productTitle"])[0], franchise)
+        self.assertEqual(sync.franchise_for("一番くじ エヴァンゲリオン")[0], "EVANGELION")
 
     def test_foreign_redirects_non_https_and_path_traversal_are_blocked(self):
         for url in ["http://1kuji.com/products/a", "https://1kuji.com.attacker.invalid/products/a",
@@ -288,6 +372,39 @@ class TransactionTests(unittest.TestCase):
         self.assertEqual(result["status"], "failed")
         self.assertEqual(self.read_catalog(), [self.original])
         self.assertIn("partial", result["errors"][0]["message"])
+
+    def test_explicit_unpublished_grades_correct_an_old_false_complete_without_erasing_images(self):
+        url = "https://1kuji.com/products/eva20"
+        original = sync.merge_product(sync.parse_product(EVA_PREVIEW, url), None, url, NOW)
+        self.assertFalse(original["prizeDetailsPending"])
+        sync.atomic_json(self.catalog_path, [original])
+        fetcher = FakeFetcher({url: EVA_PREVIEW_WITH_TEASER})
+        result = sync.sync_catalog(self.root, self.catalog_path, self.status_path, fetch=fetcher, now=NOW, discover=False)
+        saved = self.read_catalog()[0]
+        self.assertEqual(result["status"], "ok")
+        self.assertEqual(saved["code"], original["code"])
+        self.assertEqual([p["imagePath"] for p in saved["prizes"]], [p["imagePath"] for p in original["prizes"]])
+        self.assertTrue(saved["prizeDetailsPending"])
+        self.assertEqual(saved["unpublishedPrizeGrades"], list("DEFG"))
+        self.assertEqual(sum(p["sampleCount"] for p in saved["prizes"]), 0)
+        # Repeat daily refreshes of a partial preview with a last-one image work.
+        again = sync.sync_catalog(self.root, self.catalog_path, self.status_path, fetch=fetcher, now=NOW, discover=False)
+        self.assertEqual(again["status"], "ok")
+        # Explicit question marks still cannot authorize loss of known images.
+        truncated = EVA_PREVIEW_WITH_TEASER.replace('<div class="itemColList"><h4 class="name sp">C賞', '<div class="ignored"><h4 class="name sp">C賞')
+        before = self.read_catalog()
+        failed = sync.sync_catalog(self.root, self.catalog_path, self.status_path, fetch=FakeFetcher({url: truncated}), now=NOW, discover=False)
+        self.assertEqual(failed["status"], "failed")
+        self.assertEqual(self.read_catalog(), before)
+
+    def test_translation_health_includes_safe_diagnostics_and_supports_old_test_doubles(self):
+        translator = _online_translator(max_requests=0)
+        translator.errors = [{"stage": "translation", "reason": "request_budget_exhausted"}]
+        result = sync.sync_catalog(self.root, self.catalog_path, self.status_path, fetch=FakeFetcher(), now=NOW, discover=False, translator=translator)
+        self.assertEqual(result["translation"]["errors"], translator.errors)
+        del translator.errors
+        result = sync.sync_catalog(self.root, self.catalog_path, self.status_path, fetch=FakeFetcher(), now=NOW, discover=False, translator=translator)
+        self.assertEqual(result["translation"]["errors"], [])
 
     def test_image_url_changes_create_new_files_without_overwriting_old_snapshot_paths(self):
         old_image = self.original["prizes"][0]["imagePath"]

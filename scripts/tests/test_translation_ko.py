@@ -2,10 +2,12 @@
 import copy
 import hashlib
 import importlib.util
+import io
 import json
 import sys
 import tempfile
 import unittest
+import urllib.error
 from pathlib import Path
 from unittest.mock import patch
 
@@ -25,6 +27,99 @@ def product():
 
 
 class TranslationTests(unittest.TestCase):
+    def test_recent_death_note_and_one_piece_pending_facts_recover_without_network(self):
+        death_note = {"code": "DEATH_NOTE_2_2027", "franchiseCode": "DEATH_NOTE",
+                      "productTitle": "一番くじ DEATH NOTE 2", "nameKo": "검수한 데스노트 2",
+                      "summary": "직접 검수한 한국어 소개입니다.", "translationPending": True,
+                      "retailers": "공식 판매처 안내 확인",
+                      "retailersJp": "ファミリマート、ミニストップ、デイリーヤマザキ、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなど",
+                      "prizes": []}
+        one_piece = {"code": "AUTO_ONEP105", "franchiseCode": "ONE_PIECE",
+                     "productTitle": "一番くじ ワンピース～あにまる大集合！～", "nameKo": "검수한 원피스 동물 대집합",
+                     "summary": "직접 검수한 원피스 소개입니다.", "translationPending": True,
+                     "retailersJp": "ファミリーマート、麦わらストア、一番くじ公式ショップ、一番くじONLINEなど",
+                     "prizes": [{"letter": "A", "name": "チョッパー マルチスタンド", "nameKo": "쵸파 멀티 스탠드",
+                                 "description": "사람이 검수한 경품 설명입니다.", "sizeJp": "高さ 約10cm"}]}
+        terms = [("B", "あにまるブランケット", "동물 담요"), ("C", "あにまるマグカップ", "동물 머그컵"),
+                 ("E", "タオルコレクション", "타월 컬렉션"), ("F", "超カルガモ部隊 アクリルスタンド", "초 카루가모 부대 아크릴 스탠드"),
+                 ("G", "あにまるステッカーコレクション", "동물 스티커 컬렉션"), ("H", "あにまるラバーコレクション", "동물 러버 컬렉션"),
+                 ("LAST", "カルー ビッグぬいぐるみ", "카루 대형 봉제인형")]
+        for letter, original, expected in terms:
+            one_piece["prizes"].append({"letter": letter, "name": original, "nameKo": letter + "상 공개 경품",
+                                       "description": "공개 경품", "translationGenerated": ["name", "description"],
+                                       "sizeJp": "約10cm", "sampleCount": 10})
+        one_piece["prizes"][-2]["sizeJp"] = "ラバースマホグリップ 約6cm、ラバータイ 約14cm、ラバーマーカーチャーム 約6cm、ラバーヘアクリップ 約6cm"
+        originals = copy.deepcopy([death_note, one_piece])
+        result, status = translate_catalog(originals, KoreanTranslator(request=lambda text: self.fail("Known public facts must work offline")))
+        self.assertEqual(status["pending"], 0)
+        self.assertEqual(status["requests"], 0)
+        self.assertEqual(status["errors"], [])
+        self.assertIn("패밀리마트", result[0]["retailers"])
+        self.assertIn("데일리 야마자키", result[0]["retailers"])
+        self.assertIn("무기와라 스토어", result[1]["retailers"])
+        for before, after in zip(originals, result):
+            self.assertEqual(after["nameKo"], before["nameKo"])
+            self.assertEqual(after["summary"], before["summary"])
+            self.assertEqual(after["nameJp"], before["productTitle"])
+            self.assertEqual(after["retailersJp"], before["retailersJp"])
+            self.assertTrue(before["translationPending"])  # Inputs stay unchanged.
+        self.assertEqual(result[1]["prizes"][0]["description"], one_piece["prizes"][0]["description"])
+        for prize, (_, original, expected) in zip(result[1]["prizes"][1:], terms):
+            self.assertEqual(prize["name"], original)
+            self.assertEqual(prize["nameKo"], expected)
+            self.assertIn(expected, prize["description"])
+            self.assertEqual(prize["sampleCount"], 10)
+            self.assertFalse(JAPANESE.search(prize["size"]))
+
+    def test_added_franchises_show_korean_titles_and_retain_original_titles(self):
+        titles = [("JOJO", "ジョジョの奇妙な冒険", "죠죠의 기묘한 모험"),
+                  ("EVANGELION", "エヴァンゲリオン", "에반게리온"),
+                  ("APOTHECARY_DIARIES", "薬屋のひとりごと", "약사의 혼잣말"),
+                  ("FAIRY_TAIL", "FAIRY TAIL", "페어리테일")]
+        products = [{"code": code, "franchiseCode": code, "productTitle": "一番くじ " + title, "prizes": []}
+                    for code, title, _ in titles]
+        result, status = translate_catalog(products, KoreanTranslator(request=lambda text: self.fail("Known franchise names need no network")))
+        for item, (_, title, expected) in zip(result, titles):
+            self.assertEqual(item["nameKo"], "제일복권 " + expected)
+            self.assertEqual(item["franchiseKo"], expected)
+            self.assertEqual(item["nameJp"], "一番くじ " + title)
+        self.assertEqual(status["pending"], 0)
+
+    def test_failure_diagnostics_keep_only_safe_codes_and_http_status(self):
+        secret = "secret-token-do-not-publish"
+        cases = [(urllib.error.HTTPError("https://example.invalid/" + secret, 429, secret, {"Authorization": secret}, io.BytesIO(secret.encode())),
+                  {"code": "http_429", "httpStatus": 429}),
+                 (urllib.error.HTTPError("https://example.invalid/" + secret, 418, secret, {"Authorization": secret}, io.BytesIO(secret.encode())),
+                  {"code": "http_error", "httpStatus": 418}),
+                 (TimeoutError(secret), {"code": "timeout"}),
+                 (urllib.error.URLError(TimeoutError(secret)), {"code": "timeout"}),
+                 (TranslationError(secret), {"code": "invalid_response"}),
+                 (RuntimeError(secret), {"code": "request_failed"})]
+        for error, expected in cases:
+            with self.subTest(expected=expected):
+                def unavailable(text):
+                    raise error
+                translator = KoreanTranslator(request=unavailable)
+                result, status = translate_catalog([product()], translator)
+                self.assertEqual(status["errors"], [expected])
+                self.assertEqual(translator.errors, [expected])
+                self.assertTrue(result[0]["translationPending"])
+                self.assertNotIn(secret, json.dumps(status))
+                self.assertNotIn("新しい形", json.dumps(status, ensure_ascii=False))
+                # The returned report is a snapshot, not a mutable alias.
+                status["errors"].clear()
+                self.assertEqual(translator.errors, [expected])
+
+    def test_invalid_response_errors_are_bounded_and_never_echo_response_content(self):
+        secret = "secret-in-invalid-response"
+        translator = KoreanTranslator(request=lambda text: "<script>" + secret + "</script>")
+        for _ in range(15):
+            _, pending = translator.translate("未知の景品", "공개 경품", require_korean=True)
+            self.assertTrue(pending)
+        self.assertEqual(translator.failed, 15)
+        self.assertEqual(translator.errors, [{"code": "invalid_response"}] * 10)
+        self.assertNotIn(secret, json.dumps(translator.errors))
+
     def test_public_logo_award_and_vehicle_figure_have_korean_names_without_network(self):
         translator = KoreanTranslator(request=lambda text: self.fail("Known official product terms need no request"))
         for source, expected in [
@@ -197,6 +292,27 @@ class TranslationTests(unittest.TestCase):
         self.assertEqual(len(calls), 1)
         self.assertIn("야가미 라이토", calls[0])
         self.assertEqual(cache["translations"][key]["preparedSource"], calls[0])
+
+    def test_new_anime_character_names_are_not_translated_as_common_nouns(self):
+        originals = {
+            "カーズ MASTERLISE": "카즈 MASTERLISE",
+            "DIO MASTERLISE": "디오 MASTERLISE",
+            "川尻浩作 MASTERLISE": "카와지리 코사쿠 MASTERLISE",
+            "ディオ・ブランドー MASTERLISE PLUS": "디오 브란도 MASTERLISE PLUS",
+            "式波・アスカ・ラングレー フィギュア": "시키나미 아스카 랑그레이 피규어",
+            "渚カヲル フィギュア": "나기사 카오루 피규어",
+            "猫猫 Dioramiquemaster": "마오마오 Dioramiquemaster",
+            "壬氏 Dioramiquemaster": "진시 Dioramiquemaster",
+            "ナツ・ドラグニル MASTERLISE": "나츠 드래그닐 MASTERLISE",
+        }
+        cache = {"version": 1, "translations": {}}
+        for source in originals:
+            key = hashlib.sha256((GLOSSARY_VERSION + "\0" + source).encode()).hexdigest()
+            cache["translations"][key] = {"source": source, "translation": "잘못된 일반 명사", "engine": "google-public-ja-ko+glossary"}
+        translator = KoreanTranslator(cache, request=lambda text: self.fail("Correct character names need no external request"))
+        for source, expected in originals.items():
+            self.assertEqual(translator.translate(source, "경품", require_korean=True), (expected, False))
+        self.assertEqual(translator.requests, 0)
 
     def test_translation_redirect_cannot_send_public_text_to_another_host(self):
         with self.assertRaises(TranslationError):

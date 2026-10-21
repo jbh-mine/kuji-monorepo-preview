@@ -27,6 +27,9 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    outputs:
+      needs_attention: ${{ steps.health.outputs.needs_attention }}
+      health_report: ${{ steps.health.outputs.health_report }}
     steps:
       - uses: actions/checkout@v6
         with:
@@ -42,15 +45,27 @@ jobs:
         continue-on-error: true
         run: python scripts/catalog_sync.py --root . --max-new 8
       - name: Validate retained public catalog and health report
+        id: health
+        env:
+          SYNC_OUTCOME: ${{ steps.sync.outcome }}
         run: |
           python - <<'PY'
-          import json
+          import json, os
           from pathlib import Path
           catalog = json.loads(Path('official-catalog.json').read_text(encoding='utf-8'))
           status = json.loads(Path('sync-status.json').read_text(encoding='utf-8'))
           assert isinstance(catalog, list) and catalog, 'Never publish an empty catalog'
           assert status['status'] in {'ok', 'partial', 'failed'}
-          print(f"Catalog check: {status['status']}; checked={status['checked']}, added={status['added']}, failed={status['failed']}")
+          pending = sum(bool(product.get('translationPending')) for product in catalog)
+          needs_attention = (os.environ['SYNC_OUTCOME'] != 'success' or status['status'] != 'ok'
+                             or status['failed'] != 0 or pending != 0
+                             or status.get('translation', {}).get('pending', 0) != pending)
+          report = json.dumps({'status': status['status'], 'checked': status['checked'],
+                               'added': status['added'], 'failed': status['failed'],
+                               'translationPending': pending}, separators=(',', ':'))
+          print('Catalog check: ' + report)
+          with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as output:
+              output.write(f'needs_attention={str(needs_attention).lower()}\nhealth_report={report}\n')
           PY
       - name: Commit changed catalog, immutable assets and health report
         run: |
@@ -84,3 +99,11 @@ jobs:
       - name: Publish refreshed catalog and sync health
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Report incomplete refresh after preserving the published site
+        if: needs.refresh.outputs.needs_attention == 'true'
+        env:
+          HEALTH_REPORT: ${{ needs.refresh.outputs.health_report }}
+        run: |
+          printf '%s\n' "$HEALTH_REPORT"
+          echo '::error::Official refresh or Korean translation is incomplete. Retained data and health status were published; the next daily run will retry.'
+          exit 1

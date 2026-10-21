@@ -60,6 +60,10 @@ FRANCHISES = (
     ("DEATH_NOTE", ("DEATH NOTE",), "#334155"),
     ("BLEACH", ("BLEACH",), "#7c3aed"),
     ("HAIKYU", ("ハイキュー!!", "ハイキュー！！"), "#f97316"),
+    ("JOJO", ("ジョジョの奇妙な冒険",), "#9333ea"),
+    ("EVANGELION", ("ヱヴァンゲリヲン", "エヴァンゲリオン"), "#6d28d9"),
+    ("APOTHECARY_DIARIES", ("薬屋のひとりごと",), "#15803d"),
+    ("FAIRY_TAIL", ("FAIRY TAIL",), "#dc2626"),
 )
 
 
@@ -252,6 +256,31 @@ def catalog_status(release: str, precision: str, now: datetime) -> str:
     return "ON_SALE" if precision == "day" and release and date.fromisoformat(release) <= now.astimezone(JST).date() else "UPCOMING"
 
 
+def announced_prize_grades(document: Node) -> tuple[set[str], set[str]]:
+    """Read the product's grade announcement, including entries without images.
+
+    Official previews put e.g. ``○D賞 ？？？<br>`` in #topicsCol while
+    #listCol contains only the photographed grades. Generic page banners and
+    unrelated 'coming soon' text are deliberately outside this check.
+    """
+    announced: set[str] = set()
+    unpublished: set[str] = set()
+    heading = re.compile(r"(?:^|[○◯●・\s])([A-Y]|ラストワン)賞\s*[:：]?\s*(.*)")
+    unknown = re.compile(r"^(?:\?{2,}|未公開|後日公開|公開予定|COMING\s*SOON)(?:$|[\s、。!])", re.I)
+    for section_id in ("listCol", "topicsCol"):
+        section = document.find(id_=section_id)
+        if section is None:
+            continue
+        for line in section.text().splitlines():
+            match = heading.search(normalize(line))
+            if match:
+                letter = "LAST" if match.group(1) == "ラストワン" else match.group(1)
+                announced.add(letter)
+                if unknown.match(match.group(2)):
+                    unpublished.add(letter)
+    return announced, unpublished
+
+
 def parse_product(source: str, url: str) -> dict:
     url = product_url(url)
     if len(source.encode("utf-8")) > MAX_HTML_BYTES:
@@ -312,7 +341,11 @@ def parse_product(source: str, url: str) -> dict:
                            "size": size.group(1).strip("■ ") if size else "", "selection": selection})
     prizes.sort(key=lambda prize: (prize["letter"] == "LAST", prize["letter"]))
     letters = [prize["letter"] for prize in prizes if prize["letter"] != "LAST"]
-    complete = bool(letters) and letters == [chr(65 + i) for i in range(len(letters))] and "LAST" in seen
+    announced, unpublished = announced_prize_grades(document)
+    # A newly published image takes precedence over an older teaser paragraph.
+    unpublished -= seen
+    complete = (bool(letters) and letters == [chr(65 + i) for i in range(len(letters))]
+                and "LAST" in seen and announced.issubset(seen) and not unpublished)
     campaign = document.find(id_="wcampaignsCol")
     double_chance = None
     if campaign:
@@ -333,6 +366,7 @@ def parse_product(source: str, url: str) -> dict:
             "hasReleaseFact": bool(release_line), "hasPriceFact": bool(price_match),
             "age": next((line.split("：", 1)[-1].split(":", 1)[-1].lstrip("■ ") for line in facts if "対象年齢" in line), ""),
             "posterUrl": poster_images[0], "prizes": prizes, "complete": complete,
+            "unpublishedPrizeGrades": sorted(unpublished),
             "retailers": next((line.split("：", 1)[-1].split(":", 1)[-1].lstrip("■ ") for line in facts if "取扱店" in line), ""),
             "copyright": normalize(copyright_node.text()) if copyright_node else "",
             "onlineSourceUrl": online_link, "doubleChance": double_chance,
@@ -438,7 +472,8 @@ def merge_product(parsed: dict, existing: dict | None, url: str, now: datetime) 
         raise CatalogError("Official release fact disappeared; preserved saved product")
     if old.get("priceJpy") and not parsed["hasPriceFact"]:
         raise CatalogError("Official price disappeared; preserved saved product")
-    if old_prizes and "LAST" in old_prizes and not parsed["complete"]:
+    if (old_prizes and "LAST" in old_prizes and not parsed["complete"]
+            and not old.get("prizeDetailsPending") and not parsed.get("unpublishedPrizeGrades")):
         raise CatalogError("Complete saved lineup cannot be replaced by a partial page")
     slug = old.get("slug") or "auto-" + source_id.lower()[:64] + "-" + digest
     if not re.fullmatch(r"[a-z0-9][a-z0-9_-]{0,99}", slug):
@@ -498,6 +533,7 @@ def merge_product(parsed: dict, existing: dict | None, url: str, now: datetime) 
               "priceJpy": parsed["priceJpy"], "samplePriceKrw": old.get("samplePriceKrw", 12000),
               "catalogStatus": catalog_status(parsed["releaseDate"], parsed["releaseDatePrecision"], now),
               "prizeDetailsPending": not parsed["complete"], "sampleAllocation": True,
+              "unpublishedPrizeGrades": parsed.get("unpublishedPrizeGrades", []),
               "sampleAllocationMethod": old.get("sampleAllocationMethod", "equal-80-demo"),
               "posterUrl": parsed["posterUrl"], "posterPath": asset_ref(parsed["posterUrl"], "poster")["imagePath"],
               "summary": own_summary, "descriptionHtml": old.get("descriptionHtml") or "<p>" + html.escape(own_summary) + "</p><p>원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
@@ -509,6 +545,21 @@ def merge_product(parsed: dict, existing: dict | None, url: str, now: datetime) 
               "copyright": parsed["copyright"] or old.get("copyright", ""),
               "checkedAt": now.astimezone(JST).date().isoformat(), "lastSyncedAt": now.astimezone(JST).isoformat(timespec="seconds"),
               "prizes": prizes, "gallery": product_gallery}
+    # Legacy records still expose these aliases in older clients. Keep them in
+    # sync with the canonical fields after a successful official-page refresh.
+    if "releaseStatus" in old:
+        result["releaseStatus"] = result["catalogStatus"]
+    if "releasePrecision" in old:
+        result["releasePrecision"] = result["releaseDatePrecision"]
+    if "releaseLabel" in old:
+        if result["releaseDatePrecision"] == "day" and result["releaseDate"]:
+            suffix = "일본 매장 발매" if result["catalogStatus"] == "ON_SALE" else "일본 매장 발매 예정"
+            result["releaseLabel"] = result["releaseDate"].replace("-", ".") + " " + suffix
+        elif result["releaseDatePrecision"] == "month":
+            month = re.search(r"(20\d{2})年\s*(\d{1,2})月", normalize(parsed["releaseDateText"]))
+            result["releaseLabel"] = f"{month.group(1)}.{int(month.group(2)):02d} 일본 매장 발매 예정 · 일자 미정" if month else "일본 매장 발매일 미정"
+        else:
+            result["releaseLabel"] = "일본 매장 발매일 미정"
     if existing is None:
         result["introducedRevision"] = 4
     if parsed["doubleChance"]:
@@ -688,7 +739,8 @@ def sync_catalog(root: Path, catalog_path: Path, status_path: Path, *, fetch: Ca
         category = catalog_status(product.get("releaseDate", ""), precision, now)
         status["released" if category == "ON_SALE" else "upcoming"] += 1
     status["translation"] = {"language": "ko", "pending": sum(bool(product.get("translationPending")) for product in catalog),
-                             "requests": translator.requests, "cacheHits": translator.hits, "failedRequests": translator.failed}
+                             "requests": translator.requests, "cacheHits": translator.hits, "failedRequests": translator.failed,
+                             "errors": getattr(translator, "errors", [])}
     if status["failed"]:
         status["status"] = "failed" if product_successes == 0 else "partial"
     else:

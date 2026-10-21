@@ -194,8 +194,9 @@
     },
     "6fa1a7d8fbae17f5382c84e06dbbbc021b03de118a5bc719ea7bd8b6a485da9c": {
       "source": "一番くじONLINE、一番くじ公式ショップ、麦わらストアなど",
-      "translation": "제일복권 온라인, 제일복권 공식 매장, 밀짚모자 스토어 등",
-      "engine": "google-public-ja-ko+glossary"
+      "translation": "제일복권 온라인、제일복권 공식 매장、무기와라 스토어등",
+      "engine": "ko-glossary",
+      "preparedSource": "제일복권 온라인、제일복권 공식 매장、무기와라 스토어등"
     },
     "8e34d674fcef79d3338bc87de0de7d5d3f6ffc97da4367340876cf2b1bb264fe": {
       "source": "ジャヤの地図 約24cm、空島の地図 約36cm",
@@ -227,6 +228,144 @@
       "translation": "손오공＆부르마＆오룡 우마왕의 자동차 피규어",
       "engine": "ko-glossary",
       "preparedSource": "손오공＆부르마＆오룡 우마왕의 자동차 피규어"
+    },
+    "265a2618b38f0a9a16a1ba0125a7f34161e7f66201815ef26404fbdb3d0c1029": {
+      "source": "ミニストップ、デイリーヤマザキ、その他コンビニエンスストア、ホビーショップ、書店、一部のドラッグストア、一番くじ公式ショップ、一番くじONLINEなど",
+      "translation": "미니스톱, 데일리 야마자키, 기타편의점, 하비숍, 서점, 일부 약국, 제일복권 공식매장, 제일복권 온라인 등",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "미니스톱、데일리 야마자키、その他편의점、하비숍、서점、一部のドラッグストア、제일복권 공식 매장、제일복권 온라인등"
+    },
+    "784b344f31cca8f61eab6da6c64dfcf60bd863b85e6bc6759c2f0cf6ce59614a": {
+      "source": "ナツ・ドラグニル MASTERLISE",
+      "translation": "나츠 드래그닐 MASTERLISE",
+      "engine": "ko-glossary",
+      "preparedSource": "나츠 드래그닐 MASTERLISE"
+    },
+    "b714cec0eec7c96d4efe0c8f4ef6a3b4e8e576cf6d652eee9727913f845a4820": {
+      "source": "ルーシィ・ハートフィリア MASTERLISE",
+      "translation": "루시 하트필리아 MASTERLISE",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "ルーシィ・ハートフィリア MASTERLISE"
+    },
+    "999eb0ab146d8e053db1cd1e11096a7830903933e8d3c13ea30376126c46a6d3": {
+      "source": "ハッピー MASTERLISE",
+      "translation": "해피 MASTERLISE",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "ハッピー MASTERLISE"
+    },
+    "11b85d579fc676737fbb0844cea2ec1961c3af1cbdc5cd53c1d3fdaf551c4ed6": {
+      "source": "星霊達のデスクトップマスコット",
+      "translation": "성령들의 데스크톱 마스코트",
+      "engine": "ko-glossary",
+      "preparedSource": "성령들의 데스크톱 마스코트"
+    },
+    "10f9a41672b8a89f0a8460dc12b5b872b2338bbd12c8c365a714bef9ac8e01c4": {
+      "source": "エルザ・スカーレット MASTERLISE",
+      "translation": "엘자 스칼렛 MASTERLISE",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "エルザ・スカーレット MASTERLISE"
+    },
+    "55d5633235a430edd62383a845e80c93ce35f298054b9e4678bf5a07134bad68": {
+      "source": "ディオ・ブランドー MASTERLISE PLUS",
+      "translation": "디오 브란도 MASTERLISE PLUS",
+      "engine": "ko-glossary",
+      "preparedSource": "디오 브란도 MASTERLISE PLUS"
+    },
+    "9d91c0e12ecf0a4291860eb9de969bf92c0f739d37ddc2c77692e2e30bc33f43": {
+      "source": "カーズ MASTERLISE",
+      "translation": "카즈 MASTERLISE",
+      "engine": "ko-glossary",
+      "preparedSource": "카즈 MASTERLISE"
+    },
+    "a38362291ad1ac7e18b4028f751ce536219f9307a9f030e230eeb548a60a92ad": {
+      "source": "川尻浩作 MASTERLISE",
+      "translation": "카와지리 코사쿠 MASTERLISE",
+      "engine": "ko-glossary",
+      "preparedSource": "카와지리 코사쿠 MASTERLISE"
+    },
+    "2f2395f4c99ca294ea1ba742c5de4e5517bb5fa061584e1bb9c4d93e1bfec453": {
+      "source": "ディアボロ MASTERLISE",
+      "translation": "디아볼로 MASTERLISE",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "ディアボロ MASTERLISE"
+    },
+    "21e504d23921c7bb0da7843ee506fe484b3b48155ad8d669c049031bf1bc7e41": {
+      "source": "エンリコ・P MASTERLISE",
+      "translation": "엔리코 P MASTERLISE",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "エンリコ・P MASTERLISE"
+    },
+    "24953c2fb3fc9db551d7b996aed3835bcbab2af3ec6d7524236e5c8128bdb680": {
+      "source": "ディエゴ・ブランドー MASTERLISE",
+      "translation": "디에고 브란도 MASTERLISE",
+      "engine": "ko-glossary",
+      "preparedSource": "디에고 브란도 MASTERLISE"
+    },
+    "aba87fe5cfd76948e650d57f07c4d8136003ca013dbecb13da7b72d685a703b5": {
+      "source": "一番くじ 『劇場版 薬屋のひとりごと 亡妃の秘宝』",
+      "translation": "제일복권 『극장판 약사의 혼잣말 망비의 비보』",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "제일복권 『극장판 약사의 혼잣말 亡妃の秘宝』"
+    },
+    "a4277eff2a858b093ea4d7d5655917955321d4003d372646a597ba9db8883804": {
+      "source": "猫猫 Dioramiquemaster",
+      "translation": "마오마오 Dioramiquemaster",
+      "engine": "ko-glossary",
+      "preparedSource": "마오마오 Dioramiquemaster"
+    },
+    "f35b07d54293e6d2b951d21f7dbb1f0674ce4a4d19f96d4429d8768e89dc8d34": {
+      "source": "壬氏 Dioramiquemaster",
+      "translation": "진시 Dioramiquemaster",
+      "engine": "ko-glossary",
+      "preparedSource": "진시 Dioramiquemaster"
+    },
+    "390c24e7b8a97e08301ee99c9ea9046a755b19201c1572058bae0b4fdd4163b3": {
+      "source": "きららいずマスコット",
+      "translation": "키라라이즈 마스코트",
+      "engine": "ko-glossary",
+      "preparedSource": "키라라이즈 마스코트"
+    },
+    "76761eff251afc46bfa73212f688c86b32bd275d88fee2e01e5b2182be0c39c4": {
+      "source": "猫猫 フィギュア",
+      "translation": "마오마오 피규어",
+      "engine": "ko-glossary",
+      "preparedSource": "마오마오 피규어"
+    },
+    "86b1993fdf260da56a5e6b33e552346518ed36bec962d8900728da28a9a63eb2": {
+      "source": "一番くじ ヱヴァンゲリヲン新劇場版：破",
+      "translation": "제일복권 에반게리온 신극장판: 파",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "제일복권 에반게리온 신극장판：破"
+    },
+    "734eff8aa38d26aa3ccd31b82c711a2980579cda2f77d1617255dc7e736a4fa4": {
+      "source": "セブン‐イレブン店舗、イトーヨーカドー店舗、ゆめタウン店舗、EVANGELION STOREなど",
+      "translation": "세븐일레븐 점포, 이토요카도 점포, 유메타운 점포, EVANGELION STORE 등",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "세븐일레븐店舗、イトーヨーカドー店舗、ゆめタウン店舗、EVANGELION STORE등"
+    },
+    "05ffd8842d9abddac43aebbaaddcdb563ff0865d73fca8184214a06e3077fd24": {
+      "source": "碇シンジ＆綾波レイ フィギュア",
+      "translation": "이카리 신지＆아야나미 레이 피규어",
+      "engine": "ko-glossary",
+      "preparedSource": "이카리 신지＆아야나미 레이 피규어"
+    },
+    "fdfda538b802fe12a11ea3c20a8a66ba9b18d23ffd6b0ac6f37f04940ea95df0": {
+      "source": "式波・アスカ・ラングレー フィギュア",
+      "translation": "시키나미 아스카 랑그레이 피규어",
+      "engine": "ko-glossary",
+      "preparedSource": "시키나미 아스카 랑그레이 피규어"
+    },
+    "92727035a277a1867d747ff46bf61521e0fd2aac27db8399215b636b1cccc7dc": {
+      "source": "エヴァンゲリオン2号機 フィギュア",
+      "translation": "에반게리온 2호기 피규어",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "에반게리온2号機 피규어"
+    },
+    "e138abb0a3c47fdd1d3a8470d84f052f7d62e277043d5d83e5a60a7906fd6c8d": {
+      "source": "頭部まで約24cm(全高約30cm)",
+      "translation": "머리까지 약 24cm(전고약 30cm)",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "頭部まで약 24cm(全高약 30cm)"
     }
   }
 }

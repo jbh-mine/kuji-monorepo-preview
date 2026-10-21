@@ -22,7 +22,7 @@
     "posterPath": "/series/official/hunter-greed-island-2-2026/poster-wide.webp",
     "summary": "그리드 아일랜드의 바인더·반지와 곤·키르아·히소카·레이저·고레이누 피규어, 실제 게임 카드 형태의 굿즈 구성입니다.",
     "copyright": "©P1998-2026 ©V・N・M",
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-10-21",
     "descriptionHtml": "<p>그리드 아일랜드의 바인더·반지와 곤·키르아·히소카·레이저·고레이누 피규어, 실제 게임 카드 형태의 굿즈 구성입니다.</p><p>공식 상품의 포스터와 경품 정보입니다. 원화 가격·판별 수량·뽑기는 체험용 예시이며 실제 판매처 재고와 연동되지 않습니다.</p>",
     "age": "",
     "retailers": "패밀리마트、서점、하비숍、제일복권 공식 매장등",
@@ -343,13 +343,14 @@
     "introducedRevision": 3,
     "franchiseCode": "HUNTER_HUNTER",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "retailersJp": "ファミリーマート、書店、ホビーショップ、一番くじ公式ショップなど",
     "releaseDateTextJp": "2026年08月29日(土)より順次発売予定",
     "translationGenerated": [],
     "translationPending": false,
     "translationLanguage": "ko",
-    "ageJp": ""
+    "ageJp": "",
+    "unpublishedPrizeGrades": []
   },
   {
     "code": "MY_HERO_ACADEMIA_2026",
@@ -374,7 +375,7 @@
     "posterPath": "/series/official/my-hero-origin-story-2026/poster-wide.png",
     "summary": "애니메이션 1기의 미도리야와 올마이트, 유에이 고교 인물·소품과 애니메이션 10주년 기념 경품을 구성했습니다.",
     "copyright": "©堀越耕平/集英社・僕のヒーローアカデミア製作委員会",
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-10-21",
     "descriptionHtml": "<p>애니메이션 1기의 미도리야와 올마이트, 유에이 고교 인물·소품과 애니메이션 10주년 기념 경품을 구성했습니다.</p><p>공식 상품의 포스터와 경품 정보입니다. 원화 가격·판별 수량·뽑기는 체험용 예시이며 실제 판매처 재고와 연동되지 않습니다.</p>",
     "age": "",
     "retailers": "패밀리마트、서점、하비숍、제일복권 공식 매장、제일복권 온라인등",
@@ -674,13 +675,14 @@
     "introducedRevision": 3,
     "franchiseCode": "MY_HERO_ACADEMIA",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "retailersJp": "ファミリーマート、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなど",
     "releaseDateTextJp": "2026年09月12日(土)より順次発売予定",
     "translationGenerated": [],
     "translationPending": false,
     "translationLanguage": "ko",
-    "ageJp": ""
+    "ageJp": "",
+    "unpublishedPrizeGrades": []
   },
   {
     "code": "DEMON_SLAYER_OFFICIAL_2026",
@@ -700,7 +702,7 @@
     "posterPath": "/series/official/demon-slayer-upper-two-2026/poster-wide.webp",
     "summary": "상현의 이 도우마와 시노부·카나오의 피규어, 탄지로·기유 미니 피규어와 작품 비주얼 굿즈 구성.",
     "copyright": "©吾峠呼世晴/集英社・アニプレックス・ufotable",
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-10-21",
     "descriptionHtml": "<p>상현의 이 도우마와 시노부·카나오의 피규어, 탄지로·기유 미니 피규어와 작품 비주얼 굿즈 구성.</p><p>공식 발매 상품의 포스터와 경품 정보를 아래에서 확인하세요. 원화 가격과 판별 수량은 체험용 예시입니다.</p>",
     "age": "15세 이상",
     "retailers": "제일복권 온라인、제일복권 공식 매장",
@@ -940,13 +942,14 @@
     "introducedRevision": 2,
     "franchiseCode": "DEMON_SLAYER",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "ageJp": "15세 이상",
     "retailersJp": "一番くじONLINE、一番くじ公式ショップ",
     "releaseDateTextJp": "2026年07月30日(木)より順次発売予定",
     "translationGenerated": [],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "unpublishedPrizeGrades": []
   },
   {
     "code": "ATTACK_ON_TITAN_OFFICIAL_2026",
@@ -967,7 +970,7 @@
     "posterPath": "/series/official/attack-choice-result/poster-wide.webp",
     "summary": "어린 에렌·미카사·아르민과 조사병단의 초코놋코 피규어, 에렌 봉제인형, 타로풍 일러스트 잡화를 담은 제일복권.",
     "copyright": "©諫山創・講談社/「進撃の巨人」The Final Season製作委員会",
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-10-21",
     "descriptionHtml": "<p>어린 에렌·미카사·아르민과 조사병단의 초코놋코 피규어, 에렌 봉제인형, 타로풍 일러스트 잡화를 담은 제일복권.</p><p>공식 발매 상품의 포스터와 경품 정보를 아래에서 확인하세요. 원화 가격과 판별 수량은 체험용 예시입니다.</p>",
     "age": "15세 이상",
     "retailers": "제일복권 공식 매장、제일복권 온라인등",
@@ -1213,13 +1216,14 @@
     "introducedRevision": 2,
     "franchiseCode": "ATTACK_ON_TITAN",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "ageJp": "15세 이상",
     "retailersJp": "一番くじ公式ショップ、一番くじONLINEなど",
     "releaseDateTextJp": "2026年08月05日(水)より順次発売予定",
     "translationGenerated": [],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "unpublishedPrizeGrades": []
   },
   {
     "code": "CHAINSAW_MAN_OFFICIAL_2026",
@@ -1240,7 +1244,7 @@
     "posterPath": "/series/official/chainsaw-reze-vol2/poster-wide.webp",
     "summary": "극장판 레제편의 덴지·레제, 아키·천사의 악마를 피규어와 신규 일러스트 굿즈로 구성했습니다. 라스트원은 체인소맨과 빔의 특별 채색 피규어입니다.",
     "copyright": "© 2025 MAPPA/チェンソーマンプロジェクト ©藤本タツキ/集英社",
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-10-21",
     "descriptionHtml": "<p>극장판 레제편의 덴지·레제, 아키·천사의 악마를 피규어와 신규 일러스트 굿즈로 구성했습니다. 라스트원은 체인소맨과 빔의 특별 채색 피규어입니다.</p><p>공식 발매 상품의 포스터와 경품 정보를 아래에서 확인하세요. 원화 가격과 판별 수량은 체험용 예시입니다.</p>",
     "age": "15세 이상",
     "retailers": "로손, 미니스톱, 데일리 야마자키, 기타편의점, 서점, 하비숍, 제일복권 공식 매장, 제일복권 온라인 등",
@@ -1510,13 +1514,14 @@
     "introducedRevision": 2,
     "franchiseCode": "CHAINSAW_MAN",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "ageJp": "15세 이상",
     "retailersJp": "ローソン、ミニストップ、デイリーヤマザキ、その他コンビニエンスストア、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなど",
     "releaseDateTextJp": "2026年09月18日(金)より順次発売予定",
     "translationGenerated": [],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "unpublishedPrizeGrades": []
   },
   {
     "code": "DRAGON_BALL",
@@ -1536,7 +1541,7 @@
     "posterPath": "/series/official/dragonball-gt/poster-wide.webp",
     "summary": "초사이어인 4와 GT 모험 일행을 담은 피규어·아크릴·비주얼 굿즈 구성.",
     "copyright": "©バード・スタジオ/集英社・東映アニメーション",
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-10-21",
     "descriptionHtml": "<p>초사이어인 4와 GT 모험 일행을 담은 피규어·아크릴·비주얼 굿즈 구성.</p><p>공식 발매 상품의 포스터와 경품 정보를 아래에서 확인하세요. 원화 가격과 판별 수량은 체험용 예시입니다.</p>",
     "age": "15세 이상",
     "retailers": "로손、미니스톱、서점、하비숍、제일복권 공식 매장、제일복권 온라인등",
@@ -1837,13 +1842,14 @@
     "introducedRevision": 1,
     "franchiseCode": "DRAGON_BALL",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "ageJp": "15세 이상",
     "retailersJp": "ローソン、ミニストップ、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなど",
     "releaseDateTextJp": "2026年08月22日(土)より順次発売予定",
     "translationGenerated": [],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "unpublishedPrizeGrades": []
   },
   {
     "code": "ONE_PIECE",
@@ -1863,7 +1869,7 @@
     "posterPath": "/series/official/one-piece-elbaf-vol2/poster-wide.webp",
     "summary": "엘바프 의상을 입은 밀짚모자 일당과 브로기·스코퍼 가반, 군코를 담은 제일복권. 피규어 6종과 엘바프 테마 잡화로 구성됩니다.",
     "copyright": "©尾田栄一郎/集英社・フジテレビ・東映アニメーション",
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-10-21",
     "descriptionHtml": "<p>엘바프 의상을 입은 밀짚모자 일당과 브로기·스코퍼 가반, 군코를 담은 제일복권. 피규어 6종과 엘바프 테마 잡화로 구성됩니다.</p><p>공식 발매 상품의 포스터와 경품 정보를 아래에서 확인하세요. 원화 가격과 판별 수량은 체험용 예시입니다.</p>",
     "age": "",
     "retailers": "세븐일레븐 점포, 이토요카도 점포, 유메 타운 점포, 밀짚모자 스토어 등",
@@ -2124,13 +2130,14 @@
     "introducedRevision": 1,
     "franchiseCode": "ONE_PIECE",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "retailersJp": "セブン‐イレブン店舗、イトーヨーカドー店舗、ゆめタウン店舗、麦わらストアなど",
     "releaseDateTextJp": "2026年08月08日(土)より発売予定",
     "translationGenerated": [],
     "translationPending": false,
     "translationLanguage": "ko",
-    "ageJp": ""
+    "ageJp": "",
+    "unpublishedPrizeGrades": []
   },
   {
     "code": "NARUTO",
@@ -2150,7 +2157,7 @@
     "posterPath": "/series/official/naruto-kazekage/poster-wide.webp",
     "summary": "풍영 탈환편의 나루토·사쿠라·카카시·가아라·사소리 피규어와 아카츠키 잡화를 구성했습니다. 마지막 복권의 라스트원 경품은 데이다라입니다.",
     "copyright": "©岸本斉史 スコット/集英社・テレビ東京・ぴえろ",
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-10-21",
     "descriptionHtml": "<p>풍영 탈환편의 나루토·사쿠라·카카시·가아라·사소리 피규어와 아카츠키 잡화를 구성했습니다. 마지막 복권의 라스트원 경품은 데이다라입니다.</p><p>공식 발매 상품의 포스터와 경품 정보를 아래에서 확인하세요. 원화 가격과 판별 수량은 체험용 예시입니다.</p>",
     "age": "",
     "retailers": "세븐일레븐 점포, 이토요카도 점포, 유메타운 점포 등",
@@ -2395,13 +2402,14 @@
     "introducedRevision": 1,
     "franchiseCode": "NARUTO",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "retailersJp": "セブン‐イレブン店舗、イトーヨーカドー店舗、ゆめタウン店舗など",
     "releaseDateTextJp": "2026年06月26日(金)より発売予定",
     "translationGenerated": [],
     "translationPending": false,
     "translationLanguage": "ko",
-    "ageJp": ""
+    "ageJp": "",
+    "unpublishedPrizeGrades": []
   },
   {
     "code": "JUJUTSU_KAISEN",
@@ -2421,7 +2429,7 @@
     "posterPath": "/series/official/jujutsu-5th-final/poster-wide.webp",
     "summary": "애니메이션 5주년을 기념하는 MASTERLISE 피규어와 기념 비주얼 굿즈 구성.",
     "copyright": "©芥見下々/集英社・呪術廻戦製作委員会 © 2021 「劇場版 呪術廻戦 0」製作委員会 ©芥見下々/集英社",
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-10-21",
     "descriptionHtml": "<p>애니메이션 5주년을 기념하는 MASTERLISE 피규어와 기념 비주얼 굿즈 구성.</p><p>공식 발매 상품의 포스터와 경품 정보를 아래에서 확인하세요. 원화 가격과 판별 수량은 체험용 예시입니다.</p>",
     "age": "15세 이상",
     "retailers": "패밀리마트、미니스톱、서점、하비숍、제일복권 공식 매장、제일복권 온라인등",
@@ -2715,13 +2723,14 @@
     "introducedRevision": 1,
     "franchiseCode": "JUJUTSU_KAISEN",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "ageJp": "15세 이상",
     "retailersJp": "ファミリーマート、ミニストップ、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなど",
     "releaseDateTextJp": "2026年09月26日(土)より順次発売予定",
     "translationGenerated": [],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "unpublishedPrizeGrades": []
   },
   {
     "code": "DEATH_NOTE_2025",
@@ -2743,7 +2752,7 @@
     "sourceUrl": "https://1kuji.com/products/deathnote",
     "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10548/e265056e-7748-4cab-af3b-463b1cb2dc72.jpg",
     "posterPath": "/series/official/death-note-2025/poster-wide.jpg",
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-10-21",
     "age": "15세 이상",
     "descriptionHtml": "<p>만화 표지를 옮긴 야가미 라이토·L 피규어와 류크 자석, 원화 비주얼 굿즈 구성.</p><p>공식 발매 상품의 경품 정보입니다. 원화 가격과 판별 수량은 체험용 예시입니다.</p>",
     "additionalSources": [
@@ -3005,13 +3014,14 @@
     "introducedRevision": 3,
     "franchiseCode": "DEATH_NOTE",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "ageJp": "15세 이상",
     "retailersJp": "ミニストップ、デイリーヤマザキ、その他コンビニエンスストア、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなど",
     "releaseDateTextJp": "2025年11月29日(土)より順次発売予定",
     "translationGenerated": [],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "unpublishedPrizeGrades": []
   },
   {
     "code": "BLEACH_2026",
@@ -3033,7 +3043,7 @@
     "sourceUrl": "https://1kuji.com/products/bleach8",
     "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10747/316c3d7d-0526-4809-a0e7-b40bbc68518b.webp",
     "posterPath": "/series/official/bleach-stirring-souls-vol5-2026/poster-wide.webp",
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-10-21",
     "age": "",
     "descriptionHtml": "<p>이치고·토시로·요루이치·켄파치 MASTERLISE와 사신대행증 수납함, 참백도 굿즈 구성.</p><p>공식 발매 상품의 경품 정보입니다. 원화 가격과 판별 수량은 체험용 예시입니다.</p>",
     "additionalSources": [
@@ -3296,13 +3306,14 @@
     "introducedRevision": 3,
     "franchiseCode": "BLEACH",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "retailersJp": "セブン‐イレブン店舗、イトーヨーカドー店舗、ゆめタウン店舗など",
     "releaseDateTextJp": "2026年09月19日(土)より発売予定",
     "translationGenerated": [],
     "translationPending": false,
     "translationLanguage": "ko",
-    "ageJp": ""
+    "ageJp": "",
+    "unpublishedPrizeGrades": []
   },
   {
     "code": "HAIKYU_2026",
@@ -3324,7 +3335,7 @@
     "sourceUrl": "https://1kuji.com/products/haikyu32",
     "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10719/bcce94ef-ffa0-485c-84fa-c958b66d161e.webp",
     "posterPath": "/series/official/haikyu-karasuno-future-2026/poster-wide.webp",
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-10-21",
     "age": "15세 이상",
     "descriptionHtml": "<p>까마귀와 함께한 카라스노 1학년 피규어, 신규 일러스트와 배구 모티프 생활 굿즈 구성.</p><p>공식 발매 상품의 경품 정보입니다. 원화 가격과 판별 수량은 체험용 예시입니다.</p>",
     "additionalSources": [
@@ -3607,13 +3618,14 @@
     "introducedRevision": 3,
     "franchiseCode": "HAIKYU",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "ageJp": "15세 이상",
     "retailersJp": "ローソン、一番くじ公式ショップ、一番くじONLINEなど",
     "releaseDateTextJp": "2026年08月15日(土)より順次発売予定",
     "translationGenerated": [],
     "translationPending": false,
-    "translationLanguage": "ko"
+    "translationLanguage": "ko",
+    "unpublishedPrizeGrades": []
   },
   {
     "code": "DRAGON_BALL_SPIRIT_2026",
@@ -3623,10 +3635,10 @@
     "productTitleKo": "제일복권 드래곤볼 SPIRIT OF THE SAIYAN",
     "slug": "dragon-ball-spirit-saiyan-2026",
     "frameColor": "#ea580c",
-    "releaseStatus": "UPCOMING",
+    "releaseStatus": "ON_SALE",
     "releasePrecision": "day",
     "releaseDate": "2026-10-17",
-    "releaseLabel": "2026.10.17 일본 매장 발매 예정",
+    "releaseLabel": "2026.10.17 일본 매장 발매",
     "onlineReleaseDate": "",
     "onlineReleaseAt": "",
     "priceJpy": 790,
@@ -3637,7 +3649,7 @@
     "posterPath": "/series/official/dragon-ball-spirit-saiyan-2026/poster-wide.webp",
     "summary": "손오공·손오반·손오천·버독·라데츠를 중심으로 사이어인의 가족을 담은 피규어와 생활 소품 구성입니다.",
     "copyright": "©バード・スタジオ/集英社・東映アニメーション",
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-10-21",
     "descriptionHtml": "<p>손오공·손오반·손오천·버독·라데츠를 중심으로 사이어인의 가족을 담은 피규어와 생활 소품 구성입니다.</p><p>공식 상품의 포스터와 경품 정보입니다. 원화 가격·판별 수량·뽑기는 체험용 예시이며 실제 판매처 재고와 연동되지 않습니다.</p>",
     "age": "",
     "retailers": "세븐일레븐 점포, 이토요카도 점포, 유메타운 점포, DRAGON BALL STORE TOKYO 등",
@@ -3962,13 +3974,14 @@
     "introducedRevision": 3,
     "franchiseCode": "DRAGON_BALL",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "retailersJp": "セブン‐イレブン店舗、イトーヨーカドー店舗、ゆめタウン店舗、DRAGON BALL STORE TOKYOなど",
     "releaseDateTextJp": "2026年10月17日(土)より発売予定",
     "translationGenerated": [],
     "translationPending": false,
     "translationLanguage": "ko",
-    "ageJp": ""
+    "ageJp": "",
+    "unpublishedPrizeGrades": []
   },
   {
     "code": "ATTACK_ON_TITAN_HEARTS_2026",
@@ -3992,7 +4005,7 @@
     "posterPath": "/series/official/attack-devote-hearts-2026/poster-wide.webp",
     "summary": "심장을 바치는 조사병단의 에렌·미카사·아르민·엘빈·한지와 말을 탄 리바이를 MASTERLISE 피규어로 담았습니다.",
     "copyright": "©諫山創・講談社/「進撃の巨人」The Final Season製作委員会",
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-10-21",
     "descriptionHtml": "<p>심장을 바치는 조사병단의 에렌·미카사·아르민·엘빈·한지와 말을 탄 리바이를 MASTERLISE 피규어로 담았습니다.</p><p>공식 상품의 포스터와 경품 정보입니다. 원화 가격·판별 수량·뽑기는 체험용 예시이며 실제 판매처 재고와 연동되지 않습니다.</p>",
     "age": "",
     "retailers": "로손、제일복권 공식 매장、제일복권 온라인등",
@@ -4288,13 +4301,14 @@
     "introducedRevision": 3,
     "franchiseCode": "ATTACK_ON_TITAN",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "retailersJp": "ローソン、一番くじ公式ショップ、一番くじONLINEなど",
     "releaseDateTextJp": "2026年10月24日(土)より順次発売予定",
     "translationGenerated": [],
     "translationPending": false,
     "translationLanguage": "ko",
-    "ageJp": ""
+    "ageJp": "",
+    "unpublishedPrizeGrades": []
   },
   {
     "code": "NARUTO_HIDAN_KAKUZU_2026",
@@ -4318,7 +4332,7 @@
     "posterPath": "/series/official/naruto-hidan-kakuzu-2026/poster-wide.webp",
     "summary": "시카마루·아스마와 아카츠키의 히단·카쿠즈를 피규어로 담고 아카츠키 미니 피규어와 작품 굿즈를 구성했습니다.",
     "copyright": "©岸本斉史 スコット/集英社・テレビ東京・ぴえろ",
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-10-21",
     "descriptionHtml": "<p>시카마루·아스마와 아카츠키의 히단·카쿠즈를 피규어로 담고 아카츠키 미니 피규어와 작품 굿즈를 구성했습니다.</p><p>공식 상품의 포스터와 경품 정보입니다. 원화 가격·판별 수량·뽑기는 체험용 예시이며 실제 판매처 재고와 연동되지 않습니다.</p>",
     "age": "",
     "retailers": "제일복권 온라인、제일복권 공식 매장",
@@ -4547,13 +4561,14 @@
     "introducedRevision": 3,
     "franchiseCode": "NARUTO",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "retailersJp": "一番くじONLINE、一番くじ公式ショップ",
     "releaseDateTextJp": "2026年10月26日(月)より順次発売予定",
     "translationGenerated": [],
     "translationPending": false,
     "translationLanguage": "ko",
-    "ageJp": ""
+    "ageJp": "",
+    "unpublishedPrizeGrades": []
   },
   {
     "code": "ONE_PIECE_SKY_SONG_2026",
@@ -4577,10 +4592,10 @@
     "posterPath": "/series/official/one-piece-sky-song-2026/poster-wide.webp",
     "summary": "하늘섬편 루피·나미·크리켓·와이퍼 피규어와 작중 지도·소품을 담고, 라스트원에는 프로젝터 기능의 황금 대종루를 구성했습니다.",
     "copyright": "©尾田栄一郎/集英社・フジテレビ・東映アニメーション",
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-10-21",
     "descriptionHtml": "<p>하늘섬편 루피·나미·크리켓·와이퍼 피규어와 작중 지도·소품을 담고, 라스트원에는 프로젝터 기능의 황금 대종루를 구성했습니다.</p><p>공식 상품의 포스터와 경품 정보입니다. 원화 가격·판별 수량·뽑기는 체험용 예시이며 실제 판매처 재고와 연동되지 않습니다.</p>",
     "age": "",
-    "retailers": "제일복권 온라인, 제일복권 공식 매장, 밀짚모자 스토어 등",
+    "retailers": "제일복권 온라인、제일복권 공식 매장、무기와라 스토어등",
     "onlineSaleEndedAt": "",
     "additionalSources": [
       "https://www.bandaispirits.co.jp/products/search/detail.php?grp_id=9999&prd_id=onep_o12"
@@ -4847,13 +4862,14 @@
     "introducedRevision": 3,
     "franchiseCode": "ONE_PIECE",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "retailersJp": "一番くじONLINE、一番くじ公式ショップ、麦わらストアなど",
     "releaseDateTextJp": "2026年10月29日(木)より順次発売予定",
     "translationGenerated": [],
     "translationPending": false,
     "translationLanguage": "ko",
-    "ageJp": ""
+    "ageJp": "",
+    "unpublishedPrizeGrades": []
   },
   {
     "code": "DEATH_NOTE_2_2027",
@@ -4865,7 +4881,7 @@
     "frameColor": "#7c3aed",
     "releaseDate": "2027-01-16",
     "releasePrecision": "day",
-    "releaseStatus": "upcoming",
+    "releaseStatus": "UPCOMING",
     "priceJpy": 850,
     "samplePriceKrw": 12000,
     "sourceUrl": "https://1kuji.com/products/deathnote2",
@@ -4874,7 +4890,7 @@
     ],
     "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10809/06396ba1-3081-4da3-9971-81615ae7ea0f.webp",
     "posterPath": "/series/official/death-note-2-2027/poster-wide.webp",
-    "checkedAt": "2026-10-20",
+    "checkedAt": "2026-10-21",
     "summary": "2027년 1월 16일 발매 예정. 니아·멜로 피규어가 공개되었으며 전체 경품 구성은 아직 미공개입니다.",
     "copyright": "©大場つぐみ・小畑健/集英社",
     "prizes": [
@@ -4963,15 +4979,25 @@
     "introducedRevision": 3,
     "franchiseCode": "DEATH_NOTE",
     "sampleAllocationMethod": "equal-80-demo",
-    "retailers": "공식 판매처 안내 확인",
+    "retailers": "패밀리마트、미니스톱、데일리 야마자키、서점、하비숍、제일복권 공식 매장、제일복권 온라인등",
     "age": "",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "releaseDateTextJp": "2027年01月16日(土)より順次発売予定",
     "translationGenerated": [],
-    "translationPending": true,
+    "translationPending": false,
     "translationLanguage": "ko",
     "retailersJp": "ファミリマート、ミニストップ、デイリーヤマザキ、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなど",
-    "ageJp": ""
+    "ageJp": "",
+    "unpublishedPrizeGrades": [
+      "A",
+      "B",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "LAST"
+    ]
   },
   {
     "code": "AUTO_KIMETSU31_9D73201302",
@@ -5001,8 +5027,8 @@
     "retailers": "제일복권 온라인、제일복권 공식 매장",
     "age": "",
     "copyright": "©吾峠呼世晴/集英社・アニプレックス・ufotable",
-    "checkedAt": "2026-10-20",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "checkedAt": "2026-10-21",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "prizes": [],
     "gallery": [],
     "introducedRevision": 4,
@@ -5015,7 +5041,8 @@
     ],
     "translationPending": false,
     "translationLanguage": "ko",
-    "ageJp": ""
+    "ageJp": "",
+    "unpublishedPrizeGrades": []
   },
   {
     "code": "AUTO_JUJUTSU20_5D95123DEF",
@@ -5045,8 +5072,8 @@
     "retailers": "",
     "age": "",
     "copyright": "©芥見下々/集英社・呪術廻戦製作委員会",
-    "checkedAt": "2026-10-20",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "checkedAt": "2026-10-21",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "prizes": [],
     "gallery": [],
     "introducedRevision": 4,
@@ -5059,7 +5086,8 @@
     "translationPending": false,
     "translationLanguage": "ko",
     "retailersJp": "",
-    "ageJp": ""
+    "ageJp": "",
+    "unpublishedPrizeGrades": []
   },
   {
     "code": "AUTO_HXH11_2_73EDC31AD3",
@@ -5089,8 +5117,8 @@
     "retailers": "",
     "age": "",
     "copyright": "©P1998-2027 ©V・N・M",
-    "checkedAt": "2026-10-20",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "checkedAt": "2026-10-21",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "prizes": [],
     "gallery": [
       {
@@ -5120,7 +5148,8 @@
     "translationPending": false,
     "translationLanguage": "ko",
     "retailersJp": "",
-    "ageJp": ""
+    "ageJp": "",
+    "unpublishedPrizeGrades": []
   },
   {
     "code": "AUTO_ONEP105_652A8064D9",
@@ -5144,14 +5173,14 @@
     "sampleAllocationMethod": "equal-80-demo",
     "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10785/5830b985-0600-4dba-bcfd-7eb921117413.webp",
     "posterPath": "/series/official/auto-onep105-652a8064d9/poster-a519781d3dc9a522.webp",
-    "summary": "제일복권 원피스～동물 대집합!～. 공개 경품: 쵸파의 멀티 스탠드, B상 공개 경품, C상 공개 경품.",
-    "descriptionHtml": "<p>제일복권 원피스～동물 대집합!～. 공개 경품: 쵸파의 멀티 스탠드, B상 공개 경품, C상 공개 경품.</p><p>일본 공식 정보를 한국어로 안내하며 일본어 정식 명칭을 함께 표시합니다. 원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
+    "summary": "제일복권 원피스～동물 대집합!～. 공개 경품: 쵸파의 멀티 스탠드, 동물 담요, 동물 머그컵.",
+    "descriptionHtml": "<p>제일복권 원피스～동물 대집합!～. 공개 경품: 쵸파의 멀티 스탠드, 동물 담요, 동물 머그컵.</p><p>일본 공식 정보를 한국어로 안내하며 일본어 정식 명칭을 함께 표시합니다. 원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
     "onlineSourceUrl": "",
-    "retailers": "공식 판매처 안내 확인",
+    "retailers": "패밀리마트、무기와라 스토어、제일복권 공식 매장、제일복권 온라인등",
     "age": "",
     "copyright": "©尾田栄一郎/集英社・フジテレビ・東映アニメーション",
-    "checkedAt": "2026-10-20",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "checkedAt": "2026-10-21",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -5184,8 +5213,8 @@
       {
         "letter": "B",
         "name": "あにまるブランケット",
-        "nameKo": "B상 공개 경품",
-        "description": "B상 공개 경품 · 총 1종 · 약 90cm. 공식 공개 사양입니다.",
+        "nameKo": "동물 담요",
+        "description": "동물 담요 · 총 1종 · 약 90cm. 공식 공개 사양입니다.",
         "size": "약 90cm",
         "sizeJp": "約90cm",
         "variants": "총 1종",
@@ -5203,8 +5232,8 @@
       {
         "letter": "C",
         "name": "あにまるマグカップ",
-        "nameKo": "C상 공개 경품",
-        "description": "C상 공개 경품 · 총 2종 · 디자인 선택 가능 · 약 10cm. 공식 공개 사양입니다.",
+        "nameKo": "동물 머그컵",
+        "description": "동물 머그컵 · 총 2종 · 디자인 선택 가능 · 약 10cm. 공식 공개 사양입니다.",
         "size": "약 10cm",
         "sizeJp": "約10cm",
         "variants": "총 2종 · 디자인 선택 가능",
@@ -5259,8 +5288,8 @@
       {
         "letter": "E",
         "name": "タオルコレクション",
-        "nameKo": "E상 공개 경품",
-        "description": "E상 공개 경품 · 총 7종 · 디자인 선택 가능 · 약 23cm. 공식 공개 사양입니다.",
+        "nameKo": "타월 컬렉션",
+        "description": "타월 컬렉션 · 총 7종 · 디자인 선택 가능 · 약 23cm. 공식 공개 사양입니다.",
         "size": "약 23cm",
         "sizeJp": "約23cm",
         "variants": "총 7종 · 디자인 선택 가능",
@@ -5287,8 +5316,8 @@
       {
         "letter": "F",
         "name": "超カルガモ部隊 アクリルスタンド",
-        "nameKo": "F상 공개 경품",
-        "description": "F상 공개 경품 · 총 7종 · 무작위 디자인 · 약 7~8cm. 공식 공개 사양입니다.",
+        "nameKo": "초 카루가모 부대 아크릴 스탠드",
+        "description": "초 카루가모 부대 아크릴 스탠드 · 총 7종 · 무작위 디자인 · 약 7~8cm. 공식 공개 사양입니다.",
         "size": "약 7~8cm",
         "sizeJp": "約7~8cm",
         "variants": "총 7종 · 무작위 디자인",
@@ -5315,8 +5344,8 @@
       {
         "letter": "G",
         "name": "あにまるステッカーコレクション",
-        "nameKo": "G상 공개 경품",
-        "description": "G상 공개 경품 · 총 7종 · 디자인 선택 가능 · 약 7.5cm(5장 세트). 공식 공개 사양입니다.",
+        "nameKo": "동물 스티커 컬렉션",
+        "description": "동물 스티커 컬렉션 · 총 7종 · 디자인 선택 가능 · 약 7.5cm(5장 세트). 공식 공개 사양입니다.",
         "size": "약 7.5cm(5장 세트)",
         "sizeJp": "約7.5cm(5枚セット)",
         "variants": "총 7종 · 디자인 선택 가능",
@@ -5343,9 +5372,9 @@
       {
         "letter": "H",
         "name": "あにまるラバーコレクション",
-        "nameKo": "H상 공개 경품",
-        "description": "H상 공개 경품 · 총 8종 · 디자인 선택 가능 · 크기 정보 번역 확인 중. 공식 공개 사양입니다.",
-        "size": "크기 정보 번역 확인 중",
+        "nameKo": "동물 러버 컬렉션",
+        "description": "동물 러버 컬렉션 · 총 8종 · 디자인 선택 가능 · 러버 스마트폰 그립 약 6cm、러버 타이 약 14cm、러버 마커 참 약 6cm、러버 헤어클립 약 6cm. 공식 공개 사양입니다.",
+        "size": "러버 스마트폰 그립 약 6cm、러버 타이 약 14cm、러버 마커 참 약 6cm、러버 헤어클립 약 6cm",
         "sizeJp": "ラバースマホグリップ 約6cm、ラバータイ 約14cm、ラバーマーカーチャーム 約6cm、ラバーヘアクリップ 約6cm",
         "variants": "총 8종 · 디자인 선택 가능",
         "variantCount": 8,
@@ -5371,8 +5400,8 @@
       {
         "letter": "LAST",
         "name": "カルー ビッグぬいぐるみ",
-        "nameKo": "라스트 원 공개 경품",
-        "description": "라스트 원 공개 경품 · 종류 수 미공개 · 약 40cm. 공식 공개 사양입니다.",
+        "nameKo": "카루 대형 봉제인형",
+        "description": "카루 대형 봉제인형 · 종류 수 미공개 · 약 40cm. 공식 공개 사양입니다.",
         "size": "약 40cm",
         "sizeJp": "約40cm",
         "variants": "종류 수 미공개",
@@ -5414,7 +5443,7 @@
       "summary",
       "title"
     ],
-    "translationPending": true,
+    "translationPending": false,
     "translationLanguage": "ko",
     "ageJp": "",
     "doubleChance": {
@@ -5427,7 +5456,8 @@
       "imagePath": "/series/official/auto-onep105-652a8064d9/double-chance-f052e4f16af72051.webp",
       "nameKo": "투 비 컨티뉴드 대형 로고 조형물",
       "translationGenerated": true
-    }
+    },
+    "unpublishedPrizeGrades": []
   },
   {
     "code": "AUTO_HXH8_2_FF575C1199",
@@ -5457,8 +5487,8 @@
     "retailers": "세븐일레븐 점포, 이토요카도 점포, 유메타운 점포 등",
     "age": "",
     "copyright": "©P1998-2026 ©V・N・M",
-    "checkedAt": "2026-10-20",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "checkedAt": "2026-10-21",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -5780,7 +5810,8 @@
     ],
     "translationPending": false,
     "translationLanguage": "ko",
-    "ageJp": ""
+    "ageJp": "",
+    "unpublishedPrizeGrades": []
   },
   {
     "code": "AUTO_DB_FA3_FFFF89190D",
@@ -5799,19 +5830,19 @@
     "priceJpy": 800,
     "samplePriceKrw": 12000,
     "catalogStatus": "UPCOMING",
-    "prizeDetailsPending": false,
+    "prizeDetailsPending": true,
     "sampleAllocation": true,
     "sampleAllocationMethod": "equal-80-demo",
     "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10791/997762ae-ba90-4c45-8e4e-48ab856e4f09.webp",
     "posterPath": "/series/official/auto-db_fa3-ffff89190d/poster-5cd4a41a50e3ca2b.webp",
-    "summary": "제일복권 드래곤볼 판타스틱 어드벤처 3. 공개 경품: 손오공＆부르마＆오룡 우마왕의 자동차 피규어, 손오공＆부르마 피규어.",
-    "descriptionHtml": "<p>제일복권 드래곤볼 판타스틱 어드벤처 3. 공개 경품: 손오공＆부르마＆오룡 우마왕의 자동차 피규어, 손오공＆부르마 피규어.</p><p>일본 공식 정보를 한국어로 안내하며 일본어 정식 명칭을 함께 표시합니다. 원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
+    "summary": "제일복권 드래곤볼 판타스틱 어드벤처 3. 공개 경품: 손오공＆부르마＆오룡 우마왕의 자동차 피규어, 손오공＆부르마 피규어. 전체 경품 구성은 아직 공개되지 않았습니다.",
+    "descriptionHtml": "<p>제일복권 드래곤볼 판타스틱 어드벤처 3. 공개 경품: 손오공＆부르마＆오룡 우마왕의 자동차 피규어, 손오공＆부르마 피규어. 전체 경품 구성은 아직 공개되지 않았습니다.</p><p>일본 공식 정보를 한국어로 안내하며 일본어 정식 명칭을 함께 표시합니다. 원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
     "onlineSourceUrl": "",
     "retailers": "패밀리마트등",
     "age": "",
     "copyright": "©バード・スタジオ/集英社・東映アニメーション",
-    "checkedAt": "2026-10-20",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "checkedAt": "2026-10-21",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -5824,7 +5855,7 @@
         "selection": "single",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106787/98e2736a-95ba-423f-846b-2e478268e17e.webp",
         "imagePath": "/series/official/auto-db_fa3-ffff89190d/a-e063b48507a66ad4.webp",
-        "sampleCount": 80,
+        "sampleCount": 0,
         "gallery": [],
         "sizeJp": "約20cm",
         "translationGenerated": [
@@ -5863,7 +5894,17 @@
     ],
     "translationPending": false,
     "translationLanguage": "ko",
-    "ageJp": ""
+    "ageJp": "",
+    "unpublishedPrizeGrades": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I"
+    ]
   },
   {
     "code": "AUTO_MYHERO48_BBBA72A638",
@@ -5882,19 +5923,19 @@
     "priceJpy": 850,
     "samplePriceKrw": 12000,
     "catalogStatus": "UPCOMING",
-    "prizeDetailsPending": false,
+    "prizeDetailsPending": true,
     "sampleAllocation": true,
     "sampleAllocationMethod": "equal-80-demo",
     "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10804/88825605-64f2-4fa7-ab41-5cd2bc79748a.webp",
     "posterPath": "/series/official/auto-myhero48-bbba72a638/poster-603fd811bbb3fb1a.webp",
-    "summary": "제일복권 나의 히어로 아카데미아 -그녀들의 이야기-. 공개 경품: 우라라카 오챠코 MASTERLISE, 아스이 츠유 MASTERLISE, 하가쿠레 토오루 MASTERLISE.",
-    "descriptionHtml": "<p>제일복권 나의 히어로 아카데미아 -그녀들의 이야기-. 공개 경품: 우라라카 오챠코 MASTERLISE, 아스이 츠유 MASTERLISE, 하가쿠레 토오루 MASTERLISE.</p><p>일본 공식 정보를 한국어로 안내하며 일본어 정식 명칭을 함께 표시합니다. 원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
+    "summary": "제일복권 나의 히어로 아카데미아 -그녀들의 이야기-. 공개 경품: 우라라카 오챠코 MASTERLISE, 아스이 츠유 MASTERLISE, 하가쿠레 토오루 MASTERLISE. 전체 경품 구성은 아직 공개되지 않았습니다.",
+    "descriptionHtml": "<p>제일복권 나의 히어로 아카데미아 -그녀들의 이야기-. 공개 경품: 우라라카 오챠코 MASTERLISE, 아스이 츠유 MASTERLISE, 하가쿠레 토오루 MASTERLISE. 전체 경품 구성은 아직 공개되지 않았습니다.</p><p>일본 공식 정보를 한국어로 안내하며 일본어 정식 명칭을 함께 표시합니다. 원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
     "onlineSourceUrl": "",
     "retailers": "제일복권 온라인、제일복권 공식 매장",
     "age": "",
     "copyright": "©堀越耕平/集英社・僕のヒーローアカデミア製作委員会",
-    "checkedAt": "2026-10-20",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "checkedAt": "2026-10-21",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -5907,7 +5948,7 @@
         "selection": "single",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106992/154a47f0-238c-47dc-a526-9f3df21f74ed.webp",
         "imagePath": "/series/official/auto-myhero48-bbba72a638/a-11effe245b569ac2.webp",
-        "sampleCount": 20,
+        "sampleCount": 0,
         "gallery": [
           {
             "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9597/0708b293-b5fd-4e72-a9c9-a83cca31303b.webp",
@@ -5935,7 +5976,7 @@
         "selection": "single",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106993/88ddba63-bac9-4d87-8b79-6892ee9409d8.webp",
         "imagePath": "/series/official/auto-myhero48-bbba72a638/b-fde504e30077f3de.webp",
-        "sampleCount": 20,
+        "sampleCount": 0,
         "gallery": [
           {
             "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9606/69c611c6-a717-497c-8fa2-01b0276c5c1f.webp",
@@ -5963,7 +6004,7 @@
         "selection": "single",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106994/51040955-45f6-4825-9505-b4c30d757679.webp",
         "imagePath": "/series/official/auto-myhero48-bbba72a638/c-c90dcd49dfaf3a31.webp",
-        "sampleCount": 20,
+        "sampleCount": 0,
         "gallery": [
           {
             "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9594/dcb1c49f-2c8b-480f-a01e-0ec45db63972.webp",
@@ -5991,7 +6032,7 @@
         "selection": "single",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106995/b49430a9-cc80-4965-91bb-4d40d9a5fd96.webp",
         "imagePath": "/series/official/auto-myhero48-bbba72a638/d-48fc4af5962d38d6.webp",
-        "sampleCount": 20,
+        "sampleCount": 0,
         "gallery": [
           {
             "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9600/c9a0d8e8-8822-4450-b613-7a754dcd9070.webp",
@@ -6048,7 +6089,13 @@
     ],
     "translationPending": false,
     "translationLanguage": "ko",
-    "ageJp": ""
+    "ageJp": "",
+    "unpublishedPrizeGrades": [
+      "E",
+      "F",
+      "G",
+      "H"
+    ]
   },
   {
     "code": "AUTO_ONEP106_9838A2EE1C",
@@ -6078,8 +6125,8 @@
     "retailers": "패밀리마트등",
     "age": "",
     "copyright": "©尾田栄一郎/集英社・フジテレビ・東映アニメーション",
-    "checkedAt": "2026-10-20",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "checkedAt": "2026-10-21",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -6188,7 +6235,8 @@
     ],
     "translationPending": false,
     "translationLanguage": "ko",
-    "ageJp": ""
+    "ageJp": "",
+    "unpublishedPrizeGrades": []
   },
   {
     "code": "AUTO_DB_AC_2_C177AE1EAF",
@@ -6218,8 +6266,8 @@
     "retailers": "로손등",
     "age": "",
     "copyright": "©バード・スタジオ/集英社・東映アニメーション",
-    "checkedAt": "2026-10-20",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "checkedAt": "2026-10-21",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "prizes": [],
     "gallery": [],
     "introducedRevision": 4,
@@ -6232,7 +6280,8 @@
     ],
     "translationPending": false,
     "translationLanguage": "ko",
-    "ageJp": ""
+    "ageJp": "",
+    "unpublishedPrizeGrades": []
   },
   {
     "code": "AUTO_ONEP107_B72A2E32C2",
@@ -6259,11 +6308,11 @@
     "summary": "제일복권 원피스 메모리 오브 히로인즈 -로열 프린세스-. 공개 경품: 네펠타리 비비 MASTERLISE EXPIECE, 레베카 MASTERLISE EXPIECE, 빈스모크 레이주 MASTERLISE EXPIECE.",
     "descriptionHtml": "<p>제일복권 원피스 메모리 오브 히로인즈 -로열 프린세스-. 공개 경품: 네펠타리 비비 MASTERLISE EXPIECE, 레베카 MASTERLISE EXPIECE, 빈스모크 레이주 MASTERLISE EXPIECE.</p><p>일본 공식 정보를 한국어로 안내하며 일본어 정식 명칭을 함께 표시합니다. 원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
     "onlineSourceUrl": "",
-    "retailers": "제일복권 온라인, 제일복권 공식 매장, 밀짚모자 스토어 등",
+    "retailers": "제일복권 온라인、제일복권 공식 매장、무기와라 스토어등",
     "age": "",
     "copyright": "©尾田栄一郎/集英社・フジテレビ・東映アニメーション",
-    "checkedAt": "2026-10-20",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "checkedAt": "2026-10-21",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -6372,7 +6421,8 @@
     ],
     "translationPending": false,
     "translationLanguage": "ko",
-    "ageJp": ""
+    "ageJp": "",
+    "unpublishedPrizeGrades": []
   },
   {
     "code": "AUTO_DB_DO_06FE9841A7",
@@ -6391,19 +6441,19 @@
     "priceJpy": 800,
     "samplePriceKrw": 12000,
     "catalogStatus": "UPCOMING",
-    "prizeDetailsPending": false,
+    "prizeDetailsPending": true,
     "sampleAllocation": true,
     "sampleAllocationMethod": "equal-80-demo",
     "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10837/690cd4a7-124e-4270-ad6c-12b886526828.png",
     "posterPath": "/series/official/auto-db_do-06fe9841a7/poster-6aa67e84896a3ebd.png",
-    "summary": "제일복권 드래곤볼 드래곤 옴니버스～신과 신의 싸움～. 공개 경품: 초사이어인 갓 손오공 MASTERLISE, 파괴신 비루스 MASTERLISE, 우이스 MASTERLISE.",
-    "descriptionHtml": "<p>제일복권 드래곤볼 드래곤 옴니버스～신과 신의 싸움～. 공개 경품: 초사이어인 갓 손오공 MASTERLISE, 파괴신 비루스 MASTERLISE, 우이스 MASTERLISE.</p><p>일본 공식 정보를 한국어로 안내하며 일본어 정식 명칭을 함께 표시합니다. 원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
+    "summary": "제일복권 드래곤볼 드래곤 옴니버스～신과 신의 싸움～. 공개 경품: 초사이어인 갓 손오공 MASTERLISE, 파괴신 비루스 MASTERLISE, 우이스 MASTERLISE. 전체 경품 구성은 아직 공개되지 않았습니다.",
+    "descriptionHtml": "<p>제일복권 드래곤볼 드래곤 옴니버스～신과 신의 싸움～. 공개 경품: 초사이어인 갓 손오공 MASTERLISE, 파괴신 비루스 MASTERLISE, 우이스 MASTERLISE. 전체 경품 구성은 아직 공개되지 않았습니다.</p><p>일본 공식 정보를 한국어로 안내하며 일본어 정식 명칭을 함께 표시합니다. 원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
     "onlineSourceUrl": "",
     "retailers": "",
     "age": "",
     "copyright": "©バード・スタジオ/集英社・東映アニメーション",
-    "checkedAt": "2026-10-20",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "checkedAt": "2026-10-21",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -6416,7 +6466,7 @@
         "selection": "single",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107250/c4ed2ac0-2b95-4680-8f0e-902d304d206a.webp",
         "imagePath": "/series/official/auto-db_do-06fe9841a7/a-8cc2e0fe2020e945.webp",
-        "sampleCount": 16,
+        "sampleCount": 0,
         "gallery": [],
         "sizeJp": "約25cm",
         "translationGenerated": [
@@ -6435,7 +6485,7 @@
         "selection": "single",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107251/006553e3-78c1-4dac-8d89-20534604a675.webp",
         "imagePath": "/series/official/auto-db_do-06fe9841a7/b-916c1875ed4a32ca.webp",
-        "sampleCount": 16,
+        "sampleCount": 0,
         "gallery": [],
         "sizeJp": "約22cm",
         "translationGenerated": [
@@ -6454,7 +6504,7 @@
         "selection": "single",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107252/b8f71004-925d-4ec5-a041-9ad00ba9cbe1.webp",
         "imagePath": "/series/official/auto-db_do-06fe9841a7/c-7d1cad0513e17695.webp",
-        "sampleCount": 16,
+        "sampleCount": 0,
         "gallery": [],
         "sizeJp": "約25cm",
         "translationGenerated": [
@@ -6473,7 +6523,7 @@
         "selection": "single",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107253/2e12ce10-2fdb-432b-ac7f-b95587519425.webp",
         "imagePath": "/series/official/auto-db_do-06fe9841a7/d-f913561d3e57956b.webp",
-        "sampleCount": 16,
+        "sampleCount": 0,
         "gallery": [],
         "sizeJp": "約25cm",
         "translationGenerated": [
@@ -6492,7 +6542,7 @@
         "selection": "single",
         "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107254/083432e6-6b0c-4805-bddd-8c8e759dc186.webp",
         "imagePath": "/series/official/auto-db_do-06fe9841a7/e-e15f19e6b07b99d5.webp",
-        "sampleCount": 16,
+        "sampleCount": 0,
         "gallery": [],
         "sizeJp": "約17cm",
         "translationGenerated": [
@@ -6531,7 +6581,13 @@
     "translationPending": false,
     "translationLanguage": "ko",
     "retailersJp": "",
-    "ageJp": ""
+    "ageJp": "",
+    "unpublishedPrizeGrades": [
+      "F",
+      "G",
+      "H",
+      "I"
+    ]
   },
   {
     "code": "AUTO_MYHERO49_D5AD0377D3",
@@ -6561,8 +6617,8 @@
     "retailers": "",
     "age": "",
     "copyright": "©堀越耕平/集英社・僕のヒーローアカデミア製作委員会",
-    "checkedAt": "2026-10-20",
-    "lastSyncedAt": "2026-10-20T14:59:23+09:00",
+    "checkedAt": "2026-10-21",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -6690,6 +6746,774 @@
     "translationPending": false,
     "translationLanguage": "ko",
     "retailersJp": "",
-    "ageJp": ""
+    "ageJp": "",
+    "unpublishedPrizeGrades": []
+  },
+  {
+    "code": "AUTO_FAIRYTAIL_F7F81E3748",
+    "slug": "auto-fairytail-f7f81e3748",
+    "franchiseCode": "FAIRY_TAIL",
+    "nameKo": "제일복권 페어리테일 20주년",
+    "nameJp": "一番くじ FAIRY TAIL 20th ANNIVERSARY",
+    "productTitle": "一番くじ FAIRY TAIL 20th ANNIVERSARY",
+    "productTitleKo": "제일복권 페어리테일 20주년",
+    "frameColor": "#dc2626",
+    "sourceUrl": "https://1kuji.com/products/fairytail",
+    "releaseDate": "2026-10-03",
+    "releaseDatePrecision": "day",
+    "releaseDateText": "2026년 10월 03일(토)부터 순차 발매 예정",
+    "onlineReleaseDate": "2026-10-05",
+    "releaseDateTextJp": "2026年10月03日(土)より順次発売予定",
+    "priceJpy": 850,
+    "samplePriceKrw": 12000,
+    "catalogStatus": "ON_SALE",
+    "prizeDetailsPending": false,
+    "sampleAllocation": true,
+    "unpublishedPrizeGrades": [],
+    "sampleAllocationMethod": "equal-80-demo",
+    "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10763/033e0bc2-41e6-4387-a6ed-4ab443799d5f.webp",
+    "posterPath": "/series/official/auto-fairytail-f7f81e3748/poster-3f5054606047fb35.webp",
+    "summary": "제일복권 페어리테일 20주년. 공개 경품: 나츠 드래그닐 MASTERLISE, 루시 하트필리아 MASTERLISE, 해피 MASTERLISE.",
+    "descriptionHtml": "<p>제일복권 페어리테일 20주년. 공개 경품: 나츠 드래그닐 MASTERLISE, 루시 하트필리아 MASTERLISE, 해피 MASTERLISE.</p><p>일본 공식 정보를 한국어로 안내하며 일본어 정식 명칭을 함께 표시합니다. 원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
+    "onlineSourceUrl": "https://on-line.1kuji.com/Form/Product/ProductDetail.aspx?pid=sap_0000008665&bid=IP00006704",
+    "retailers": "미니스톱, 데일리 야마자키, 기타편의점, 하비숍, 서점, 일부 약국, 제일복권 공식매장, 제일복권 온라인 등",
+    "retailersJp": "ミニストップ、デイリーヤマザキ、その他コンビニエンスストア、ホビーショップ、書店、一部のドラッグストア、一番くじ公式ショップ、一番くじONLINEなど",
+    "age": "",
+    "ageJp": "",
+    "copyright": "C真島ヒロ/講談社",
+    "checkedAt": "2026-10-21",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
+    "prizes": [
+      {
+        "letter": "A",
+        "name": "ナツ・ドラグニル MASTERLISE",
+        "nameKo": "나츠 드래그닐 MASTERLISE",
+        "description": "나츠 드래그닐 MASTERLISE · 총 1종 · 약 25cm. 공식 공개 사양입니다.",
+        "size": "약 25cm",
+        "sizeJp": "約25cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106591/a2510b80-6d5a-4003-a6c7-db0ebfb946fa.webp",
+        "imagePath": "/series/official/auto-fairytail-f7f81e3748/a-6273499e6119b7e5.webp",
+        "sampleCount": 12,
+        "gallery": [],
+        "translationGenerated": [
+          "description",
+          "name"
+        ]
+      },
+      {
+        "letter": "B",
+        "name": "ルーシィ・ハートフィリア MASTERLISE",
+        "nameKo": "루시 하트필리아 MASTERLISE",
+        "description": "루시 하트필리아 MASTERLISE · 총 1종 · 약 23cm. 공식 공개 사양입니다.",
+        "size": "약 23cm",
+        "sizeJp": "約23cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106592/fb136a89-16d2-4c5f-8941-23f2a35a23ee.webp",
+        "imagePath": "/series/official/auto-fairytail-f7f81e3748/b-9cb20c75238cc2e1.webp",
+        "sampleCount": 12,
+        "gallery": [],
+        "translationGenerated": [
+          "description",
+          "name"
+        ]
+      },
+      {
+        "letter": "C",
+        "name": "ハッピー MASTERLISE",
+        "nameKo": "해피 MASTERLISE",
+        "description": "해피 MASTERLISE · 총 1종 · 약 7cm. 공식 공개 사양입니다.",
+        "size": "약 7cm",
+        "sizeJp": "約7cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106593/298aea5b-250b-45ca-a660-debb15c6ad4e.webp",
+        "imagePath": "/series/official/auto-fairytail-f7f81e3748/c-0e2c3e509ab1ab04.webp",
+        "sampleCount": 12,
+        "gallery": [],
+        "translationGenerated": [
+          "description",
+          "name"
+        ]
+      },
+      {
+        "letter": "D",
+        "name": "星霊達のデスクトップマスコット",
+        "nameKo": "성령들의 데스크톱 마스코트",
+        "description": "성령들의 데스크톱 마스코트 · 총 2종 · 무작위 디자인 · 약 5cm. 공식 공개 사양입니다.",
+        "size": "약 5cm",
+        "sizeJp": "約5cm",
+        "variants": "총 2종 · 무작위 디자인",
+        "variantCount": 2,
+        "selection": "blind",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106987/d5d1f9a3-200c-46a0-8c52-21f65e8ec3a3.webp",
+        "imagePath": "/series/official/auto-fairytail-f7f81e3748/d-fbeab6169864eac9.webp",
+        "sampleCount": 11,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9554/9d87bf4e-4f0b-4eb6-84d3-4ecdfc53604b.webp",
+            "imagePath": "/series/official/auto-fairytail-f7f81e3748/d-detail-1-675ee34679ef415e.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9555/cca480a4-6ddc-42c1-ba04-e8488d451c4e.webp",
+            "imagePath": "/series/official/auto-fairytail-f7f81e3748/d-detail-2-07ca5fc8b75ea7ba.webp"
+          }
+        ],
+        "translationGenerated": [
+          "description",
+          "name"
+        ]
+      },
+      {
+        "letter": "E",
+        "name": "アクリルスタンド",
+        "nameKo": "아크릴 스탠드",
+        "description": "아크릴 스탠드 · 총 10종 · 무작위 디자인 · 약 6cm. 공식 공개 사양입니다.",
+        "size": "약 6cm",
+        "sizeJp": "約6cm",
+        "variants": "총 10종 · 무작위 디자인",
+        "variantCount": 10,
+        "selection": "blind",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106988/3428fb29-b97e-4ece-a845-d3a504a98061.webp",
+        "imagePath": "/series/official/auto-fairytail-f7f81e3748/e-2d343685d482dcf0.webp",
+        "sampleCount": 11,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9556/8a19b3b1-5273-4af4-8a7c-dfae9bdc4ca7.webp",
+            "imagePath": "/series/official/auto-fairytail-f7f81e3748/e-detail-1-4c8ce05922618843.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9557/ed67a411-29db-491b-a944-06a7082c1681.webp",
+            "imagePath": "/series/official/auto-fairytail-f7f81e3748/e-detail-2-ba8b9ce9fc2dc1e5.webp"
+          }
+        ],
+        "translationGenerated": [
+          "description",
+          "name"
+        ]
+      },
+      {
+        "letter": "F",
+        "name": "クリアポスター",
+        "nameKo": "클리어 포스터",
+        "description": "공식 공개 경품. 총 12종 · 디자인 선택 가능 · A3",
+        "size": "A3",
+        "sizeJp": "A3",
+        "variants": "총 12종 · 디자인 선택 가능",
+        "variantCount": 12,
+        "selection": "choose",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106989/bbc5b5d4-10b6-4513-a416-8598e39bdb41.webp",
+        "imagePath": "/series/official/auto-fairytail-f7f81e3748/f-6134d5159cf9b35f.webp",
+        "sampleCount": 11,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9566/f166f8a1-9455-46e7-b60d-63e2cd086d31.webp",
+            "imagePath": "/series/official/auto-fairytail-f7f81e3748/f-detail-1-d1d4f24c52b660f3.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9567/c4cf61f3-d94a-403b-bda8-8b343dec717d.webp",
+            "imagePath": "/series/official/auto-fairytail-f7f81e3748/f-detail-2-353791a1eec01c3d.webp"
+          }
+        ],
+        "translationGenerated": [
+          "name"
+        ]
+      },
+      {
+        "letter": "G",
+        "name": "ステッカーアソート",
+        "nameKo": "스티커 모음",
+        "description": "스티커 모음 · 총 12종 · 디자인 선택 가능 · 약 5cm(6장 세트)、약 7cm(4장 세트). 공식 공개 사양입니다.",
+        "size": "약 5cm(6장 세트)、약 7cm(4장 세트)",
+        "sizeJp": "約5cm(6枚セット)、約7cm(4枚セット)",
+        "variants": "총 12종 · 디자인 선택 가능",
+        "variantCount": 12,
+        "selection": "choose",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106990/9c82044a-d766-4877-bcd7-97a0c5ff1366.webp",
+        "imagePath": "/series/official/auto-fairytail-f7f81e3748/g-95ab0d5a89429620.webp",
+        "sampleCount": 11,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9578/50a99c1c-e0d1-4b0c-993e-0672494d3d9a.webp",
+            "imagePath": "/series/official/auto-fairytail-f7f81e3748/g-detail-1-271c768d1e387989.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9579/49ef065b-19fc-4759-b965-8a06cddaf0e2.webp",
+            "imagePath": "/series/official/auto-fairytail-f7f81e3748/g-detail-2-2e0a4781e706a040.webp"
+          }
+        ],
+        "translationGenerated": [
+          "description",
+          "name"
+        ]
+      },
+      {
+        "letter": "LAST",
+        "name": "エルザ・スカーレット MASTERLISE",
+        "nameKo": "엘자 스칼렛 MASTERLISE",
+        "description": "엘자 스칼렛 MASTERLISE · 종류 수 미공개 · 약 25cm. 공식 공개 사양입니다.",
+        "size": "약 25cm",
+        "sizeJp": "約25cm",
+        "variants": "종류 수 미공개",
+        "variantCount": null,
+        "selection": "unknown",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106594/e81db43c-bdf8-4617-b065-0174f7a2de57.webp",
+        "imagePath": "/series/official/auto-fairytail-f7f81e3748/last-e3a897ae136d5b49.webp",
+        "sampleCount": 0,
+        "gallery": [],
+        "translationGenerated": [
+          "description",
+          "name"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3381/d542b38b-d678-4e84-86d7-47446c2319bc.webp",
+        "imagePath": "/series/official/auto-fairytail-f7f81e3748/gallery-1-1562815460ac381e.webp"
+      },
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3382/736d8781-23c6-4693-b7e6-39d18463949f.webp",
+        "imagePath": "/series/official/auto-fairytail-f7f81e3748/gallery-2-4453f986756cae66.webp"
+      },
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3383/2c5585c4-a5b7-4864-8287-0e4c9e5ebbab.webp",
+        "imagePath": "/series/official/auto-fairytail-f7f81e3748/gallery-3-3d05b20bcc014bf6.webp"
+      },
+      {
+        "imageUrl": "https://assets.1kuji.com/uploads/product_gallery/image/3384/7437229c-0943-42ae-9b84-e3351f56ba32.webp",
+        "imagePath": "/series/official/auto-fairytail-f7f81e3748/gallery-4-45b16e46e2742eae.webp"
+      }
+    ],
+    "introducedRevision": 4,
+    "doubleChance": {
+      "name": "エルザ・スカーレット MASTERLISE",
+      "deadline": "캠페인 기간: 발매일~2027년 01월 말일",
+      "deadlineJp": "キャンペーン期間: 発売日~2027年01月末日",
+      "description": "공식 별도 캠페인 당첨 수 30개. 이 프로그램에서는 응모를 제공하지 않습니다.",
+      "awardCount": 30,
+      "imageUrl": "https://assets.1kuji.com/uploads/campaign/image/11588/314ec904-4c03-44bf-a9f0-5faab64a6a69.webp",
+      "imagePath": "/series/official/auto-fairytail-f7f81e3748/double-chance-ea6cb6badc7168e9.webp",
+      "nameKo": "엘자 스칼렛 MASTERLISE",
+      "translationGenerated": true
+    },
+    "franchiseKo": "페어리테일",
+    "translationGenerated": [
+      "summary",
+      "title"
+    ],
+    "translationPending": false,
+    "translationLanguage": "ko"
+  },
+  {
+    "code": "AUTO_JOJO_26_BFE4EC76DB",
+    "slug": "auto-jojo_26-bfe4ec76db",
+    "franchiseCode": "JOJO",
+    "nameKo": "제일복권 죠죠의 기묘한 모험 라이벌들의 집결",
+    "nameJp": "一番くじ ジョジョの奇妙な冒険 The Gathering of RIVALS",
+    "productTitle": "一番くじ ジョジョの奇妙な冒険 The Gathering of RIVALS",
+    "productTitleKo": "제일복권 죠죠의 기묘한 모험 라이벌들의 집결",
+    "frameColor": "#9333ea",
+    "sourceUrl": "https://1kuji.com/products/jojo_26",
+    "releaseDate": "2026-11-21",
+    "releaseDatePrecision": "day",
+    "releaseDateText": "2026년 11월 21일(토)부터 순차 발매 예정",
+    "onlineReleaseDate": "",
+    "releaseDateTextJp": "2026年11月21日(土)より順次発売予定",
+    "priceJpy": 850,
+    "samplePriceKrw": 12000,
+    "catalogStatus": "UPCOMING",
+    "prizeDetailsPending": false,
+    "sampleAllocation": true,
+    "unpublishedPrizeGrades": [],
+    "sampleAllocationMethod": "equal-80-demo",
+    "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10771/45e9d075-428f-45a8-bc7a-6a553a40caa0.webp",
+    "posterPath": "/series/official/auto-jojo_26-bfe4ec76db/poster-61e709ce3f1e2080.webp",
+    "summary": "제일복권 죠죠의 기묘한 모험 라이벌들의 집결. 공개 경품: 디오 브란도 MASTERLISE PLUS, 카즈 MASTERLISE, 디오 MASTERLISE.",
+    "descriptionHtml": "<p>제일복권 죠죠의 기묘한 모험 라이벌들의 집결. 공개 경품: 디오 브란도 MASTERLISE PLUS, 카즈 MASTERLISE, 디오 MASTERLISE.</p><p>일본 공식 정보를 한국어로 안내하며 일본어 정식 명칭을 함께 표시합니다. 원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
+    "onlineSourceUrl": "",
+    "retailers": "로손등",
+    "retailersJp": "ローソンなど",
+    "age": "",
+    "ageJp": "",
+    "copyright": "©荒木飛呂彦&LUCKY LAND COMMUNICATIONS/集英社・ジョジョの奇妙な冒険THE ANIMATION PROJECT",
+    "checkedAt": "2026-10-21",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
+    "prizes": [
+      {
+        "letter": "A",
+        "name": "ディオ・ブランドー MASTERLISE PLUS",
+        "nameKo": "디오 브란도 MASTERLISE PLUS",
+        "description": "디오 브란도 MASTERLISE PLUS · 총 1종 · 약 18cm. 공식 공개 사양입니다.",
+        "size": "약 18cm",
+        "sizeJp": "約18cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106780/b9cd08a4-4d6e-409f-8eec-c47cbb831e96.webp",
+        "imagePath": "/series/official/auto-jojo_26-bfe4ec76db/a-8a7fce5505628b83.webp",
+        "sampleCount": 14,
+        "gallery": [],
+        "translationGenerated": [
+          "description",
+          "name"
+        ]
+      },
+      {
+        "letter": "B",
+        "name": "カーズ MASTERLISE",
+        "nameKo": "카즈 MASTERLISE",
+        "description": "카즈 MASTERLISE · 총 1종 · 약 25cm. 공식 공개 사양입니다.",
+        "size": "약 25cm",
+        "sizeJp": "約25cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106781/90bd68f1-c67e-4581-81d5-1f769483ce42.webp",
+        "imagePath": "/series/official/auto-jojo_26-bfe4ec76db/b-ca2ce152151bd1c3.webp",
+        "sampleCount": 14,
+        "gallery": [],
+        "translationGenerated": [
+          "description",
+          "name"
+        ]
+      },
+      {
+        "letter": "C",
+        "name": "DIO MASTERLISE",
+        "nameKo": "디오 MASTERLISE",
+        "description": "디오 MASTERLISE · 총 1종 · 약 26cm. 공식 공개 사양입니다.",
+        "size": "약 26cm",
+        "sizeJp": "約26cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106782/c47feb37-4179-484d-b131-12eb7eb0329e.webp",
+        "imagePath": "/series/official/auto-jojo_26-bfe4ec76db/c-1c996fd734d6f9f1.webp",
+        "sampleCount": 13,
+        "gallery": [],
+        "translationGenerated": [
+          "description",
+          "name"
+        ]
+      },
+      {
+        "letter": "D",
+        "name": "川尻浩作 MASTERLISE",
+        "nameKo": "카와지리 코사쿠 MASTERLISE",
+        "description": "카와지리 코사쿠 MASTERLISE · 총 1종 · 약 24cm. 공식 공개 사양입니다.",
+        "size": "약 24cm",
+        "sizeJp": "約24cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106783/72f97e8d-1bb5-40db-a25e-286a03bbc834.webp",
+        "imagePath": "/series/official/auto-jojo_26-bfe4ec76db/d-a3113ca7814fa0b1.webp",
+        "sampleCount": 13,
+        "gallery": [],
+        "translationGenerated": [
+          "description",
+          "name"
+        ]
+      },
+      {
+        "letter": "E",
+        "name": "ディアボロ MASTERLISE",
+        "nameKo": "디아볼로 MASTERLISE",
+        "description": "디아볼로 MASTERLISE · 총 1종 · 약 25cm. 공식 공개 사양입니다.",
+        "size": "약 25cm",
+        "sizeJp": "約25cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106784/f83994f1-2475-4a3a-a535-460fb349c6d4.webp",
+        "imagePath": "/series/official/auto-jojo_26-bfe4ec76db/e-4634423a40476412.webp",
+        "sampleCount": 13,
+        "gallery": [],
+        "translationGenerated": [
+          "description",
+          "name"
+        ]
+      },
+      {
+        "letter": "F",
+        "name": "エンリコ・P MASTERLISE",
+        "nameKo": "엔리코 P MASTERLISE",
+        "description": "엔리코 P MASTERLISE · 총 1종 · 약 22cm. 공식 공개 사양입니다.",
+        "size": "약 22cm",
+        "sizeJp": "約22cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106785/d51649ef-5b48-41ff-9009-057e13c5d0da.webp",
+        "imagePath": "/series/official/auto-jojo_26-bfe4ec76db/f-fed12ba83ccc5e23.webp",
+        "sampleCount": 13,
+        "gallery": [],
+        "translationGenerated": [
+          "description",
+          "name"
+        ]
+      },
+      {
+        "letter": "LAST",
+        "name": "ディエゴ・ブランドー MASTERLISE",
+        "nameKo": "디에고 브란도 MASTERLISE",
+        "description": "디에고 브란도 MASTERLISE · 종류 수 미공개 · 약 15cm. 공식 공개 사양입니다.",
+        "size": "약 15cm",
+        "sizeJp": "約15cm",
+        "variants": "종류 수 미공개",
+        "variantCount": null,
+        "selection": "unknown",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106786/2c408db2-a6cf-4ef7-be95-1527c9bb802b.webp",
+        "imagePath": "/series/official/auto-jojo_26-bfe4ec76db/last-4045b9817e4fe1d4.webp",
+        "sampleCount": 0,
+        "gallery": [],
+        "translationGenerated": [
+          "description",
+          "name"
+        ]
+      }
+    ],
+    "gallery": [],
+    "introducedRevision": 4,
+    "franchiseKo": "죠죠의 기묘한 모험",
+    "translationGenerated": [
+      "summary",
+      "title"
+    ],
+    "translationPending": false,
+    "translationLanguage": "ko"
+  },
+  {
+    "code": "AUTO_KUSURIYA2_5091F286DE",
+    "slug": "auto-kusuriya2-5091f286de",
+    "franchiseCode": "APOTHECARY_DIARIES",
+    "nameKo": "제일복권 『극장판 약사의 혼잣말 망비의 비보』",
+    "nameJp": "一番くじ 『劇場版 薬屋のひとりごと 亡妃の秘宝』",
+    "productTitle": "一番くじ 『劇場版 薬屋のひとりごと 亡妃の秘宝』",
+    "productTitleKo": "제일복권 『극장판 약사의 혼잣말 망비의 비보』",
+    "frameColor": "#15803d",
+    "sourceUrl": "https://1kuji.com/products/kusuriya2",
+    "releaseDate": "2026-12-05",
+    "releaseDatePrecision": "day",
+    "releaseDateText": "2026년 12월 05일(토)부터 순차 발매 예정",
+    "onlineReleaseDate": "",
+    "releaseDateTextJp": "2026年12月05日(土)より順次発売予定",
+    "priceJpy": 800,
+    "samplePriceKrw": 12000,
+    "catalogStatus": "UPCOMING",
+    "prizeDetailsPending": true,
+    "sampleAllocation": true,
+    "unpublishedPrizeGrades": [
+      "C",
+      "E",
+      "F",
+      "G",
+      "H"
+    ],
+    "sampleAllocationMethod": "equal-80-demo",
+    "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10779/919e4289-5aa5-4eb8-b315-c2d1373c15c1.webp",
+    "posterPath": "/series/official/auto-kusuriya2-5091f286de/poster-56ebc5fcafe3dd3e.webp",
+    "summary": "제일복권 『극장판 약사의 혼잣말 망비의 비보』. 공개 경품: 마오마오 Dioramiquemaster, 진시 Dioramiquemaster, 키라라이즈 마스코트. 전체 경품 구성은 아직 공개되지 않았습니다.",
+    "descriptionHtml": "<p>제일복권 『극장판 약사의 혼잣말 망비의 비보』. 공개 경품: 마오마오 Dioramiquemaster, 진시 Dioramiquemaster, 키라라이즈 마스코트. 전체 경품 구성은 아직 공개되지 않았습니다.</p><p>일본 공식 정보를 한국어로 안내하며 일본어 정식 명칭을 함께 표시합니다. 원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
+    "onlineSourceUrl": "",
+    "retailers": "패밀리마트등",
+    "retailersJp": "ファミリーマートなど",
+    "age": "",
+    "ageJp": "",
+    "copyright": "©2026 劇場版「薬屋のひとりごと」製作委員会 ©日向夏・イマジカインフォス",
+    "checkedAt": "2026-10-21",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
+    "prizes": [
+      {
+        "letter": "A",
+        "name": "猫猫 Dioramiquemaster",
+        "nameKo": "마오마오 Dioramiquemaster",
+        "description": "마오마오 Dioramiquemaster · 총 1종 · 약 15cm. 공식 공개 사양입니다.",
+        "size": "약 15cm",
+        "sizeJp": "約15cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106944/849324be-16cf-4a61-8417-97e98aa22540.webp",
+        "imagePath": "/series/official/auto-kusuriya2-5091f286de/a-dc09c2a2be66f515.webp",
+        "sampleCount": 0,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9358/bc9ddf5e-82a5-445a-bae2-e09701cb7156.webp",
+            "imagePath": "/series/official/auto-kusuriya2-5091f286de/a-detail-1-35cebc2eea9c824e.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9359/ef95786f-3d0f-468f-ad67-c525feb9781c.webp",
+            "imagePath": "/series/official/auto-kusuriya2-5091f286de/a-detail-2-b167713910c33cde.webp"
+          }
+        ],
+        "translationGenerated": [
+          "description",
+          "name"
+        ]
+      },
+      {
+        "letter": "B",
+        "name": "壬氏 Dioramiquemaster",
+        "nameKo": "진시 Dioramiquemaster",
+        "description": "진시 Dioramiquemaster · 총 1종 · 약 16cm. 공식 공개 사양입니다.",
+        "size": "약 16cm",
+        "sizeJp": "約16cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106945/014c4587-fd5a-48df-8b2b-435e1b0dd90d.webp",
+        "imagePath": "/series/official/auto-kusuriya2-5091f286de/b-76d772d630e5bba4.webp",
+        "sampleCount": 0,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9361/cc6e525c-7ead-48df-9160-443525b139ec.webp",
+            "imagePath": "/series/official/auto-kusuriya2-5091f286de/b-detail-1-81b938e05c19a23b.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9362/f31f9540-4422-4f49-a9f5-c49d3f7f3593.webp",
+            "imagePath": "/series/official/auto-kusuriya2-5091f286de/b-detail-2-f86bc6f84c9b483e.webp"
+          }
+        ],
+        "translationGenerated": [
+          "description",
+          "name"
+        ]
+      },
+      {
+        "letter": "D",
+        "name": "きららいずマスコット",
+        "nameKo": "키라라이즈 마스코트",
+        "description": "키라라이즈 마스코트 · 총 2종 · 디자인 선택 가능 · 약 10cm. 공식 공개 사양입니다.",
+        "size": "약 10cm",
+        "sizeJp": "約10cm",
+        "variants": "총 2종 · 디자인 선택 가능",
+        "variantCount": 2,
+        "selection": "choose",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/107369/776504a5-b29d-429e-afc0-28da6c7d66a8.webp",
+        "imagePath": "/series/official/auto-kusuriya2-5091f286de/d-af516478c9011292.webp",
+        "sampleCount": 0,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/11102/f829298f-d94f-4047-98c5-2cb9ab67c73d.webp",
+            "imagePath": "/series/official/auto-kusuriya2-5091f286de/d-detail-1-2131f88fc68347a8.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/11103/406b3ba6-62ba-42a8-9aa8-50ec6ae5095b.webp",
+            "imagePath": "/series/official/auto-kusuriya2-5091f286de/d-detail-2-829d9c529353414b.webp"
+          }
+        ],
+        "translationGenerated": [
+          "description",
+          "name"
+        ]
+      },
+      {
+        "letter": "LAST",
+        "name": "猫猫 フィギュア",
+        "nameKo": "마오마오 피규어",
+        "description": "마오마오 피규어 · 종류 수 미공개 · 약 18cm. 공식 공개 사양입니다.",
+        "size": "약 18cm",
+        "sizeJp": "約18cm",
+        "variants": "종류 수 미공개",
+        "variantCount": null,
+        "selection": "unknown",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106946/c10f8b29-b724-4d19-b6bf-a6aed366f5de.webp",
+        "imagePath": "/series/official/auto-kusuriya2-5091f286de/last-096b974da8b74acb.webp",
+        "sampleCount": 0,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9364/3e1b8ada-ccf6-4ca3-bff4-938574817943.webp",
+            "imagePath": "/series/official/auto-kusuriya2-5091f286de/last-detail-1-6d10ac6a2f880441.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9365/4fe3dff2-9062-4de5-bd16-38fcd3041a35.webp",
+            "imagePath": "/series/official/auto-kusuriya2-5091f286de/last-detail-2-d1ef5637e2c2b2c5.webp"
+          }
+        ],
+        "translationGenerated": [
+          "description",
+          "name"
+        ]
+      }
+    ],
+    "gallery": [],
+    "introducedRevision": 4,
+    "franchiseKo": "약사의 혼잣말",
+    "translationGenerated": [
+      "summary",
+      "title"
+    ],
+    "translationPending": false,
+    "translationLanguage": "ko"
+  },
+  {
+    "code": "AUTO_EVA20_329D3BD745",
+    "slug": "auto-eva20-329d3bd745",
+    "franchiseCode": "EVANGELION",
+    "nameKo": "제일복권 에반게리온 신극장판: 파",
+    "nameJp": "一番くじ ヱヴァンゲリヲン新劇場版：破",
+    "productTitle": "一番くじ ヱヴァンゲリヲン新劇場版：破",
+    "productTitleKo": "제일복권 에반게리온 신극장판: 파",
+    "frameColor": "#6d28d9",
+    "sourceUrl": "https://1kuji.com/products/eva20",
+    "releaseDate": "2026-12-05",
+    "releaseDatePrecision": "day",
+    "releaseDateText": "2026년 12월 05일(토)부터 발매 예정",
+    "onlineReleaseDate": "",
+    "releaseDateTextJp": "2026年12月05日(土)より発売予定",
+    "priceJpy": 790,
+    "samplePriceKrw": 12000,
+    "catalogStatus": "UPCOMING",
+    "prizeDetailsPending": true,
+    "sampleAllocation": true,
+    "unpublishedPrizeGrades": [
+      "D",
+      "E",
+      "F",
+      "G"
+    ],
+    "sampleAllocationMethod": "equal-80-demo",
+    "posterUrl": "https://assets.1kuji.com/uploads/product/top_banner/10790/6f0768b4-f8a2-475e-a6b1-1b8bad7b77c9.webp",
+    "posterPath": "/series/official/auto-eva20-329d3bd745/poster-c5c2dfe97781b161.webp",
+    "summary": "제일복권 에반게리온 신극장판: 파. 공개 경품: 이카리 신지＆아야나미 레이 피규어, 시키나미 아스카 랑그레이 피규어, 나기사 카오루 피규어. 전체 경품 구성은 아직 공개되지 않았습니다.",
+    "descriptionHtml": "<p>제일복권 에반게리온 신극장판: 파. 공개 경품: 이카리 신지＆아야나미 레이 피규어, 시키나미 아스카 랑그레이 피규어, 나기사 카오루 피규어. 전체 경품 구성은 아직 공개되지 않았습니다.</p><p>일본 공식 정보를 한국어로 안내하며 일본어 정식 명칭을 함께 표시합니다. 원화 가격과 티켓 수량은 체험용 예시입니다.</p>",
+    "onlineSourceUrl": "",
+    "retailers": "세븐일레븐 점포, 이토요카도 점포, 유메타운 점포, EVANGELION STORE 등",
+    "retailersJp": "セブン‐イレブン店舗、イトーヨーカドー店舗、ゆめタウン店舗、EVANGELION STOREなど",
+    "age": "",
+    "ageJp": "",
+    "copyright": "©khara",
+    "checkedAt": "2026-10-21",
+    "lastSyncedAt": "2026-10-21T09:25:35+09:00",
+    "prizes": [
+      {
+        "letter": "A",
+        "name": "碇シンジ＆綾波レイ フィギュア",
+        "nameKo": "이카리 신지＆아야나미 레이 피규어",
+        "description": "이카리 신지＆아야나미 레이 피규어 · 총 1종 · 약 20cm. 공식 공개 사양입니다.",
+        "size": "약 20cm",
+        "sizeJp": "約20cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106903/958b3ac3-1bf1-4438-9559-a430b07b6ba9.webp",
+        "imagePath": "/series/official/auto-eva20-329d3bd745/a-b8bbb8306c49066a.webp",
+        "sampleCount": 0,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9088/fa78759c-9990-4338-a3ff-a829420eb85b.webp",
+            "imagePath": "/series/official/auto-eva20-329d3bd745/a-detail-1-b21e43ca3f14b832.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9089/7f9391fd-d8a4-4684-b9d4-73bb622b2393.webp",
+            "imagePath": "/series/official/auto-eva20-329d3bd745/a-detail-2-3383ff0aac771eaf.webp"
+          }
+        ],
+        "translationGenerated": [
+          "description",
+          "name"
+        ]
+      },
+      {
+        "letter": "B",
+        "name": "式波・アスカ・ラングレー フィギュア",
+        "nameKo": "시키나미 아스카 랑그레이 피규어",
+        "description": "시키나미 아스카 랑그레이 피규어 · 총 1종 · 약 16cm. 공식 공개 사양입니다.",
+        "size": "약 16cm",
+        "sizeJp": "約16cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106904/5eccbe0d-a300-4aea-847f-84d77ca78205.webp",
+        "imagePath": "/series/official/auto-eva20-329d3bd745/b-ae85e4543cff216c.webp",
+        "sampleCount": 0,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9091/99d1a928-c019-4b40-8a2d-d74f0ea59ce9.webp",
+            "imagePath": "/series/official/auto-eva20-329d3bd745/b-detail-1-5237b8a653b87b08.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9092/47f8d138-4342-41d3-87c9-8aef523696d7.webp",
+            "imagePath": "/series/official/auto-eva20-329d3bd745/b-detail-2-c8a742f9db510b92.webp"
+          }
+        ],
+        "translationGenerated": [
+          "description",
+          "name"
+        ]
+      },
+      {
+        "letter": "C",
+        "name": "渚カヲル フィギュア",
+        "nameKo": "나기사 카오루 피규어",
+        "description": "나기사 카오루 피규어 · 총 1종 · 약 20cm. 공식 공개 사양입니다.",
+        "size": "약 20cm",
+        "sizeJp": "約20cm",
+        "variants": "총 1종",
+        "variantCount": 1,
+        "selection": "single",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106905/851fa65e-8d92-44fa-9cfb-b8bccf108644.webp",
+        "imagePath": "/series/official/auto-eva20-329d3bd745/c-184ea39b074774a0.webp",
+        "sampleCount": 0,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9094/31ac6453-e420-44a1-ad70-e485813d33a6.webp",
+            "imagePath": "/series/official/auto-eva20-329d3bd745/c-detail-1-ee9d78d6e5ba8db0.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9095/dfb2a209-c5f9-4586-b2d7-136bc3bc97b9.webp",
+            "imagePath": "/series/official/auto-eva20-329d3bd745/c-detail-2-40289c6c3748197d.webp"
+          }
+        ],
+        "translationGenerated": [
+          "description",
+          "name"
+        ]
+      },
+      {
+        "letter": "LAST",
+        "name": "エヴァンゲリオン2号機 フィギュア",
+        "nameKo": "에반게리온 2호기 피규어",
+        "description": "에반게리온 2호기 피규어 · 종류 수 미공개 · 머리까지 약 24cm(전고약 30cm). 공식 공개 사양입니다.",
+        "size": "머리까지 약 24cm(전고약 30cm)",
+        "sizeJp": "頭部まで約24cm(全高約30cm)",
+        "variants": "종류 수 미공개",
+        "variantCount": null,
+        "selection": "unknown",
+        "imageUrl": "https://assets.1kuji.com/uploads/product_item/image/106906/4f1eda26-5637-40ab-9b22-cee5d3bbb8ce.webp",
+        "imagePath": "/series/official/auto-eva20-329d3bd745/last-797431a1ab4e5914.webp",
+        "sampleCount": 0,
+        "gallery": [
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9097/45f11a8c-7c78-4676-acbe-e1d46a9768cb.webp",
+            "imagePath": "/series/official/auto-eva20-329d3bd745/last-detail-1-4da86396a1327e93.webp"
+          },
+          {
+            "imageUrl": "https://assets.1kuji.com/uploads/product_item_sub_image/content/9098/87d56890-caba-4fe0-9816-7210ac76e952.webp",
+            "imagePath": "/series/official/auto-eva20-329d3bd745/last-detail-2-ebcbbc9d94a0e5cc.webp"
+          }
+        ],
+        "translationGenerated": [
+          "description",
+          "name"
+        ]
+      }
+    ],
+    "gallery": [],
+    "introducedRevision": 4,
+    "franchiseKo": "에반게리온",
+    "translationGenerated": [
+      "summary",
+      "title"
+    ],
+    "translationPending": false,
+    "translationLanguage": "ko"
   }
 ]
