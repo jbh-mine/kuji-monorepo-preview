@@ -1,6 +1,14 @@
 # 공식 쿠지 자료 자동 갱신
 
-공개 저장소 `jbh-mine/kuji-monorepo-preview`의 `.github/workflows/daily-catalog.yml`이 매일 `01:10 UTC`(한국/일본 10:10)에 예약됩니다. GitHub 예약 실행은 지연될 수 있으며, 2026-10-17~20에는 매일 성공했지만 실제 시작은 한국 시간 14:33~15:09였습니다. PC 실행 여부와 관계없이 동작하며 Actions의 **Run workflow**로 즉시 실행할 수도 있습니다. 자체 `GITHUB_TOKEN`만 사용하고 개인 토큰이나 비공개 소스를 공개 저장소에 복사하지 않습니다.
+공개 저장소 `jbh-mine/kuji-monorepo-preview`에서 `.github/workflows/catalog-clock.yml`이 매일 `19:47 UTC`(다음 날 한국/일본 04:47)에 조기 기동을 예약합니다. 타이머는 10:03까지 대기한 뒤 `workflow_dispatch` API로 `.github/workflows/daily-catalog.yml`을 실행합니다. 실제 갱신은 최신 `main`으로 자료·배포 파일을 준비하고, 같은 실행 환경에서 10:10까지 대기한 다음 Pages를 게시합니다. GitHub 예약 생성이 늦어지는 시간을 미리 흡수하며 PC 실행 여부와 관계없이 동작합니다.
+
+2026-10-17~20에는 예약 실행 생성 자체가 263~299분 늦었고, 생성 후 실행 환경 배정은 2~3초, 배포 완료는 71~79초였습니다. 04:47 조기 예약은 관측된 약 5시간 지연에도 09:47 전후 실행 환경 확보를 목표로 합니다. 즉시 기동되면 10:03까지 5시간 16분 대기하며, 타이머 작업 제한은 340분·개별 대기 제한은 320분으로 GitHub의 6시간 작업 한도 안에서 종료합니다. 긴 사전 대기는 일반 배포를 막지 않으며, 실제 준비·게시 구간만 배포 잠금을 공유합니다.
+
+기존 `01:10 UTC`(10:10) 예약은 복구용으로 유지합니다. 늦게 실행돼도 다음 날로 넘기지 않고 당일 목표를 즉시 복구합니다. 성공한 Pages 게시 뒤 `.github/catalog-publication.json`에 목표 시각·실제 게시 완료 시각·건강 상태·실행 번호를 기록합니다. 당일 10:10 이후 건강한 성공 게시가 있을 때만 중복 갱신을 생략합니다. 부분 갱신·실패는 복구 예약이 재시도할 수 있습니다. 일반 푸시와 수동 `immediate` 모드는 시각 대기 없이 게시하며 이 일일 완료 기록을 만들지 않습니다.
+
+외부 스케줄러·새 계정·개인 토큰을 사용하지 않습니다. 조기 타이머에만 같은 저장소의 워크플로를 실행할 `actions: write`와 소스 읽기 권한을 부여합니다. 공개 표준 Linux 실행 환경은 무료지만 사전 대기 동안 실행 환경을 점유합니다. GitHub 자체의 더 긴 예약 지연·누락이나 배포 장애까지 10:10 정시 게시를 보장하지는 않습니다. [예약 이벤트 특성](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule) · [작업 한도](https://docs.github.com/en/actions/reference/limits) · [내장 토큰의 workflow_dispatch](https://docs.github.com/en/actions/concepts/security/github_token)
+
+즉시 확인은 **Refresh official catalog and publish Pages → Run workflow → immediate**, 예약 경로 점검은 **Start the daily catalog clock early → Run workflow**를 사용합니다. 조기 타이머를 수동 실행하면 당일 10:03까지 실제 대기하므로, 정상적인 사전 기동 가능 시간대에 사용해야 합니다.
 
 `scripts/catalog_sync.py`는 Python 표준 라이브러리만 사용합니다. 기존 상품 모두를 확인하고 공식 발매 달력에서 지정한 인기 애니메이션 16개 작품의 새로운 쿠지를 최대 8개씩 추가합니다. 공식 일본어 원제를 보존하면서 이름·경품·사양·소개를 한국어로 표시합니다. 크기·종류·디자인 선택 여부·일본 정가·발매일·판매처·포스터·전체 경품·더블 찬스 자료를 갱신합니다. 원화 가격과 80장 배분은 프로그램 체험용입니다.
 
@@ -25,6 +33,6 @@ python -m unittest discover -s scripts/tests -v
 python scripts/catalog_sync.py --root frontend/public --no-discovery --dry-run
 ```
 
-공개 앱 배포 시 `frontend/dist/`의 앱 파일과 필요한 정적 자산을 공개 저장소로 복사하고, `catalog_sync.py`·`translation_ko.py`·테스트 및 예제 워크플로(`docs/daily-catalog.workflow.yml`)를 함께 갱신합니다. 이미 게시된 공식 이미지 파일을 삭제하지 않습니다. 일간 작업이 수집한 새 항목을 수동 앱 배포로 덮어쓰지 않도록 최신 공개 JSON·번역 캐시를 먼저 가져와 보존하고, 번들 기본 JSON으로 덮어쓰지 않습니다.
+공개 앱 배포 시 `frontend/dist/`의 앱 파일과 필요한 정적 자산을 공개 저장소로 복사하고, 수집·번역·시각 제어 스크립트와 테스트 및 두 예제 워크플로(`docs/daily-catalog.workflow.yml`, `docs/catalog-clock.workflow.yml`)를 함께 갱신합니다. 이미 게시된 공식 이미지 파일을 삭제하지 않습니다. 일간 작업이 수집한 새 항목을 수동 앱 배포로 덮어쓰지 않도록 최신 공개 JSON·번역 캐시를 먼저 가져와 보존하고, 번들 기본 JSON으로 덮어쓰지 않습니다.
 
 화면은 마지막 공식 확인 시각, 번역 대기 수, 24시간을 넘긴 갱신 지연 및 통신 실패를 안내합니다. ‘최신 정보 불러오기’는 게시된 자료를 다시 내려받는 기능이며 공식 사이트 수집 작업을 직접 실행하지 않습니다.

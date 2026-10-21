@@ -1,0 +1,32 @@
+name: Start the daily catalog clock early
+
+on:
+  schedule:
+    # Preceding day 19:47 UTC = 04:47 KST. Absorb schedule creation delays early.
+    - cron: '47 19 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  actions: write
+
+# This early wait cannot block a manual site publication.
+concurrency:
+  group: kuji-catalog-early-clock
+  cancel-in-progress: false
+
+jobs:
+  clock:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Dispatch collection at 10:03 KST for the 10:10 publication
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/catalog_schedule.py timer
