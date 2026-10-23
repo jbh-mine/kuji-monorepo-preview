@@ -366,6 +366,12 @@
       "translation": "머리까지 약 24cm(전고약 30cm)",
       "engine": "google-public-ja-ko+glossary",
       "preparedSource": "頭部まで약 24cm(全高약 30cm)"
+    },
+    "50ff39eef3938fb5292bea6cfe252743d4d7fd00277b80c59c994c0413428a68": {
+      "source": "一番くじ ハイキュー!! ASSEMBLE COLLECTION ～宮城県代表決定戦編～",
+      "translation": "제일복권 하이큐!! 어셈블 컬렉션 ～미야기현 대표 결정전편～",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "제일복권 하이큐!! 어셈블 컬렉션 ～宮城県代表決定戦編～"
     }
   }
 }
