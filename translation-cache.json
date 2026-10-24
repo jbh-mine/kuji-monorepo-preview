@@ -372,6 +372,30 @@
       "translation": "제일복권 하이큐!! 어셈블 컬렉션 ～미야기현 대표 결정전편～",
       "engine": "google-public-ja-ko+glossary",
       "preparedSource": "제일복권 하이큐!! 어셈블 컬렉션 ～宮城県代表決定戦編～"
+    },
+    "45bbb5f987266a29d19ab41b421ac59050196b3c35c5abd3135c5e04dce7a82e": {
+      "source": "メタルチャーム",
+      "translation": "금속 매력",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "メタルチャーム"
+    },
+    "eec8df4ba368c193ed47e7df4fefa8713bbe00d6c6955c2006dd093051f4a8d8": {
+      "source": "ラバーチャーム 約6cm、ラバーコースター 約10cm",
+      "translation": "고무 매력 약 6cm, 러버 코스터 약 10cm",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "ラバーチャーム 약 6cm、러버 코스터 약 10cm"
+    },
+    "03cbff23da419a22ad228ecb0683b7bbb986c3e630b882b633735318f7eb1c37": {
+      "source": "ミニ色紙",
+      "translation": "미니 컬러 종이",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "ミニ色紙"
+    },
+    "84bf39942200dca00ad7f1faa7b1ba147b7000ab6fc530f9f52599cb2af4f899": {
+      "source": "キャンペーン期間: 発売日~2027年03月末日",
+      "translation": "캠페인 기간: 발매일~2027년 03월 말일",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "キャンペーン期間: 발매일~2027년 03월 말일"
     }
   }
 }
