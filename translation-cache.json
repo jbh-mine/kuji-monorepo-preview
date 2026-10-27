@@ -396,6 +396,42 @@
       "translation": "캠페인 기간: 발매일~2027년 03월 말일",
       "engine": "google-public-ja-ko+glossary",
       "preparedSource": "キャンペーン期間: 발매일~2027년 03월 말일"
+    },
+    "60d5a50ae1ec11e64ca1d23e55ee55279b90b918f80a5c032a954a82c60947d7": {
+      "source": "一番くじ NARUTO-ナルト- 疾風伝 サスケvsイタチ編",
+      "translation": "제일복권 나루토 질풍전 사스케 vs 이타치편",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "제일복권 나루토 疾風伝 サスケvsイタチ編"
+    },
+    "5082efeefe2c12170eb554ee5e2b91cf753a322ba47f199a732699304e57b16b": {
+      "source": "2027年02月下旬発売予定",
+      "translation": "2027년 02월 하순 발매 예정",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "2027년 02월 下旬발매 예정"
+    },
+    "951e25fe4c5a37001e41e682bcf4b4fad71ceee83ce6d46f552116ad0f4b87d6": {
+      "source": "うちはサスケ 千鳥ver. MASTERLISE",
+      "translation": "우치하 사스케 치토리 ver. MASTERLISE",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "うちはサスケ 千鳥ver. MASTERLISE"
+    },
+    "60d365abacaa96083f8b45eb4f44f06fc8998b8f7fdd63804096ba5a0eaf999b": {
+      "source": "うちはイタチ MASTERLISE",
+      "translation": "우치하 이타치 MASTERLISE",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "うちはイタチ MASTERLISE"
+    },
+    "890cf7252d529088ea75e6a81831620ab44a87872ac6e44b1501d6b225ffb995": {
+      "source": "干柿鬼鮫 MASTERLISE",
+      "translation": "간감 오니 상어 MASTERLISE",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "干柿鬼鮫 MASTERLISE"
+    },
+    "9eabe3796481d02d388215446c54a3fb602c45ea1755c462f415efc9631cf657": {
+      "source": "鮫肌 MASTERLISE",
+      "translation": "상어 피부 MASTERLISE",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "鮫肌 MASTERLISE"
     }
   }
 }
