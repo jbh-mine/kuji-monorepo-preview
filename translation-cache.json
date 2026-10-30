@@ -432,6 +432,78 @@
       "translation": "상어 피부 MASTERLISE",
       "engine": "google-public-ja-ko+glossary",
       "preparedSource": "鮫肌 MASTERLISE"
+    },
+    "9cf4d5de9bfb7fb86ff16b69b6486a8e8fc4eb349956deea948bec273cdcebf0": {
+      "source": "ファミリーマート、ミニストップ、デイリーヤマザキ、その他コンビニエンスストア、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなど",
+      "translation": "패밀리마트, 미니스톱, 데일리 야마자키, 기타편의점, 하비숍, 제일복권 공식 매장, 제일복권 온라인 등",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "패밀리마트、미니스톱、데일리 야마자키、その他편의점、하비숍、제일복권 공식 매장、제일복권 온라인등"
+    },
+    "5aad9eb462984e621a9aacc37df6872297a2782b59d68f9c142ada2ab5444fa5": {
+      "source": "ランチのティッシュケース",
+      "translation": "점심 티슈 케이스",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "ランチのティッシュケース"
+    },
+    "6775691ed01754fd9d903e2931641e4a5a50914bf9323b9953c9f3c0ce47bc0b": {
+      "source": "扉絵風ブランケット",
+      "translation": "문화풍담요",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "扉絵風담요"
+    },
+    "269dc207069afd53e8081a36047b3503f69f22f2c6f3056a081f3fd297e0b904": {
+      "source": "お茶碗",
+      "translation": "찻잔",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "お茶碗"
+    },
+    "9d7a469d8d2be87341340a0ddcdf7d341bdedf427e059a06e48c520031c1df67": {
+      "source": "ちらりんフレンズ",
+      "translation": "치라린 프렌즈",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "ちらりんフレンズ"
+    },
+    "77a640038576aa8d570b1a1b8d8d09eb1e67b2eb47c3df1c59e1a28c9c0bf3da": {
+      "source": "アクリルマグネット",
+      "translation": "아크릴 자석",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "アクリルマグネット"
+    },
+    "8af620f938ff2208b8c421fa24518140ac0fddba48fbaa515b2525ed63d88dff": {
+      "source": "巾着・タオルアソート",
+      "translation": "건착·타월 아소트",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "巾着・타월アソート"
+    },
+    "0c4c3cb17f00fe4a5113184f2dfcef4ddb0be99027a6c2495a45dd41409ccd2b": {
+      "source": "タオル 約19cm、巾着 約15cm",
+      "translation": "타월 약 19cm, 건착 약 15cm",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "타월 약 19cm、巾着 약 15cm"
+    },
+    "b86efcde40b407356d923b212a2399192944e2ea9402190b9feabe2934abaea8": {
+      "source": "ラバーアソート",
+      "translation": "고무 어소트",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "ラバーアソート"
+    },
+    "2aba1f2a4693259f5234435f9656b27da529277ad72eaf6cc469aefc9617e8b9": {
+      "source": "ラバータイ 約13cm、輪郭ストラップ 約9cm、ラバークリップ 約8cm",
+      "translation": "러버 타이 약 13cm, 윤곽 스트랩 약 9cm, 고무 클립 약 8cm",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "러버 타이 약 13cm、輪郭스트랩 약 9cm、ラバークリップ 약 8cm"
+    },
+    "5905039005246f86310035d4e20b40efdaf0b1223fab04a577ade9e2c198b0c0": {
+      "source": "ジッパーバッグ＆ステッカーセット",
+      "translation": "지퍼 가방 & 스티커 세트",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "ジッパーバッグ＆스티커セット"
+    },
+    "e780d984b497408f781a63822d7d8472c05ac49dfcc8a1e8247c4dcd06704337": {
+      "source": "ジッパーバッグ 約15cm、ステッカー 約5.5cm(4枚セット)",
+      "translation": "지퍼 가방 약 15cm, 스티커 약 5.5cm (4장 세트)",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "ジッパーバッグ 약 15cm、스티커 약 5.5cm(4장 세트)"
     }
   }
 }
