@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-10-30T10:03:29+09:00",
-  "lastSuccessAt": "2026-10-30T10:03:29+09:00",
+  "checkedAt": "2026-10-31T10:03:30+09:00",
+  "lastSuccessAt": "2026-10-31T10:03:30+09:00",
   "status": "ok",
   "checked": 35,
   "released": 17,
   "upcoming": 18,
   "added": 0,
-  "updated": 1,
+  "updated": 2,
   "failed": 0,
   "errors": [],
   "discovery": {
@@ -22,8 +22,8 @@
   "translation": {
     "language": "ko",
     "pending": 0,
-    "requests": 12,
-    "cacheHits": 74,
+    "requests": 3,
+    "cacheHits": 88,
     "failedRequests": 0,
     "errors": []
   }
