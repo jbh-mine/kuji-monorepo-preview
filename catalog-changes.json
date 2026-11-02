@@ -1,8 +1,38 @@
 {
   "version": 1,
   "startedAt": "2026-11-02T17:27:34+09:00",
-  "updatedAt": "2026-11-02T17:27:34+09:00",
+  "updatedAt": "2026-11-02T17:47:09+09:00",
   "events": [
+    {
+      "id": "724af881401082ed36b90cfc",
+      "transition": "724af881401082ed36b90cfc",
+      "at": "2026-11-02T17:47:09+09:00",
+      "code": "AUTO_NARUTO12_DFF2AEBE8C",
+      "type": "details",
+      "titleKo": "제일복권 나루토 질풍전 사스케 vs 이타치편",
+      "titleJp": "一番くじ NARUTO-ナルト- 疾風伝 サスケvsイタチ編",
+      "franchiseKo": "나루토",
+      "summary": "포스터·경품 이미지 또는 상품 설명이 갱신됐습니다.",
+      "before": "",
+      "after": "상품·경품 정보 갱신",
+      "sourceUrl": "https://1kuji.com/products/naruto12",
+      "sequence": 11
+    },
+    {
+      "id": "83e64e14b44dda03daaac2ff",
+      "transition": "83e64e14b44dda03daaac2ff",
+      "at": "2026-11-02T17:47:09+09:00",
+      "code": "AUTO_NARUTO12_DFF2AEBE8C",
+      "type": "japan-date",
+      "titleKo": "제일복권 나루토 질풍전 사스케 vs 이타치편",
+      "titleJp": "一番くじ NARUTO-ナルト- 疾風伝 サスケvsイタチ編",
+      "franchiseKo": "나루토",
+      "summary": "일본 발매 일정이 변경됐습니다.",
+      "before": "2027년 02월 하순 발매 예정",
+      "after": "2027.02.27",
+      "sourceUrl": "https://1kuji.com/products/naruto12",
+      "sequence": 10
+    },
     {
       "id": "c3d19752286f8912c8f65d18",
       "transition": "c3d19752286f8912c8f65d18",

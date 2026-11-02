@@ -600,6 +600,18 @@
       "translation": "우수 천원 MASTERLISE",
       "engine": "google-public-ja-ko+glossary",
       "preparedSource": "宇髄天元 MASTERLISE"
+    },
+    "a0fac06b7603057b2f22a261f887aa354835a4527f12fd84bdeb5c6f7e82d799": {
+      "source": "うちはサスケ 呪印状態2 MASTERLISE",
+      "translation": "우치하 사스케 주인 상태 2 MASTERLISE",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "うちはサスケ 呪印状態2 MASTERLISE"
+    },
+    "705308a5323d614f607c040095af467ba3d2eab9b88a260bf914d53d2d8012ad": {
+      "source": "須佐能乎（イタチver.） MASTERLISE",
+      "translation": "스사 노유키 (이타치 ver.) MASTERLISE",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "須佐能乎（イタチver.） MASTERLISE"
     }
   }
 }
