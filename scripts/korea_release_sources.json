@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "productSourceUrl": "https://1kuji.com/products/myhero47",
+      "sourceUrl": "https://x.com/ICHIBAN_KUJI_/status/2113235842068275240",
+      "aliases": [
+        "나의 히어로 아카데미아 ~그가 최고의 히어로가 되기까지의 이야기~",
+        "나의 히어로 아카데미아 그가 최고의 히어로가 되기까지의 이야기"
+      ],
+      "sourceType": "official",
+      "sourceName": "이치방쿠지 공식 직영점",
+      "dateKind": "release"
+    },
+    {
+      "productSourceUrl": "https://1kuji.com/products/hxh11",
+      "sourceUrl": "https://x.com/ICHIBAN_KUJI_/status/2112810684815978608",
+      "aliases": [
+        "헌터X헌터 ~GREED ISLAND ②~",
+        "헌터X헌터 GREED ISLAND ②"
+      ],
+      "sourceType": "official",
+      "sourceName": "이치방쿠지 공식 직영점",
+      "dateKind": "release"
+    },
+    {
+      "productSourceUrl": "https://1kuji.com/products/chainsawman3",
+      "sourceUrl": "https://x.com/ICHIBAN_KUJI_/status/2110215146450866591",
+      "aliases": [
+        "체인소맨 ~극장판 SECOND~",
+        "체인소맨 극장판 SECOND"
+      ],
+      "sourceType": "official",
+      "sourceName": "이치방쿠지 공식 직영점",
+      "dateKind": "release"
+    },
+    {
+      "productSourceUrl": "https://1kuji.com/products/onep104",
+      "sourceUrl": "https://x.com/ICHIBAN_KUJI_/status/2093282869938651424",
+      "aliases": [
+        "원피스 -엘바프 편-  자이언트 배시!! VOL.2",
+        "원피스 -엘바프 편- 자이언트 배시!! VOL.2"
+      ],
+      "sourceType": "official",
+      "sourceName": "이치방쿠지 공식 직영점",
+      "dateKind": "release"
+    },
+    {
+      "productSourceUrl": "https://1kuji.com/products/kimetsu30",
+      "sourceUrl": "https://x.com/ICHIBAN_KUJI_/status/2088192971800023306",
+      "aliases": [
+        "귀멸의 칼날 ~상현2~",
+        "귀멸의 칼날 상현2"
+      ],
+      "sourceType": "official",
+      "sourceName": "이치방쿠지 공식 직영점",
+      "dateKind": "release"
+    },
+    {
+      "productSourceUrl": "https://1kuji.com/products/naruto11",
+      "sourceUrl": "https://www.instagram.com/p/DfB961xh-Kp/",
+      "sourceAccount": "__morammoram",
+      "aliases": [
+        "나루토VS히단 카쿠즈편"
+      ],
+      "sourceType": "retailer",
+      "sourceName": "모람모람 안양점",
+      "dateKind": "arrival"
+    },
+    {
+      "productSourceUrl": "https://1kuji.com/products/onep_o12",
+      "sourceUrl": "https://www.instagram.com/p/DfB961xh-Kp/",
+      "sourceAccount": "__morammoram",
+      "aliases": [
+        "원피스 -하늘에서 울려퍼지는 러브송-"
+      ],
+      "sourceType": "retailer",
+      "sourceName": "모람모람 안양점",
+      "dateKind": "arrival"
+    },
+    {
+      "productSourceUrl": "https://1kuji.com/products/db_z8",
+      "sourceUrl": "https://www.instagram.com/p/DfBxN92ksf7/",
+      "sourceAccount": "thekuhouse",
+      "aliases": [
+        "드래곤볼 SPIRIT OF THE SAIYAN"
+      ],
+      "sourceType": "retailer",
+      "sourceName": "더쿠하우스 국전점",
+      "dateKind": "release"
+    },
+    {
+      "productSourceUrl": "https://1kuji.com/products/fairytail",
+      "sourceUrl": "https://www.instagram.com/p/DfByAgDks3m/",
+      "sourceAccount": "thekuhouse",
+      "aliases": [
+        "FAIRY TAIL 20th ANNIVERSARY"
+      ],
+      "sourceType": "retailer",
+      "sourceName": "더쿠하우스 국전점",
+      "dateKind": "release"
+    }
+  ]
+}

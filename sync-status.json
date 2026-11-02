@@ -21,13 +21,15 @@
   },
   "korea": {
     "status": "ok",
-    "checkedAt": "2026-11-02T14:31:14+09:00",
-    "lastSuccessAt": "2026-11-02T14:31:14+09:00",
-    "confirmed": 6,
-    "unconfirmed": 31,
-    "checked": 6,
+    "checkedAt": "2026-11-02T15:24:50+09:00",
+    "lastSuccessAt": "2026-11-02T15:24:50+09:00",
+    "confirmed": 15,
+    "unconfirmed": 22,
+    "checked": 15,
     "failed": 0,
-    "errors": []
+    "errors": [],
+    "officialConfirmed": 11,
+    "retailerConfirmed": 4
   },
   "translation": {
     "language": "ko",
