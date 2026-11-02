@@ -6,6 +6,10 @@
 
 일본 정보와 한국 발매일은 같은 일일 게시 작업에서 독립적으로 수집합니다. `catalog_sync.py` 다음에 `korea_release_sync.py --root .`를 실행합니다. 한국의 기본 출처는 대원미디어 공식 사이트가 연결하는 이치방쿠지 공식 계정 `@ICHIBAN_KUJI_`의 직영점 판매 개시 공지이며, 검증된 국내 판매처 일정은 출처 이름을 따로 표시합니다. 전국 모든 판매처의 동일 발매일을 의미하지 않습니다.
 
+수집 전 `official-catalog.json`을 실행 환경의 임시 파일로 복사한 뒤, 일본·한국 수집을 모두 마치면 `python scripts/catalog_changes.py --root . --before "$RUNNER_TEMP/catalog-before.json"`을 실행합니다. `catalog-changes.json`에는 신규 회차, 일본 일정 변경·발매중 전환, 한국 일정 확인·변경·근거 교체, 포스터·경품·설명 변경만 최근 300건까지 저장합니다. 확인 시각·번역 캐시 통계·체험 수량 변경은 기록하지 않습니다. 한국 입고예정일은 해당 판매처 이름과 함께 보존하며 전국 발매일로 바꾸지 않습니다. 같은 변경은 안정적인 식별자로 중복 제거하고, 입력이나 기존 이력이 손상되면 이전 이력을 덮어쓰지 않고 작업 실패를 보고합니다. 이력 수집 실패도 `sync-status.json`의 `changes` 상태와 전체 부분 실패에 반영해 다음 복구 실행이 다시 시도합니다.
+
+공개 변경 내역 화면은 이 전역 이력을 읽고 변경 종류·제목·찜 또는 관심 작품으로 필터링합니다. 기록 시각은 변경 사항을 관측한 한국 시각이며 원 공지의 게시 시각을 의미하지 않습니다. 기록 시작 이전의 변경 내역을 추정해 채우지 않습니다. 공개 앱을 배포할 때 `catalog-changes.json`도 반드시 보존·게시하고, 일일 작업의 커밋 및 `_site/` 조립 대상에 포함합니다.
+
 한국 수집은 WAKUWAKU 한국 목록에서 공지 ID와 회차 제목만 발견한 뒤, 공식 `publish.twitter.com`/`publish.x.com` oEmbed의 계정·전체 상품명·판매 개시 문구·게시 연도·요일을 검증합니다. 등록한 국내 판매처의 Instagram 원문은 정확한 HTTPS 게시물 경로만 요청하고 `og:description`의 게시 계정·연월일·회차별 날짜 문구를 확인합니다. 여러 상품이 섞인 달력은 해당 회차 행의 날짜만 적용하고, 판매시각 블록의 일자만 나온 경우 게시 월·요일·유일한 날짜 후보를 교차 검증합니다. 발견용 목록의 날짜·가격·작품 전체 링크는 확정 근거로 쓰지 않습니다. 같은 제목을 가진 여러 회차, 연도·날짜가 불명확한 공지는 임의 연결하지 않습니다. 외부 로그인 계정·토큰은 사용하지 않으며 요청은 허용된 HTTPS 경로, 최대 40회·120초·기본 응답 1MiB(등록 Instagram 원문만 2MiB)로 제한합니다.
 
 확인된 한국 날짜는 `koreaReleaseDate`·`koreaReleaseDatePrecision`·`koreaReleaseDateText`·`koreaReleaseSourceUrl`·`koreaReleaseCheckedAt`로 일본 `releaseDate`와 별도 저장합니다. 출처와 확인 시각을 상세 화면에서 표시합니다. 미확인 날짜는 일본 날짜나 등록일로 대신 채우지 않습니다. 한국 수집 상태·확인/미확인 종수는 `sync-status.json`의 `korea`에 기록하며 오류가 나면 기존 확정 정보를 보존하고 게시 뒤 실패 상태를 보고합니다. 한국 일정 갱신은 일본 기준 발매 상태나 기존 당첨·예약·이미지 기록을 바꾸지 않습니다.
@@ -41,6 +45,8 @@ npm test
 npm run build:pages
 python -m unittest discover -s scripts/tests -v
 python scripts/catalog_sync.py --root frontend/public --no-discovery --dry-run
+# 수집 전 복사한 JSON과 수집 후 자료의 변경 내역만 생성
+python scripts/catalog_changes.py --root frontend/public --before catalog-before.json
 ```
 
 공개 앱 배포 시 `frontend/dist/`의 앱 파일과 필요한 정적 자산을 공개 저장소로 복사하고, 수집·번역·시각 제어 스크립트와 테스트 및 두 예제 워크플로(`docs/daily-catalog.workflow.yml`, `docs/catalog-clock.workflow.yml`)를 함께 갱신합니다. 이미 게시된 공식 이미지 파일을 삭제하지 않습니다. 일간 작업이 수집한 새 항목을 수동 앱 배포로 덮어쓰지 않도록 최신 공개 JSON·번역 캐시를 먼저 가져와 보존하고, 번들 기본 JSON으로 덮어쓰지 않습니다.

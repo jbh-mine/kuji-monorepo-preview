@@ -10,6 +10,7 @@ on:
       - 'index.html'
       - 'assets/**'
       - 'official-catalog.json'
+      - 'catalog-changes.json'
   schedule:
     # Recovery trigger; the early clock normally dispatches collection at 10:03 KST.
     - cron: '10 1 * * *'
@@ -74,6 +75,8 @@ jobs:
           python-version: '3.12'
       - name: Verify catalog updater and scheduling boundaries
         run: python -m unittest discover -s scripts/tests -v
+      - name: Preserve the catalog before either country refreshes
+        run: cp official-catalog.json "$RUNNER_TEMP/catalog-before.json"
       - name: Refresh official product information
         id: sync
         # Preserve and publish the health report even when every official request fails.
@@ -83,11 +86,16 @@ jobs:
         id: korea
         continue-on-error: true
         run: python scripts/korea_release_sync.py --root .
+      - name: Record meaningful changes from both country refreshes
+        id: changes
+        continue-on-error: true
+        run: python scripts/catalog_changes.py --root . --before "$RUNNER_TEMP/catalog-before.json"
       - name: Validate retained public catalog and health report
         id: health
         env:
           SYNC_OUTCOME: ${{ steps.sync.outcome }}
           KOREA_OUTCOME: ${{ steps.korea.outcome }}
+          CHANGES_OUTCOME: ${{ steps.changes.outcome }}
         run: |
           python - <<'PY'
           import json, os
@@ -98,17 +106,21 @@ jobs:
               status['korea'] = {**status.get('korea', {}), 'status': 'failed'}
               if status.get('status') == 'ok': status['status'] = 'partial'
               Path('sync-status.json').write_text(json.dumps(status, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          status['changes'] = {'status': 'ok' if os.environ['CHANGES_OUTCOME'] == 'success' else 'failed'}
+          if os.environ['CHANGES_OUTCOME'] != 'success' and status.get('status') == 'ok':
+              status['status'] = 'partial'
+          Path('sync-status.json').write_text(json.dumps(status, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
           assert isinstance(catalog, list) and catalog, 'Never publish an empty catalog'
           assert status['status'] in {'ok', 'partial', 'failed'}
           pending = sum(bool(product.get('translationPending')) for product in catalog)
-          needs_attention = (os.environ['SYNC_OUTCOME'] != 'success' or os.environ['KOREA_OUTCOME'] != 'success' or status['status'] != 'ok'
+          needs_attention = (os.environ['SYNC_OUTCOME'] != 'success' or os.environ['KOREA_OUTCOME'] != 'success' or os.environ['CHANGES_OUTCOME'] != 'success' or status['status'] != 'ok'
                              or status.get('korea', {}).get('status') != 'ok'
                              or status['failed'] != 0 or pending != 0
                              or status.get('translation', {}).get('pending', 0) != pending)
           report = json.dumps({'status': status['status'], 'checked': status['checked'],
                                'added': status['added'], 'failed': status['failed'],
                                'translationPending': pending,
-                               'korea': status.get('korea', {})}, separators=(',', ':'))
+                               'korea': status.get('korea', {}), 'changes': status['changes']}, separators=(',', ':'))
           print('Catalog check: ' + report)
           with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as output:
               output.write(f'needs_attention={str(needs_attention).lower()}\nhealth_report={report}\n')
@@ -117,7 +129,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- official-catalog.json sync-status.json translation-cache.json series/official
+          git add -- official-catalog.json sync-status.json catalog-changes.json translation-cache.json series/official
           if ! git diff --cached --quiet; then
             git commit -m "Refresh official kuji catalog"
             git push origin HEAD:main
@@ -125,7 +137,7 @@ jobs:
       - name: Assemble the existing static application with refreshed data
         run: |
           mkdir _site
-          cp index.html official-catalog.json sync-status.json _site/
+          cp index.html official-catalog.json sync-status.json catalog-changes.json _site/
           cp -R assets series _site/
           find . -maxdepth 1 -type f \( -name '*.svg' -o -name '*.ico' -o -name '*.png' -o -name '*.txt' -o -name '.nojekyll' \) -exec cp {} _site/ \;
       - uses: actions/configure-pages@v5
@@ -161,5 +173,5 @@ jobs:
           HEALTH_REPORT: ${{ steps.health.outputs.health_report }}
         run: |
           printf '%s\n' "$HEALTH_REPORT"
-          echo '::error::Official refresh or Korean translation is incomplete. Retained data and health status were published; the next daily run will retry.'
+          echo '::error::Official refresh, Korean translation or change recording is incomplete. Retained data and health status were published; the next daily run will retry.'
           exit 1
