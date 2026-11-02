@@ -343,6 +343,18 @@ class TransactionTests(unittest.TestCase):
         self.assertEqual(saved["checkedAt"], "2026-10-16")
         self.assertTrue(all(sync.safe_asset_path(self.root, path).exists() for _, path in sync.image_refs(saved)))
 
+    def test_japanese_refresh_retains_country_facts_and_last_success_without_counting_old_failures(self):
+        self.original.update({"koreaReleaseDate": "2026-09-24", "koreaReleaseDatePrecision": "day",
+                              "koreaReleaseSourceUrl": "https://x.com/ICHIBAN_KUJI_/status/2102270576467521960"})
+        sync.atomic_json(self.catalog_path, [self.original])
+        sync.atomic_json(self.status_path, {"status": "partial", "failed": 3,
+                         "korea": {"failed": 3, "lastSuccessAt": "2026-10-15T10:03:00+09:00"}})
+        result = sync.sync_catalog(self.root, self.catalog_path, self.status_path, fetch=FakeFetcher(), now=NOW, discover=False)
+        self.assertEqual(result["failed"], 0)
+        self.assertEqual(result["korea"], {"lastSuccessAt": "2026-10-15T10:03:00+09:00", "failed": 0})
+        self.assertEqual(self.read_catalog()[0]["koreaReleaseDate"], "2026-09-24")
+        self.assertEqual(self.read_catalog()[0]["koreaReleaseSourceUrl"], self.original["koreaReleaseSourceUrl"])
+
     def test_store_only_page_preserves_known_online_release_from_additional_official_source(self):
         self.original["onlineReleaseDate"] = "2026-09-21"
         sync.atomic_json(self.catalog_path, [self.original])

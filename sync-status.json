@@ -26,5 +26,15 @@
     "cacheHits": 103,
     "failedRequests": 0,
     "errors": []
+  },
+  "korea": {
+    "status": "ok",
+    "checkedAt": "2026-11-02T14:20:20+09:00",
+    "lastSuccessAt": "2026-11-02T14:20:20+09:00",
+    "confirmed": 6,
+    "unconfirmed": 31,
+    "checked": 6,
+    "failed": 0,
+    "errors": []
   }
 }

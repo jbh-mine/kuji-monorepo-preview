@@ -642,6 +642,11 @@ def sync_catalog(root: Path, catalog_path: Path, status_path: Path, *, fetch: Ca
               "status": "ok", "checked": 0, "released": 0, "upcoming": 0, "added": 0, "updated": 0,
               "failed": 0, "errors": [], "discovery": {"checkedPages": 0, "found": 0, "deferred": 0},
               "schedule": {"timezone": "Asia/Seoul", "hour": 10, "minute": 10}}
+    previous_korea = old_status.get("korea")
+    if isinstance(previous_korea, dict):
+        # This run's failure total is new. Preserve the country's last success
+        # without counting yesterday's Korean failures in today's Japanese total.
+        status["korea"] = {"lastSuccessAt": previous_korea.get("lastSuccessAt"), "failed": 0}
     known: dict[str, int] = {}
     for index, item in enumerate(catalog):
         source = product_url(item.get("sourceUrl", ""))
