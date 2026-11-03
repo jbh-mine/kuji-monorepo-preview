@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-11-02T17:46:20+09:00",
-  "lastSuccessAt": "2026-11-02T17:46:20+09:00",
+  "checkedAt": "2026-11-03T10:47:05+09:00",
+  "lastSuccessAt": "2026-11-03T10:47:05+09:00",
   "status": "ok",
   "checked": 37,
   "released": 17,
   "upcoming": 20,
   "added": 0,
-  "updated": 1,
+  "updated": 0,
   "failed": 0,
   "errors": [],
   "discovery": {
@@ -21,8 +21,8 @@
   },
   "korea": {
     "status": "ok",
-    "checkedAt": "2026-11-02T17:47:05+09:00",
-    "lastSuccessAt": "2026-11-02T17:47:05+09:00",
+    "checkedAt": "2026-11-03T10:48:09+09:00",
+    "lastSuccessAt": "2026-11-03T10:48:09+09:00",
     "confirmed": 15,
     "unconfirmed": 22,
     "checked": 15,
@@ -34,8 +34,8 @@
   "translation": {
     "language": "ko",
     "pending": 0,
-    "requests": 2,
-    "cacheHits": 104,
+    "requests": 0,
+    "cacheHits": 106,
     "failedRequests": 0,
     "errors": []
   },
