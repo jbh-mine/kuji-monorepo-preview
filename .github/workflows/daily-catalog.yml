@@ -10,6 +10,7 @@ on:
       - 'index.html'
       - 'assets/**'
       - 'official-catalog.json'
+      - 'account-sync-config.json'
       - 'catalog-changes.json'
   schedule:
     # Recovery trigger; the early clock normally dispatches collection at 10:03 KST.
@@ -75,6 +76,8 @@ jobs:
           python-version: '3.12'
       - name: Verify catalog updater and scheduling boundaries
         run: python -m unittest discover -s scripts/tests -v
+      - name: Validate public account sync configuration
+        run: python scripts/account_sync_config.py --root .
       - name: Preserve the catalog before either country refreshes
         run: cp official-catalog.json "$RUNNER_TEMP/catalog-before.json"
       - name: Refresh official product information
@@ -137,7 +140,7 @@ jobs:
       - name: Assemble the existing static application with refreshed data
         run: |
           mkdir _site
-          cp index.html official-catalog.json sync-status.json catalog-changes.json _site/
+          cp index.html official-catalog.json sync-status.json catalog-changes.json account-sync-config.json _site/
           cp -R assets series _site/
           find . -maxdepth 1 -type f \( -name '*.svg' -o -name '*.ico' -o -name '*.png' -o -name '*.txt' -o -name '.nojekyll' \) -exec cp {} _site/ \;
       - uses: actions/configure-pages@v5
