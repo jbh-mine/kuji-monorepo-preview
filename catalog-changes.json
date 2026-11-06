@@ -1,8 +1,23 @@
 {
   "version": 1,
   "startedAt": "2026-11-02T17:27:34+09:00",
-  "updatedAt": "2026-11-05T10:04:25+09:00",
+  "updatedAt": "2026-11-06T10:04:39+09:00",
   "events": [
+    {
+      "id": "ea2bf2fe5e69236d0e56a09e",
+      "transition": "ea2bf2fe5e69236d0e56a09e",
+      "at": "2026-11-06T10:04:39+09:00",
+      "code": "AUTO_JOJO_24_2_FE32EF3FC6",
+      "type": "added",
+      "titleKo": "제일복권 죠죠의 기묘한 모험 The Gathering of STARS（재판매）",
+      "titleJp": "一番くじ ジョジョの奇妙な冒険 The Gathering of STARS（再販売）",
+      "franchiseKo": "죠죠의 기묘한 모험",
+      "summary": "새 쿠지 정보가 추가됐습니다.",
+      "before": "",
+      "after": "2027.03.06",
+      "sourceUrl": "https://1kuji.com/products/jojo_24-2",
+      "sequence": 13
+    },
     {
       "id": "7e088d1ef8a13157191bc1b7",
       "transition": "7e088d1ef8a13157191bc1b7",
