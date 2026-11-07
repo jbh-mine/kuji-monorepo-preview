@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "targetAt": "2026-11-06T10:10:00+09:00",
-  "publishedAt": "2026-11-06T10:10:11+09:00",
-  "healthy": true,
-  "runId": "42141142682"
+  "targetAt": "2026-11-07T10:10:00+09:00",
+  "publishedAt": "2026-11-07T10:10:12+09:00",
+  "healthy": false,
+  "runId": "42321857228"
 }
