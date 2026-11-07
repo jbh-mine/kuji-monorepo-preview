@@ -708,6 +708,18 @@
       "translation": "캠페인 기간: 발매일~2027년 06월 말일",
       "engine": "google-public-ja-ko+glossary",
       "preparedSource": "キャンペーン期間: 발매일~2027년 06월 말일"
+    },
+    "5c69734898096ec531b0d687aff6ab91052eac9772be873108364694c72c5b45": {
+      "source": "アスカのパペット MASTERELIVE COLLECTION",
+      "translation": "아스카의 퍼펫 MASTERELIVE COLLECTION",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "アスカのパペット MASTERELIVE COLLECTION"
+    },
+    "7c870c9d4d3201a089eef361f143a6d02eac025bb97577689d762fc54b607620": {
+      "source": "クリアファイル＆ステッカーセット",
+      "translation": "클리어 파일 & 스티커 세트",
+      "engine": "google-public-ja-ko+glossary",
+      "preparedSource": "클리어 파일＆스티커セット"
     }
   }
 }

@@ -1,8 +1,38 @@
 {
   "version": 1,
   "startedAt": "2026-11-02T17:27:34+09:00",
-  "updatedAt": "2026-11-06T10:04:39+09:00",
+  "updatedAt": "2026-11-07T10:04:14+09:00",
   "events": [
+    {
+      "id": "52b666c58d9b8c19586e1978",
+      "transition": "52b666c58d9b8c19586e1978",
+      "at": "2026-11-07T10:04:14+09:00",
+      "code": "AUTO_EVA20_329D3BD745",
+      "type": "details",
+      "titleKo": "제일복권 에반게리온 신극장판: 파",
+      "titleJp": "一番くじ ヱヴァンゲリヲン新劇場版：破",
+      "franchiseKo": "에반게리온",
+      "summary": "전체 경품 구성과 상세 정보가 공개됐습니다.",
+      "before": "",
+      "after": "전체 경품 공개",
+      "sourceUrl": "https://1kuji.com/products/eva20",
+      "sequence": 15
+    },
+    {
+      "id": "d0c964b6c765c0e8449a0ca3",
+      "transition": "d0c964b6c765c0e8449a0ca3",
+      "at": "2026-11-07T10:04:14+09:00",
+      "code": "AUTO_DB_AC_2_C177AE1EAF",
+      "type": "details",
+      "titleKo": "제일복권 드래곤볼 어셈블 컬렉션 ～손오공 소년기편～（재판매）",
+      "titleJp": "一番くじ ドラゴンボール ASSEMBLE COLLECTION ～孫悟空少年期編～（再販売）",
+      "franchiseKo": "드래곤볼",
+      "summary": "포스터·경품 이미지 또는 상품 설명이 갱신됐습니다.",
+      "before": "",
+      "after": "상품·경품 정보 갱신",
+      "sourceUrl": "https://1kuji.com/products/db_ac-2",
+      "sequence": 14
+    },
     {
       "id": "ea2bf2fe5e69236d0e56a09e",
       "transition": "ea2bf2fe5e69236d0e56a09e",
