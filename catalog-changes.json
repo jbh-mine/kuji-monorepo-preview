@@ -1,8 +1,23 @@
 {
   "version": 1,
   "startedAt": "2026-11-02T17:27:34+09:00",
-  "updatedAt": "2026-11-07T10:04:14+09:00",
+  "updatedAt": "2026-11-09T16:56:15+09:00",
   "events": [
+    {
+      "id": "2c2721ed010a7d500994183c",
+      "transition": "2c2721ed010a7d500994183c",
+      "at": "2026-11-09T16:56:15+09:00",
+      "code": "AUTO_DB_SC3_C8446CB542",
+      "type": "japan-date",
+      "titleKo": "제일복권 드래곤볼 DRAGONBALL SNAP COLLECTION3",
+      "titleJp": "一番くじ ドラゴンボール DRAGONBALL SNAP COLLECTION3",
+      "franchiseKo": "드래곤볼",
+      "summary": "일본 발매 일정이 변경됐습니다.",
+      "before": "2027년 03월 중순 발매 예정",
+      "after": "2027.03.13",
+      "sourceUrl": "https://1kuji.com/products/db_sc3",
+      "sequence": 16
+    },
     {
       "id": "52b666c58d9b8c19586e1978",
       "transition": "52b666c58d9b8c19586e1978",
