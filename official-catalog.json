@@ -343,7 +343,7 @@
     "introducedRevision": 3,
     "franchiseCode": "HUNTER_HUNTER",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "retailersJp": "ファミリーマート、書店、ホビーショップ、一番くじ公式ショップなど",
     "releaseDateTextJp": "2026年08月29日(土)より順次発売予定",
     "translationGenerated": [],
@@ -355,7 +355,7 @@
     "koreaReleaseDatePrecision": "day",
     "koreaReleaseDateText": "이치방쿠지 공식 직영점 공지: 10월 23일(금) 판매 개시합니다!",
     "koreaReleaseSourceUrl": "https://x.com/ICHIBAN_KUJI_/status/2112810684815978608",
-    "koreaReleaseCheckedAt": "2026-11-10T11:24:55+09:00",
+    "koreaReleaseCheckedAt": "2026-11-10T17:24:15+09:00",
     "koreaReleaseSourceType": "official",
     "koreaReleaseSourceName": "이치방쿠지 공식 직영점",
     "koreaReleaseDateKind": "release"
@@ -683,7 +683,7 @@
     "introducedRevision": 3,
     "franchiseCode": "MY_HERO_ACADEMIA",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "retailersJp": "ファミリーマート、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなど",
     "releaseDateTextJp": "2026年09月12日(土)より順次発売予定",
     "translationGenerated": [],
@@ -695,7 +695,7 @@
     "koreaReleaseDatePrecision": "day",
     "koreaReleaseDateText": "이치방쿠지 공식 직영점 공지: 10월 24일(토) 판매 개시",
     "koreaReleaseSourceUrl": "https://x.com/ICHIBAN_KUJI_/status/2113235842068275240",
-    "koreaReleaseCheckedAt": "2026-11-10T11:24:55+09:00",
+    "koreaReleaseCheckedAt": "2026-11-10T17:24:15+09:00",
     "koreaReleaseSourceType": "official",
     "koreaReleaseSourceName": "이치방쿠지 공식 직영점",
     "koreaReleaseDateKind": "release"
@@ -958,7 +958,7 @@
     "introducedRevision": 2,
     "franchiseCode": "DEMON_SLAYER",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "ageJp": "15세 이상",
     "retailersJp": "一番くじONLINE、一番くじ公式ショップ",
     "releaseDateTextJp": "2026年07月30日(木)より順次発売予定",
@@ -970,7 +970,7 @@
     "koreaReleaseDatePrecision": "day",
     "koreaReleaseDateText": "이치방쿠지 공식 직영점 공지: 8월 16일(일) 판매 개시합니다!",
     "koreaReleaseSourceUrl": "https://x.com/ICHIBAN_KUJI_/status/2088192971800023306",
-    "koreaReleaseCheckedAt": "2026-11-10T11:24:55+09:00",
+    "koreaReleaseCheckedAt": "2026-11-10T17:24:15+09:00",
     "koreaReleaseSourceType": "official",
     "koreaReleaseSourceName": "이치방쿠지 공식 직영점",
     "koreaReleaseDateKind": "release"
@@ -1240,7 +1240,7 @@
     "introducedRevision": 2,
     "franchiseCode": "ATTACK_ON_TITAN",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "ageJp": "15세 이상",
     "retailersJp": "一番くじ公式ショップ、一番くじONLINEなど",
     "releaseDateTextJp": "2026年08月05日(水)より順次発売予定",
@@ -1252,7 +1252,7 @@
     "koreaReleaseDatePrecision": "day",
     "koreaReleaseDateText": "이치방쿠지 공식 직영점 공지: 8월 29일(토) 판매 개시합니다!",
     "koreaReleaseSourceUrl": "https://x.com/ICHIBAN_KUJI_/status/2093315436645630121",
-    "koreaReleaseCheckedAt": "2026-11-10T11:24:55+09:00",
+    "koreaReleaseCheckedAt": "2026-11-10T17:24:15+09:00",
     "koreaReleaseSourceType": "official",
     "koreaReleaseSourceName": "이치방쿠지 공식 직영점",
     "koreaReleaseDateKind": "release"
@@ -1546,7 +1546,7 @@
     "introducedRevision": 2,
     "franchiseCode": "CHAINSAW_MAN",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "ageJp": "15세 이상",
     "retailersJp": "ローソン、ミニストップ、デイリーヤマザキ、その他コンビニエンスストア、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなど",
     "releaseDateTextJp": "2026年09月18日(金)より順次発売予定",
@@ -1558,7 +1558,7 @@
     "koreaReleaseDatePrecision": "day",
     "koreaReleaseDateText": "이치방쿠지 공식 직영점 공지: 10월 16일(금) 판매 개시합니다!",
     "koreaReleaseSourceUrl": "https://x.com/ICHIBAN_KUJI_/status/2110215146450866591",
-    "koreaReleaseCheckedAt": "2026-11-10T11:24:55+09:00",
+    "koreaReleaseCheckedAt": "2026-11-10T17:24:15+09:00",
     "koreaReleaseSourceType": "official",
     "koreaReleaseSourceName": "이치방쿠지 공식 직영점",
     "koreaReleaseDateKind": "release"
@@ -1882,7 +1882,7 @@
     "introducedRevision": 1,
     "franchiseCode": "DRAGON_BALL",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "ageJp": "15세 이상",
     "retailersJp": "ローソン、ミニストップ、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなど",
     "releaseDateTextJp": "2026年08月22日(土)より順次発売予定",
@@ -1894,7 +1894,7 @@
     "koreaReleaseDatePrecision": "day",
     "koreaReleaseDateText": "이치방쿠지 공식 직영점 공지: 9월 24일(목) 판매 개시합니다!",
     "koreaReleaseSourceUrl": "https://x.com/ICHIBAN_KUJI_/status/2102270576467521960",
-    "koreaReleaseCheckedAt": "2026-11-10T11:24:55+09:00",
+    "koreaReleaseCheckedAt": "2026-11-10T17:24:15+09:00",
     "koreaReleaseSourceType": "official",
     "koreaReleaseSourceName": "이치방쿠지 공식 직영점",
     "koreaReleaseDateKind": "release"
@@ -2178,7 +2178,7 @@
     "introducedRevision": 1,
     "franchiseCode": "ONE_PIECE",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "retailersJp": "セブン‐イレブン店舗、イトーヨーカドー店舗、ゆめタウン店舗、麦わらストアなど",
     "releaseDateTextJp": "2026年08月08日(土)より発売予定",
     "translationGenerated": [],
@@ -2190,7 +2190,7 @@
     "koreaReleaseDatePrecision": "day",
     "koreaReleaseDateText": "이치방쿠지 공식 직영점 공지: 8월 29일(토) 판매 개시합니다!",
     "koreaReleaseSourceUrl": "https://x.com/ICHIBAN_KUJI_/status/2093282869938651424",
-    "koreaReleaseCheckedAt": "2026-11-10T11:24:55+09:00",
+    "koreaReleaseCheckedAt": "2026-11-10T17:24:15+09:00",
     "koreaReleaseSourceType": "official",
     "koreaReleaseSourceName": "이치방쿠지 공식 직영점",
     "koreaReleaseDateKind": "release"
@@ -2458,7 +2458,7 @@
     "introducedRevision": 1,
     "franchiseCode": "NARUTO",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "retailersJp": "セブン‐イレブン店舗、イトーヨーカドー店舗、ゆめタウン店舗など",
     "releaseDateTextJp": "2026年06月26日(金)より発売予定",
     "translationGenerated": [],
@@ -2787,7 +2787,7 @@
     "introducedRevision": 1,
     "franchiseCode": "JUJUTSU_KAISEN",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "ageJp": "15세 이상",
     "retailersJp": "ファミリーマート、ミニストップ、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなど",
     "releaseDateTextJp": "2026年09月26日(土)より順次発売予定",
@@ -2799,7 +2799,7 @@
     "koreaReleaseDatePrecision": "day",
     "koreaReleaseDateText": "이치방쿠지 공식 직영점 공지: 10월 21일(수) 판매 개시합니다!",
     "koreaReleaseSourceUrl": "https://x.com/ICHIBAN_KUJI_/status/2112464678421184910",
-    "koreaReleaseCheckedAt": "2026-11-10T11:24:55+09:00",
+    "koreaReleaseCheckedAt": "2026-11-10T17:24:15+09:00",
     "koreaReleaseSourceType": "official",
     "koreaReleaseSourceName": "이치방쿠지 공식 직영점",
     "koreaReleaseDateKind": "release"
@@ -3086,7 +3086,7 @@
     "introducedRevision": 3,
     "franchiseCode": "DEATH_NOTE",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "ageJp": "15세 이상",
     "retailersJp": "ミニストップ、デイリーヤマザキ、その他コンビニエンスストア、書店、ホビーショップ、一番くじ公式ショップ、一番くじONLINEなど",
     "releaseDateTextJp": "2025年11月29日(土)より順次発売予定",
@@ -3386,7 +3386,7 @@
     "introducedRevision": 3,
     "franchiseCode": "BLEACH",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "retailersJp": "セブン‐イレブン店舗、イトーヨーカドー店舗、ゆめタウン店舗など",
     "releaseDateTextJp": "2026年09月19日(土)より発売予定",
     "translationGenerated": [],
@@ -3398,7 +3398,7 @@
     "koreaReleaseDatePrecision": "day",
     "koreaReleaseDateText": "이치방쿠지 공식 직영점 공지: 10월 16일(금) 판매 개시합니다!",
     "koreaReleaseSourceUrl": "https://x.com/ICHIBAN_KUJI_/status/2110214375973994582",
-    "koreaReleaseCheckedAt": "2026-11-10T11:24:55+09:00",
+    "koreaReleaseCheckedAt": "2026-11-10T17:24:15+09:00",
     "koreaReleaseSourceType": "official",
     "koreaReleaseSourceName": "이치방쿠지 공식 직영점",
     "koreaReleaseDateKind": "release"
@@ -3706,7 +3706,7 @@
     "introducedRevision": 3,
     "franchiseCode": "HAIKYU",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "ageJp": "15세 이상",
     "retailersJp": "ローソン、一番くじ公式ショップ、一番くじONLINEなど",
     "releaseDateTextJp": "2026年08月15日(土)より順次発売予定",
@@ -3718,7 +3718,7 @@
     "koreaReleaseDatePrecision": "day",
     "koreaReleaseDateText": "이치방쿠지 공식 직영점 공지: 9월 24일(목) 판매 개시합니다!",
     "koreaReleaseSourceUrl": "https://x.com/ICHIBAN_KUJI_/status/2102267037133472090",
-    "koreaReleaseCheckedAt": "2026-11-10T11:24:55+09:00",
+    "koreaReleaseCheckedAt": "2026-11-10T17:24:15+09:00",
     "koreaReleaseSourceType": "official",
     "koreaReleaseSourceName": "이치방쿠지 공식 직영점",
     "koreaReleaseDateKind": "release"
@@ -4070,7 +4070,7 @@
     "introducedRevision": 3,
     "franchiseCode": "DRAGON_BALL",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "retailersJp": "セブン‐イレブン店舗、イトーヨーカドー店舗、ゆめタウン店舗、DRAGON BALL STORE TOKYOなど",
     "releaseDateTextJp": "2026年10月17日(土)より発売予定",
     "translationGenerated": [],
@@ -4405,7 +4405,7 @@
     "introducedRevision": 3,
     "franchiseCode": "ATTACK_ON_TITAN",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "retailersJp": "ローソン、一番くじ公式ショップ、一番くじONLINEなど",
     "releaseDateTextJp": "2026年10月24日(土)より順次発売予定",
     "translationGenerated": [],
@@ -4417,7 +4417,7 @@
     "koreaReleaseDatePrecision": "day",
     "koreaReleaseDateText": "이치방쿠지 공식 직영점 공지: 10월 30일(금) 판매 개시합니다!",
     "koreaReleaseSourceUrl": "https://x.com/ICHIBAN_KUJI_/status/2115728363193340045",
-    "koreaReleaseCheckedAt": "2026-11-10T11:24:55+09:00",
+    "koreaReleaseCheckedAt": "2026-11-10T17:24:15+09:00",
     "koreaReleaseSourceType": "official",
     "koreaReleaseSourceName": "이치방쿠지 공식 직영점",
     "koreaReleaseDateKind": "release"
@@ -4690,7 +4690,7 @@
     "introducedRevision": 3,
     "franchiseCode": "NARUTO",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "retailersJp": "一番くじONLINE、一番くじ公式ショップ",
     "releaseDateTextJp": "2026年10月26日(月)より順次発売予定",
     "translationGenerated": [],
@@ -5016,7 +5016,7 @@
     "introducedRevision": 3,
     "franchiseCode": "ONE_PIECE",
     "sampleAllocationMethod": "equal-80-demo",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "retailersJp": "一番くじONLINE、一番くじ公式ショップ、麦わらストアなど",
     "releaseDateTextJp": "2026年10月29日(木)より順次発売予定",
     "translationGenerated": [],
@@ -5162,7 +5162,7 @@
     "sampleAllocationMethod": "equal-80-demo",
     "retailers": "패밀리마트、미니스톱、데일리 야마자키、서점、하비숍、제일복권 공식 매장、제일복권 온라인등",
     "age": "",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "releaseDateTextJp": "2027年01月16日(土)より順次発売予定",
     "translationGenerated": [],
     "translationPending": false,
@@ -5216,7 +5216,7 @@
     "age": "",
     "copyright": "©吾峠呼世晴/集英社・アニプレックス・ufotable",
     "checkedAt": "2026-11-10",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -5297,7 +5297,7 @@
     "age": "",
     "copyright": "©芥見下々/集英社・呪術廻戦製作委員会",
     "checkedAt": "2026-11-10",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "prizes": [],
     "gallery": [],
     "introducedRevision": 4,
@@ -5350,7 +5350,7 @@
     "age": "",
     "copyright": "©P1998-2027 ©V・N・M",
     "checkedAt": "2026-11-10",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "prizes": [],
     "gallery": [
       {
@@ -5420,7 +5420,7 @@
     "age": "",
     "copyright": "©尾田栄一郎/集英社・フジテレビ・東映アニメーション",
     "checkedAt": "2026-11-10",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -5736,7 +5736,7 @@
     "age": "",
     "copyright": "©P1998-2026 ©V・N・M",
     "checkedAt": "2026-11-10",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -6098,7 +6098,7 @@
     "age": "",
     "copyright": "©バード・スタジオ/集英社・東映アニメーション",
     "checkedAt": "2026-11-10",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -6416,7 +6416,7 @@
     "age": "",
     "copyright": "©堀越耕平/集英社・僕のヒーローアカデミア製作委員会",
     "checkedAt": "2026-11-10",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -6732,7 +6732,7 @@
     "age": "",
     "copyright": "©尾田栄一郎/集英社・フジテレビ・東映アニメーション",
     "checkedAt": "2026-11-10",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -6881,7 +6881,7 @@
     "age": "",
     "copyright": "©バード・スタジオ/集英社・東映アニメーション",
     "checkedAt": "2026-11-10",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "prizes": [],
     "gallery": [],
     "introducedRevision": 4,
@@ -6934,7 +6934,7 @@
     "age": "",
     "copyright": "©尾田栄一郎/集英社・フジテレビ・東映アニメーション",
     "checkedAt": "2026-11-10",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -7083,7 +7083,7 @@
     "age": "",
     "copyright": "©バード・スタジオ/集英社・東映アニメーション",
     "checkedAt": "2026-11-10",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -7256,7 +7256,7 @@
     "age": "",
     "copyright": "©堀越耕平/集英社・僕のヒーローアカデミア製作委員会",
     "checkedAt": "2026-11-10",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -7428,7 +7428,7 @@
     "ageJp": "",
     "copyright": "C真島ヒロ/講談社",
     "checkedAt": "2026-11-10",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -7659,7 +7659,7 @@
     "koreaReleaseDatePrecision": "day",
     "koreaReleaseDateText": "더쿠하우스 국전점 공지: 판매 개시: 📅 29일(목) ⏰ [오후 2시부터]",
     "koreaReleaseSourceUrl": "https://www.instagram.com/p/DfByAgDks3m/",
-    "koreaReleaseCheckedAt": "2026-11-10T11:24:55+09:00",
+    "koreaReleaseCheckedAt": "2026-11-10T17:24:15+09:00",
     "koreaReleaseSourceType": "retailer",
     "koreaReleaseSourceName": "더쿠하우스 국전점",
     "koreaReleaseDateKind": "release"
@@ -7697,7 +7697,7 @@
     "ageJp": "",
     "copyright": "©荒木飛呂彦&LUCKY LAND COMMUNICATIONS/集英社・ジョジョの奇妙な冒険THE ANIMATION PROJECT",
     "checkedAt": "2026-11-10",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -8070,7 +8070,7 @@
     "ageJp": "",
     "copyright": "©2026 劇場版「薬屋のひとりごと」製作委員会 ©日向夏・イマジカインフォス",
     "checkedAt": "2026-11-10",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -8378,7 +8378,7 @@
     "ageJp": "",
     "copyright": "©khara",
     "checkedAt": "2026-11-10",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -8674,7 +8674,7 @@
     "ageJp": "",
     "copyright": "©古舘春一/集英社・「ハイキュー!!」製作委員会",
     "checkedAt": "2026-11-10",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "prizes": [],
     "gallery": [],
     "introducedRevision": 4,
@@ -8734,7 +8734,7 @@
     "ageJp": "",
     "copyright": "©岸本斉史 スコット/集英社・テレビ東京・ぴえろ",
     "checkedAt": "2026-11-10",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -8902,7 +8902,7 @@
     "ageJp": "",
     "copyright": "©P1998-2027 ©V・N・M",
     "checkedAt": "2026-11-10",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -9095,7 +9095,7 @@
     "ageJp": "",
     "copyright": "©バード・スタジオ/集英社・東映アニメーション",
     "checkedAt": "2026-11-10",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "prizes": [
       {
         "letter": "A",
@@ -9253,7 +9253,7 @@
     "ageJp": "",
     "copyright": "©荒木飛呂彦&LUCKY LAND COMMUNICATIONS/集英社・ジョジョの奇妙な冒険THE ANIMATION PROJECT",
     "checkedAt": "2026-11-10",
-    "lastSyncedAt": "2026-11-10T11:24:13+09:00",
+    "lastSyncedAt": "2026-11-10T17:23:26+09:00",
     "prizes": [
       {
         "letter": "A",
