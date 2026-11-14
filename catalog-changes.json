@@ -1,8 +1,38 @@
 {
   "version": 1,
   "startedAt": "2026-11-02T17:27:34+09:00",
-  "updatedAt": "2026-11-09T16:56:15+09:00",
+  "updatedAt": "2026-11-14T10:04:24+09:00",
   "events": [
+    {
+      "id": "2ca9b42cff54f0cfe0e5245b",
+      "transition": "2ca9b42cff54f0cfe0e5245b",
+      "at": "2026-11-14T10:04:24+09:00",
+      "code": "AUTO_ONEP105_652A8064D9",
+      "type": "japan-released",
+      "titleKo": "제일복권 원피스～동물 대집합!～",
+      "titleJp": "一番くじ ワンピース～あにまる大集合！～",
+      "franchiseKo": "원피스",
+      "summary": "일본 발매일이 되어 발매중으로 전환됐습니다.",
+      "before": "발매예정 · 2026.11.14",
+      "after": "발매중 · 2026.11.14",
+      "sourceUrl": "https://1kuji.com/products/onep105",
+      "sequence": 18
+    },
+    {
+      "id": "52618cc296a73f991d16d0ee",
+      "transition": "52618cc296a73f991d16d0ee",
+      "at": "2026-11-14T10:04:24+09:00",
+      "code": "AUTO_HXH8_2_FF575C1199",
+      "type": "japan-released",
+      "titleKo": "제일복권 헌터×헌터 키메라 앤트 ②（재판매）",
+      "titleJp": "一番くじ HUNTER×HUNTER CHMERA ANT ②（再販売）",
+      "franchiseKo": "헌터×헌터",
+      "summary": "일본 발매일이 되어 발매중으로 전환됐습니다.",
+      "before": "발매예정 · 2026.11.14",
+      "after": "발매중 · 2026.11.14",
+      "sourceUrl": "https://1kuji.com/products/hxh8_2",
+      "sequence": 17
+    },
     {
       "id": "2c2721ed010a7d500994183c",
       "transition": "2c2721ed010a7d500994183c",
