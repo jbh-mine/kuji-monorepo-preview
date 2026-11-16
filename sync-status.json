@@ -1,13 +1,13 @@
 {
-  "checkedAt": "2026-11-15T16:48:59+09:00",
-  "lastSuccessAt": "2026-11-15T16:48:59+09:00",
+  "checkedAt": "2026-11-16T10:03:31+09:00",
+  "lastSuccessAt": "2026-11-16T10:03:31+09:00",
   "status": "partial",
   "checked": 38,
   "released": 19,
   "upcoming": 19,
   "added": 0,
   "updated": 0,
-  "failed": 3,
+  "failed": 2,
   "errors": [],
   "discovery": {
     "checkedPages": 6,
@@ -21,18 +21,13 @@
   },
   "korea": {
     "status": "failed",
-    "checkedAt": "2026-11-15T16:49:43+09:00",
+    "checkedAt": "2026-11-16T10:04:16+09:00",
     "lastSuccessAt": "2026-11-06T10:04:35+09:00",
     "confirmed": 15,
     "unconfirmed": 23,
     "checked": 15,
-    "failed": 3,
+    "failed": 2,
     "errors": [
-      {
-        "stage": "retailer",
-        "code": "unverified_instagram_author",
-        "sourceUrl": "https://www.instagram.com/p/DfBxN92ksf7/"
-      },
       {
         "stage": "retailer",
         "code": "unverified_instagram_author",
