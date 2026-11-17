@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-11-16T16:57:05+09:00",
-  "lastSuccessAt": "2026-11-16T16:57:05+09:00",
+  "checkedAt": "2026-11-17T11:37:41+09:00",
+  "lastSuccessAt": "2026-11-17T11:37:41+09:00",
   "status": "partial",
   "checked": 38,
   "released": 19,
@@ -21,7 +21,7 @@
   },
   "korea": {
     "status": "failed",
-    "checkedAt": "2026-11-16T16:57:40+09:00",
+    "checkedAt": "2026-11-17T11:38:17+09:00",
     "lastSuccessAt": "2026-11-06T10:04:35+09:00",
     "confirmed": 15,
     "unconfirmed": 23,
