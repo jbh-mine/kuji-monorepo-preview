@@ -1,8 +1,23 @@
 {
   "version": 1,
   "startedAt": "2026-11-02T17:27:34+09:00",
-  "updatedAt": "2026-11-18T10:53:18+09:00",
+  "updatedAt": "2026-11-19T17:45:13+09:00",
   "events": [
+    {
+      "id": "f99daf8a40b39a35a2db40a0",
+      "transition": "f99daf8a40b39a35a2db40a0",
+      "at": "2026-11-19T17:45:13+09:00",
+      "code": "AUTO_DB_FA3_FFFF89190D",
+      "type": "details",
+      "titleKo": "제일복권 드래곤볼 판타스틱 어드벤처 3",
+      "titleJp": "一番くじ ドラゴンボール Fantastic Adventure 3",
+      "franchiseKo": "드래곤볼",
+      "summary": "포스터·경품 이미지 또는 상품 설명이 갱신됐습니다.",
+      "before": "",
+      "after": "상품·경품 정보 갱신",
+      "sourceUrl": "https://1kuji.com/products/db_fa3",
+      "sequence": 20
+    },
     {
       "id": "670b968b90bf0f21ab767674",
       "transition": "9427e430c8100caf90768dbc",
