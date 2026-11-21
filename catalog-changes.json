@@ -1,8 +1,23 @@
 {
   "version": 1,
   "startedAt": "2026-11-02T17:27:34+09:00",
-  "updatedAt": "2026-11-19T17:45:13+09:00",
+  "updatedAt": "2026-11-21T10:04:16+09:00",
   "events": [
+    {
+      "id": "d40f9d695654e45eba2ffa85",
+      "transition": "d40f9d695654e45eba2ffa85",
+      "at": "2026-11-21T10:04:16+09:00",
+      "code": "AUTO_JOJO_26_BFE4EC76DB",
+      "type": "japan-released",
+      "titleKo": "제일복권 죠죠의 기묘한 모험 라이벌들의 집결",
+      "titleJp": "一番くじ ジョジョの奇妙な冒険 The Gathering of RIVALS",
+      "franchiseKo": "죠죠의 기묘한 모험",
+      "summary": "일본 발매일이 되어 발매중으로 전환됐습니다.",
+      "before": "발매예정 · 2026.11.21",
+      "after": "발매중 · 2026.11.21",
+      "sourceUrl": "https://1kuji.com/products/jojo_26",
+      "sequence": 21
+    },
     {
       "id": "f99daf8a40b39a35a2db40a0",
       "transition": "f99daf8a40b39a35a2db40a0",
