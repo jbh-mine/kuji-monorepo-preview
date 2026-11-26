@@ -1,8 +1,23 @@
 {
   "version": 1,
   "startedAt": "2026-11-02T17:27:34+09:00",
-  "updatedAt": "2026-11-21T10:04:16+09:00",
+  "updatedAt": "2026-11-26T18:30:14+09:00",
   "events": [
+    {
+      "id": "162bdb63ef31fbd456b34162",
+      "transition": "162bdb63ef31fbd456b34162",
+      "at": "2026-11-26T18:30:14+09:00",
+      "code": "AUTO_KUSURIYA2_5091F286DE",
+      "type": "details",
+      "titleKo": "제일복권 『극장판 약사의 혼잣말 망비의 비보』",
+      "titleJp": "一番くじ 『劇場版 薬屋のひとりごと 亡妃の秘宝』",
+      "franchiseKo": "약사의 혼잣말",
+      "summary": "포스터·경품 이미지 또는 상품 설명이 갱신됐습니다.",
+      "before": "",
+      "after": "상품·경품 정보 갱신",
+      "sourceUrl": "https://1kuji.com/products/kusuriya2",
+      "sequence": 22
+    },
     {
       "id": "d40f9d695654e45eba2ffa85",
       "transition": "d40f9d695654e45eba2ffa85",
