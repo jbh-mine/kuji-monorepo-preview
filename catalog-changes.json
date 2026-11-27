@@ -1,8 +1,23 @@
 {
   "version": 1,
   "startedAt": "2026-11-02T17:27:34+09:00",
-  "updatedAt": "2026-11-26T18:30:14+09:00",
+  "updatedAt": "2026-11-27T18:40:09+09:00",
   "events": [
+    {
+      "id": "6821c4c852a28d148c5c0d5f",
+      "transition": "6da11b9ee3b4c962031968de",
+      "at": "2026-11-27T18:40:09+09:00",
+      "code": "AUTO_MYHERO48_BBBA72A638",
+      "type": "details",
+      "titleKo": "제일복권 나의 히어로 아카데미아 -그녀들의 이야기-",
+      "titleJp": "一番くじ 僕のヒーローアカデミア -彼女たちの物語-",
+      "franchiseKo": "나의 히어로 아카데미아",
+      "summary": "포스터·경품 이미지 또는 상품 설명이 갱신됐습니다.",
+      "before": "",
+      "after": "상품·경품 정보 갱신",
+      "sourceUrl": "https://1kuji.com/products/myhero48",
+      "sequence": 23
+    },
     {
       "id": "162bdb63ef31fbd456b34162",
       "transition": "162bdb63ef31fbd456b34162",
