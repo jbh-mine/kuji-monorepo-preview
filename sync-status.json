@@ -1,10 +1,10 @@
 {
-  "checkedAt": "2026-11-27T18:39:14+09:00",
-  "lastSuccessAt": "2026-11-27T18:39:14+09:00",
+  "checkedAt": "2026-11-28T11:10:09+09:00",
+  "lastSuccessAt": "2026-11-28T11:10:09+09:00",
   "status": "partial",
   "checked": 38,
-  "released": 20,
-  "upcoming": 18,
+  "released": 21,
+  "upcoming": 17,
   "added": 0,
   "updated": 1,
   "failed": 2,
@@ -21,7 +21,7 @@
   },
   "korea": {
     "status": "failed",
-    "checkedAt": "2026-11-27T18:40:06+09:00",
+    "checkedAt": "2026-11-28T11:10:53+09:00",
     "lastSuccessAt": "2026-11-06T10:04:35+09:00",
     "confirmed": 15,
     "unconfirmed": 23,
